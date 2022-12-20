@@ -16,7 +16,7 @@ Andrew Jordan Greenlee</br> Associate Professor</br> Department of Urban and Reg
 :::
 :::
 
-CV ([PDF](GreenleeCV.pdf))
+Curriculum Vitae [{{< fa regular file-pdf >}}](GreenleeCV.pdf)
 
 ## Education
 
