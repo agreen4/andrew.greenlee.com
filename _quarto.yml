@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Andrew J. Greenlee, Ph.D."
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about/about.qmd
+      - href: lab/lab.qmd
+        text: Housing Lab
+      - classes/classes.qmd
+      - impact/impact.qmd
+      - href: CV/CV.qmd
+        text: CV
+      - consulting/consulting.qmd
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,34 @@
+---
+title: "About"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+::: grid
+::: g-col-6
+![](greenlee.jpg){fig-alt="A photograph of Andrew Greenlee"}
+:::
+
+::: g-col-6
+I'm an Associate Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu). I teach and research at the intersection of housing policy, neighborhood change, and social equity in cities.
+
+My research uses housing and residential mobility as a way to explore a range of deeper questions about our cities including health, equity, and governance of change. As an urban planner, I use a range of methods - both qualitative and quantitative - to explore these issues, oftentimes in partnership with community partners, insittutional stakeholders, and researchers from other disciplines. My goal is to tell vivid stories about cities that have the power to transform how we plan and who we plan for.
+
+I became a housing policy researcher due in part to my experience growing up in Chicago. Growing up, I observed the ways in which housing contributed to segregation and uneven development. I became an urban planner with the goal of addressing these types of issues, and focused my practice on housing and community development. I chose to become an academic researcher in order to bring new perspective and influence to our understanding of housing and neighborhoods.
+
+As an undergraduate student at [Grinnell College](https://www.grinnell.edu), I double majored in English and Sociology. I then got a Master's degree in Urban and Regional Planning at [University of Iowa](https://sppa.uiowa.edu) and a Ph.D. in Urban Planning and Policy at [University of Illinois at Chicago](https://cuppa.uic.edu/academics/upp/) (UIC). While at UIC, I was an Abraham Lincoln Fellow and also worked for the [Nathalie P. Voorhees Center for Neighborhood and Community Improvement](https://voorheescenter.uic.edu).
+
+At University of Illinois, I run the [Illinois Housing Lab](../lab/lab.qmd), and am a faculty affiliate of the [Center for Social and Behavioral Sciences](https://csbs.research.illinois.edu) and the [Institute of Government and Public Affairs](https://igpa.uillinois.edu/andrew-greenlee/). In the Department of Urban and Regional Planning, I serve as the Director of Admissions for the [Master of Urban Planning](https://urban.illinois.edu/programs-applying/master-urban-planning/) program, the faculty leader for the undergraduate and graduate Community Development for Social Justice concentrations, and have recently served as the Associate Head of the department.
+
+I am on sabbatical in Fall, 2022, and will return to normal duties in January 2023.
+:::
+:::
+
+### Headshot and Bio
+
+[Headshot](greenlee.jpg)</br> 
+[Biographical Statement](Greenlee%20Bio.docx)</br> 
+Curriculum Vitae [HTML](../CV/CV.qmd) \| [PDF](../CV/GreenleeCV.pdf)</br>
+[Google Scholar](https://scholar.google.com/citations?user=PUW7M-oAAAAJ&hl=en)

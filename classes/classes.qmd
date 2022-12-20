@@ -1,0 +1,31 @@
+---
+title: "Classes"
+format:
+  html:
+    page-layout: full
+    toc: false
+---
+
+## Spring 2023
+### UP 473 Housing and Urban Policy
+[Course Website](classes.qmd)
+
+### UP 570 Neighborhood Analysis
+[Course Website](https://up570s23.netlify.app)
+
+## Fall 2022
+On sabbatical
+
+## Spring 2022
+### UP 473 Housing and Urban Policy
+[Course Website](https://housingandurbanpolicy-s22.netlify.app)
+
+## Fall 2021
+### UP 101 Introduction to City Planning
+### UP 494-AG Neighborhood Analysis
+[Course Website](https://neighborhood-analysis-f21.netlify.app)
+
+## Spring 2021
+### UP 494-AG Neighborhood Analysis
+[Course Website](https://neighborhood-analysis-s21.netlify.app)
+

@@ -1,0 +1,1047 @@
+---
+title: "Curriculum Vitae"
+editor: visual
+format:
+  html:
+    page-layout: full
+---
+
+::: grid
+::: g-col-6
+Andrew Jordan Greenlee</br> Associate Professor</br> Department of Urban and Regional Planning</br> College of Fine and Applied Arts</br> University of Illinois at Urbana-Champaign</br>
+:::
+
+::: g-col-6
+111 Temple Buell Hall, MC-619</br> 611 Lorado Taft Drive</br> Champaign, IL 61820</br> [agreen4\@illinois.edu](mailto:%20agreen4@illinois.edu)
+:::
+:::
+
+CV ([PDF](GreenleeCV.pdf))
+
+## Education
+
+::: grid
+::: g-col-3
+8/2006 -- 4/2012
+:::
+
+::: g-col-9
+Ph.D. in Urban Planning and Policy, University of Illinois at Chicago</br> Dissertation: *A Relational Analysis of Mobility in Illinois' Housing Choice Voucher Program* [{{< fa solid arrow-up-right-from-square >}}](https://indigo.uic.edu/articles/thesis/A_Relational_Analysis_of_Mobility_Within_Illinois_Housing_Choice_Voucher_Program/10899371/1)
+:::
+
+::: g-col-3
+8/2004 - 5/2006
+:::
+
+::: g-col-9
+Master of Science in Urban and Regional Planning, The University of Iowa</br> Master's Project: *The Height of Good Living 2035: A Comprehensive Plan for The City of University Heights, Iowa* [{{< fa solid arrow-up-right-from-square >}}](https://iro.uiowa.edu/esploro/outputs/report/City-of-University-Heights--The/9983762081502771)
+:::
+
+::: g-col-3
+8/2000 -- 6/2004
+:::
+
+::: g-col-9
+Bachelor of Arts in English and Sociology, Grinnell College
+:::
+:::
+
+## Professional Experience
+
+::: grid
+::: g-col-3
+2019 -- Present
+:::
+
+::: g-col-9
+*Associate Professor*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+
+::: g-col-3
+2021 -- Present
+:::
+
+::: g-col-9
+*Affiliate*, Center for Social and Behavioral Science, University of Illinois at Urbana-Champaign
+:::
+
+::: g-col-3
+2021 -- Present
+:::
+
+::: g-col-9
+*Affiliate*, Institute for Government and Public Affairs, University of Illinois System
+:::
+
+::: g-col-3
+2021 -- 2022
+:::
+
+::: g-col-9
+*Associate Head*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+
+::: g-col-3
+2016 - 2019
+:::
+
+::: g-col-9
+*Assistant Professor, Tschangho John Kim Scholar in Urban and Regional Systems*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+
+::: g-col-3
+2012 -- 2016
+:::
+
+::: g-col-9
+*Assistant Professor*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+
+::: g-col-3
+2011 -- 2012
+:::
+
+::: g-col-9
+*Lecturer*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+
+::: g-col-3
+2007 -- 2011
+:::
+
+::: g-col-9
+*Research Assistant*, Nathalie P. Voorhees Center, University of Illinois at Chicago
+:::
+:::
+
+## Grants and Funded Research
+
+1.  PI, Greenlee, Andrew. Measuring Neighborhood-Level Affordable Housing Dynamics in the Boston Region ([MIT Healthy Neighborhoods Study](https://hns.mit.edu), \$24,662) 2023.
+
+2.  Co-PI, Greenlee, Andrew and Sharon Legenza. A Multi-Stakeholder Evaluation of the Residential Housing Code Enforcement Ecosystem in Illinois ([Institute for Government and Public Affairs Research Scholar Initiative](https://igpa.uillinois.edu/research-scholar-initiatives/), \$40,801) 2023-2024.
+
+3.  Co-PI, Greenlee, Andrew and Sharon Legenza. Protecting Tenants, Landlords, or Places? The Ecology of Rental Housing Regulation in Illinois. ([Robert Wood Johnson Foundation Policies for Action](https://policiesforaction.org/project/protecting-tenants-landlords-or-places-ecology-rental-housing-regulation-illinois), \$250,357) 2021- 2023.
+
+4.  Co-PI, Greenlee, Andrew and Daniel Schneider. Building Tenant-Based Capacity to Address Bed Bug Infestations in Low-Income Housing. ([Chancellor's Call to Action to Address Racism & Social Injustice Research Program](https://diversity.illinois.edu/antiracism-initiatives/research-program/funded-projects-2022/), \$74,973). 2022-2023.
+
+5.  Co-PI, Greenlee, Andrew, Magdalena Novoa, and Jennifer Novak-Leonard. Informing and Enabling Illinois Arts Ecosystems. ([University of Illinois System Presidential Initiative: Expanding the Impact of the Arts and the Humanities](https://www.vpaa.uillinois.edu/academic_affairs_programs/initiative_arts_humanities), \$164,000) 2021-2023.
+
+6.  Co-PI, Greenlee, Andrew and Jennifer Novak-Leonard. Central Illinois' Cultural Assets: Mapping Resources, People, and Meaning to Propel Community and Economic Vitality. ([University of Illinois Extension](https://extension.illinois.edu/global/extension-funded-research-projects), \$60,000). 2021 -- 2023.
+
+7.  PI, Greenlee, Andrew. Geospatial Fellow For Advancing COVID-19 Research and Education, Geospatial Software Institute, 2020-2021, \$5,000.
+
+8.  Co-PI, Greenlee, Andrew and Daniel Schneider. The Socio-Spatial Ecology of Poverty and Bedbugs in Subsidized Housing. (UIUC Center for Social and Behavioral Science, \$19,465) 2020-2022.
+
+9.  Co-PI, Layser, Michelle and Andrew Greenlee. Evaluating the Impact of Place-Based Investment Tax Incentives on Community Infrastructure. (UIUC Campus Research Board, \$25,765) 2019-2022.
+
+10. Co-PI, Lyons, Angela and Andrew Greenlee. Financial Inclusion and Economic Resilience of Syrian Refugees: Evidence from Lebanon. (UIUC Migration and Refugees in Regional and Global Perspectives Initiative, \$50,000) 2019-2021.
+
+11. PI, Greenlee, Andrew. Moving to Opportunity? Residential Mobility and the Geography of Opportunity. (College of Fine and Applied Arts Strategic Research Initiative, \$12,000) 2016 -- 2017.
+
+12. Co-PI, Kramer, Karen, Andrew Greenlee, and Flavia Andrade. Testing the Benefits of Earned-Income Tax Credit Periodic Payments. (UIUC Campus Research Board, \$19,229) 2015 -- 2016.
+
+13. Co-PI, Cutts, Bethany, and Andrew Greenlee. Voices of Change: Community Perspectives on Just Sustainability (UIUC Campus Research Board, \$26,723). 2015-2016.
+
+14. Researcher, Edwards, Mary, Lynne Dearborn, William Sullivan, Brad Tober, Eric Benson, Andrew Greenlee, Lora Kathleen Brown, Earl Allen, Kevin Hamilton. Planning and Designing for a Healthy Environment in Central Illinois (University of Illinois Extension and Outreach Initiative, \$124,525) Fall 2015 -- Fall 2017.
+
+15. Co-PI, Cutts, Bethany, Andrew Greenlee. Urban Environmental Equity Focal Point, Focal Point Grant, 2014-2015, \$11,600.
+
+16. PI Greenlee, Andrew. After the Fall: The Housing Careers of CHA Plan for Transformation Relocatees. (UIUC Campus Research Board \$27,627) March 2014- September 2015
+
+17. PI, Greenlee, Andrew. Forced Out? Measuring the household impacts of forced displacement in Champaign County. (FAA Creative Research Award, \$7,000) January 2014 -- August 2014
+
+18. Co-PI, Cutts, Bethany, Andrew Greenlee, Mapping Vulnerabilities in EPA-Designated Areas of Concern (Illinois-Indiana Sea Grant, \$69,983) 2013-2014.
+
+19. Co-PI, Habitat for Humanity of Champaign County, City of Champaign Neighborhood Services Department, City of Urbana Community Development Services Department, Busey Bank, Hickory Point Bank, Community Reinvestment Group, Novadebt, Education for Employment System #330, Land of Lincoln Legal Assistance Foundation, University of Illinois Community Preservation Clinic, Andrew J. Greenlee, Prosperity Gardens (Illinois Attorney General's National Foreclosure Settlement Award, \$15,000 PI request / \$3,146,762 grant total)
+
+20. Co-PI, Mendenhall, Ruby, Christopher Larrison, Lizanne DeStefano, Ilana Redstone Akresh, Karen Kramer, Andrew Greenlee, Flavia Andrade, Kevin Franklin. Evaluation of Chicago EITC Periodic Payment Pilot (City of Chicago and Center for Economic Progress, \$145,922) 2014-2016
+
+21. PI, Greenlee, Andrew. Landlord Perspectives on the Housing Choice Voucher Program (FAA Creative Research Award, \$8,214) January 2013 -- August 2013
+
+22. PI, Greenlee, Andrew J. Course Development Grant. Action Research Illinois. 12/11 -- 12/12. \$2,000.
+
+23. PI, Greenlee, Andrew J. A Relational Analysis of Mobility in Illinois' Housing Choice Voucher Program. (U.S. Department of Housing and Urban Development, Office of University Partnerships, \$25,000) 8/09 -- 12/10
+
+24. PI, Greenlee, Andrew J. A Relational Analysis of Porting in Illinois' Housing Choice Voucher Program. (Department of Housing and Urban Development, Office of University Partnerships, \$11,000) 8/08 -- 8/09
+
+## Publications
+
+### Peer Reviewed Journal Articles
+
+1.  Cutts, Bethany B., Andrew J. Greenlee, and Carolina V. Chantrill. 2022. Coupling Ecosystem-Centered Governance Modes with Environmental Justice. *Frontiers in Sustainable Cities* (Forthcoming). [{{< fa solid arrow-up-right-from-square >}}](https://www.frontiersin.org/articles/10.3389/frsc.2022.826326/full)
+
+2.  Hacker, Kathryn P., Andrew J. Greenlee, Alison L. Hill, Daniel Schneider, and Michael Z. Levy. 2022. Spatiotemporal Trends in Bed Bug Metrics: New York City. *Plos One* 17(5): e0268798. [{{< fa solid arrow-up-right-from-square >}}](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268798)
+
+3.  Balachandran, Sowmya, and Andrew J. Greenlee. 2022. Examining Spatial Opportunity for Local Action: From Theory to Practice. *Journal of Planning Education and Research*, Available Online. [{{< fa solid arrow-up-right-from-square >}}](https://journals.sagepub.com/doi/abs/10.1177/0739456X221088984?journalCode=jpea)
+
+4.  Yang, Tianren, Haozhi Pan, Andrew J. Greenlee, and Brian Deal. How Neighborhood Conditions and Policy Incentives Affect Relocation outcomes of Households from Low-Income Neighborhoods -- Evidence from Intra-City Movement Trajectories. *Cities*, 119: 103415. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0264275121003140)
+
+5.  DeBray, Elizabeth, Kara S. Finnigan, Andrew J. Greenlee and Heidy Kurniawan. Tackling School and Housing Segregation Through Revisions to AFFH. *Poverty & Race*, vol. 30 no 3. (October -- December 2021). [{{< fa solid arrow-up-right-from-square >}}](http://www.prrac.org/newsletters/oct-dec2021.pdf)
+
+6.  Keep, Miriam, Bernadette Montanari, and Andrew J. Greenlee. 2021. Contesting 'inclusive' development: Reactions to Slum Resettlement as Social Inclusion in Tamesna, Morocco. *Cities*, 118: 103328. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0264275121002286)
+
+7.  Finnigan, Kara, Elizabeth DeBray, Andrew J. Greenlee, Megan Haberle, and Heidi Kurniawan. Using Fair Housing Planning as a Tool to Address Schooling Inequities. *Education Law & Policy Review*, vol. 6 (September 2021). [{{< fa solid arrow-up-right-from-square >}}](https://prrac.org/pdf/using-fair-housing-planning-as-a-tool-to-address-schooling-inequities-ed-law-policy-review-v6.pdf)
+
+8.  Wang, Yuyuan, Bumsoo Lee, and Andrew J. Greenlee. 2021. The Role of Smart Growth in Residential Location Choice: Heterogeneity of Location Preferences in the Chicago Region. *Journal of Planning Education and Research*, Available Online. [{{< fa solid arrow-up-right-from-square >}}](https://journals.sagepub.com/doi/abs/10.1177/0739456X211017652))
+
+9.  Nande, Anjalika, Justin Sheen, Emma Walters, Brennan Klein, Matteo Chinazzi, Andrei Gheorghe, Ben Adlam, Julianna Shinnick, Maria Florencia Tejeda, Samuel V. Scarpino, Alessandro Vespignani, Andrew J. Greenlee, Daniel Schneider, Michael Z. Levy, Alison L. Hill. 2021. The Effect of Eviction Moratoria on the Transmission of SARS-CoV-2. *Nature Communications*, 12(2274): 1-13. [{{< fa solid arrow-up-right-from-square >}}](https://www.nature.com/articles/s41467-021-22521-5)
+
+10. Contreras, Sergio, and Andrew J. Greenlee. 2021. Evaluating the Effectiveness of ChileCompra's Entrepreneurship Centers Policy. *Regional Science Policy & Practice*, 13(4): 1262-1282. \[{{< fa solid arrow-up-right-from-square >}}\]((https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12408?af=R)
+
+11. Lopez Ochoa, Esteban, Dwayne Baker, and Andrew J. Greenlee. 2021. Transit Development and Housing Displacement: The Case of the Chicago Red Line Extension. *Cities*, 115: 103212. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0264275121001104)
+
+12. Layser, Michelle D., Edward W. De Barbieri, Andrew J. Greenlee, Tracy A. Kaye, Blaine G. Saito. 2021. Mitigating Housing Instability During a Pandemic. *Oregon Law Review*, 99: 445 -- 522. [{{< fa solid arrow-up-right-from-square >}}](https://scholarsbank.uoregon.edu/xmlui/bitstream/handle/1794/26238/5.%20Layser_4.18.21.pdf?sequence=1)
+
+13. Lee, M. J., Rittschof, C. C., Greenlee, A. J., Turi, K. N., Rodriguez-Zas, S. L., Robinson, G. E., Mendenhall, R. 2021. Transcriptomic analyses of black women in neighborhoods with high levels of violence. *Psychoneuroendocrinology*, 127, 105174. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0306453021000482?via%3Dihub)
+
+14. García, I., Jackson, A., Greenlee, A. J., Yerena, A., Chrisinger, B., & Lee, C. A. 2021. Feeling Like an "Odd Duck" The Experiences of African American/Black and Hispanic/Latin/o/a/x Planning Practitioners. *Journal of the American Planning Association*, 87(3): 326-340. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/01944363.2020.1858936)
+
+15. García, Ivis., Jackson, April., Harwood, Stacy. A., Greenlee, Andrew. J., Lee, C. Aujean., & Chrisinger, Benjamin. 2021. "Like a Fish Out of Water" The Experience of African American and Latinx Planning Students. *Journal of the American Planning Association*, 87(1): 108-122. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/01944363.2020.1777184?journalCode=rjpa20)
+
+16. Mendenhall, R., Henderson, L., Scott, B., Butler, L., Turi, K. N., Greenlee, A., Lleras, C. L. 2020. Involving Urban Single Low Income African American Mothers in Genomic Research: giving voice to how place matters in health disparities and prevention strategies. *Family Medicine and Primary Care: Open Access*. [{{< fa solid arrow-up-right-from-square >}}](https://gavinpublishers.com/articles/review-article/Family-Medicine-and-Primary-Care-Open-Access/involving-urban-single-low-income-african-american-mothers-in-genomic-research-giving-voice-to-how-place-matters-in-health-disparities-and-prevention-strategies)
+
+17. Sutherland, C., Greenlee, A. J., & Schneider, D. 2020. Socioeconomic Drivers of Urban Pest Prevalence. *People and Nature*, 2(3): 776-783. [{{< fa solid arrow-up-right-from-square >}}](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1002/pan3.10096)
+
+18. Greenlee, A., Kramer, K., Andrade, F., Bellisle, D., Blanks, R., & Mendenhall, R. 2020. Financial Instability in the Earned Income Tax Credit Program: Can Advanced Periodic Payments Ameliorate Systemic Stressors?.\* *Urban Affairs Review*, 1078087420921527. [{{< fa solid arrow-up-right-from-square >}}](https://journals.sagepub.com/doi/10.1177/1078087420921527)
+
+19. Lee, C. A., & Greenlee, A. J. 2020. Impacts of Multiscale Racial Concentration on Neighborhood Foreclosure Risk in Immigrant Gateway Metropolitan Areas. *City & Community*, 19(2): 352-373. [{{< fa solid arrow-up-right-from-square >}}](https://journals.sagepub.com/doi/10.1111/cico.12478?icid=int.sj-full-text.citing-articles.3)
+
+20. Andrade, F. C. D., Kramer, K. Z., Greenlee, A., Williams, A. N., & Mendenhall, R. 2019. Impact of the Chicago Earned Income Tax Periodic Payment Intervention on Food Security. *Preventive Medicine Reports*, 16: 100993. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/pii/S2211335519301640?via%3Dihub)
+
+21. Cutts, B. B., Greenlee, A. J., Hornik, K., & Nigrelli, C. A. 2020. Hyperlocal Sustainabilities: Theorizing Action Research for Sustainability in the Digital Age. *Sustainability Science*, 15(1): 315-331. [{{< fa solid arrow-up-right-from-square >}}](https://link.springer.com/article/10.1007/s11625-019-00694-9)
+
+22. Greenlee, Andrew J. 2019. Assessing the Intersection of Neighborhood Change and Residential Mobility Pathways for the Chicago Metropolitan Area (2006-2015). *Housing Policy Debate*, 29(1): 186-212. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/10511482.2018.1476898)
+
+23. Kramer, K. Z., Andrade, F. C. D., Greenlee, A. J., Mendenhall, R., Bellisle, D., & Blanks, R. L. 2019. Periodic Earned Income Tax Credit (EITC) Payment, Financial Stress and Wellbeing: a Longitudinal Study. *Journal of Family and Economic Issues*, 40(3): 511-523. [{{< fa solid arrow-up-right-from-square >}}](https://link.springer.com/article/10.1007/s10834-019-09618-2)
+
+24. Greenlee, A. J., Jackson, A., Garcia-Zambrana, I., Lee, C. A., & Chrisinger, B. 2018. Where are we going? Where have we Been?: the Climate for Diversity Within Urban Planning Educational Programs. *Journal of Planning Education and Research*, 0739456X18815740. [{{< fa solid arrow-up-right-from-square >}}](https://journals.sagepub.com/doi/abs/10.1177/0739456X18815740)
+
+25. Jackson, April, Ivis Garcia Zanbrana, Andrew J. Greenlee, Aujean Lee, and Benjamin Chrisinger. 2018. All Talk, No Walk: Student Perceptions on Integration of Diversity and Practice in Planning Programs. *Planning Practice & Research*, 33(5): 574-595. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/02697459.2018.1548207?journalCode=cppr20)
+
+26. Cutts, Bethany B., Andrew J. Greenlee, Natalie K. Prochaska, Carolina V. Chantrill, Annie B. Contractor, Juliana M. Wilhoit, Nancy J. Smebak. 2018. Is a Clean River Fun for All? Recognizing Social Vulnerability in Watershed Planning. *PLoS ONE*, 13(5). [{{< fa solid arrow-up-right-from-square >}}](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0196416)
+
+27. Andrade, Flavia C.D., Karen Z. Kramer, Andrew J. Greenlee, Ruby Mendenhall. 2017. Financial Stress and Depressive Symptoms: The Impact of an Intervention of the Chicago Earned Income Tax Periodic Payment. *Public Health*, 153: 99-102. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0033350617303001?via%3Dihub)
+
+28. Contractor, Annie, and Andrew J. Greenlee. 2017. Up-'Routing' Communities: Subaltern Voices Challenge Sustainable Urban Renewal in Fortaleza, Brazil. *Housing Theory and Society*. 35: 57-93. \[{{< fa solid arrow-up-right-from-square >}}\]((https://www.tandfonline.com/doi/abs/10.1080/14036096.2017.1284155)
+
+29. Hornik, Kaitlyn, Bethany Cutts, and Andrew J. Greenlee. 2016. Community Theories of Change: Linking Environmental Justice to Sustainability through Stakeholder Perceptions in Milwaukee, WI. *International Journal of Environmental Research and Public Health*, 13(10): 979. [{{< fa solid arrow-up-right-from-square >}}](https://www.mdpi.com/1660-4601/13/10/979)
+
+30. Lopez, Esteban, and Andrew J. Greenlee. 2016. An Ex-Ante Analysis of Housing Location Choices due to Housing Displacement The Case of Bristol Place. *Applied Geography*, 75 (October 2016): 156-175. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0143622816303472)
+
+31. Greenlee, Andrew J., and Beverly K. Wilson. 2016. Where Does Location Affordability Drive Residential Mobility?: An Analysis of Origin and Destination Communities. *Housing Policy Debate*, : 583-606. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/10511482.2016.1163611)
+
+32. Greenlee, Andrew J., Mary M. Edwards, and Jerry Anthony. 2015. Planning Skills: An Examination of Supply and Local Government Demand. *Journal of Planning Education and Research*, 35(2): 161-173. [{{< fa solid arrow-up-right-from-square >}}](https://journals.sagepub.com/doi/abs/10.1177/0739456X15570321)
+
+33. Wilson, Beverly K., and Andrew J. Greenlee. 2014. The Geography of Opportunity: An Exploratory Spatial Data Analysis of U.S. Counties. *GeoJournal*, 1-16. [{{< fa solid arrow-up-right-from-square >}}](https://link.springer.com/article/10.1007/s10708-015-9642-6)
+
+34. Greenlee, Andrew J. 2014. More than Meets the Market?: Landlord Agency in the Illinois Housing Choice Voucher Program. *Housing Policy Debate*, 24(3): 500-524. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/10511482.2014.913649?journalCode=rhpd20)
+
+35. Greenlee, Andrew J. 2011. A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program. *Housing Policy Debate*, 21(3): 377-403. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/10511482.2011.591409)
+
+### Book Chapters
+
+1.  Greenlee, Andrew J. 2020. "Redefining Rental Housing Choice in the Housing Choice Voucher Program," The Routledge Handbook of Housing Policy and Planning. Katrin Anacker, Mai Thi Nguyen, and David Varady, editors.
+
+### Commentaries and Non-Peer Reviewed Publications
+
+1.  Greenlee, A. 2021. "Toward a Transformative Planning Infrastructure" Journal of the American Planning Association, 87(3): 436-437.
+
+2.  Layser, M.D., Greenlee, A.J., De Barbieri, E.W., Kaye, T.A., Saito, B.G. 2021. "Policy Spotlight: Mitigating Housing Instability During a Pandemic." Institute of Government & Public Affairs.
+
+3.  Lee, C. A., Chrisinger, B., Greenlee, A. J., Garcia Zambrana, I., & Jackson, A. 2020. "Beyond Recruitment: Comparing Experiences of Climate and Diversity between International Students and Domestic Students of Color in US Urban Planning Programs." Journal of Planning Education and Research, 0739456X20902241.
+
+4.  Greenlee, Andrew J., Lee, Han Bum, and Paul McNamara. 2018. "Bringing HUD's Moving to Work Demonstration to Small Housing Authorities: Prospects and Barriers." Cityscape 20(3): 257-275.
+
+### Selected Research Reports
+
+1.  Mendenhall, Ruby, Renee Lemons, Flavia Andrade, Andrew Greenlee, Karen Kramer, Loren Henderson, Lizanne DeStefano, Christopher Larrison, Ilana Redstone Akresh, and Kevin Franklin. 2015. Chicago Earned Income Tax Credit Periodic Payment Pilot Final Evaluation. University of Illinois at Urbana-Champaign.
+
+2.  Smith, J., Andrew Greenlee, Sharon A. Legenza, and Kate Walz. 2011. Moving or Moving Up?: Understanding Residential Mobility for Housing Choice Voucher Families in Illinois. Illinois Affordable Housing Action and Research Project. UIC Voorhees Center with Sargent Shriver National Poverty Law Center, Housing Action Illinois, and Latino Policy Forum.
+
+3.  Greenlee, Andrew J. 2010. Illinois Assisted Housing and Residential Mobility Data Guide: County Level Fact Book and Index. Illinois African-American Family Commission.
+
+4.  Smith, J., Andrew Greenlee, Sharon A. Legenza, and Kate Walz. 2010. Are We Home Yet? Creating Real Choice for Housing Choice Voucher Families in Chicago. Illinois Affordable Housing Action and Research Project. UIC Voorhees Center with Sargent Shriver National Poverty Law Center, Housing Action Illinois, and Latino Policy Forum.
+
+## Conference Papers and Presentations
+
+1.  Greenlee, Andrew J. 2022. "Tackling School and Housing Segregation Through AFFH: What do the Plans Say?" Presentation at the Public Housing Authorities Directors (PHADA) Annual Meeting (Virtual due to COVID-19 Pandemic)
+
+2.  Greenlee, Andrew J. 2022. "A Sequence-Based Analysis of Federal Housing Assistance Participation" Paper Presented at the Urban Affairs Association Annual Meeting (Washington, D.C.).
+
+3.  Greenlee Andrew J. 2020. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Virtual due to COVID-19 Pandemic).
+
+4.  Greenlee, Andrew J. 2019. "How Consistent are Racial Rent Premia in the Housing Choice Voucher Program?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
+
+5.  Greenlee, Andrew J., Elizabeth DeBray, Kara Finnigan, Megan Haberle, Heidi Kurniawan, and Jade Harvey. 2019. "Analyzing the Coordination of Education and Housing Policy Actors in Federal Assessments of Fair Housing." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
+
+6.  Greenlee, Andrew J. 2019. "Planning for Education and Housing Fairness: What do the Plans Say?" Paper Presented at the American Planning Association Illinois Chapter Annual Meeting (Evanston, Illinois).
+
+7.  Greenlee, Andrew J. 2018. "What's Fair? Where's Fair? The Geography of Metropolitan Fair Housing Choice in Chicago" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Buffalo, New York).
+
+8.  Greenlee, Andrew J. 2018. "Moving to Opportunity? A Longitudinal Analysis of Residential Mobility Opportunity Structure" Paper Presented at the International Sociological Association World Congress (Toronto, Canada).
+
+9.  Greenlee, Andrew J. 2018. "Status Discrepancy and the Structure of Individual and Collective Pathways of Residential Mobility in the Chicago Metropolitan Area" Paper Presented at the Regional Science Association World Congress (Goa, India).
+
+10. Greenlee, Andrew J. 2018. "How Does Neighborhood Housing Stability Influence Residential Mobility Pathways?" Paper Presented at the Urban Affairs Association Annual Meeting (Toronto, Canada).
+
+11. Greenlee, Andrew J. 2017. "Assessing the Spatial and Temporal Evolution of Gentrification-Induced Residential Mobility Pathways for the Chicago Metropolitan Area (2006-2015)." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Denver, Colorado).
+
+12. Greenlee, Andrew J. 2017. "Expanding Small PHA Participation in the Moving to Work Program." Paper Presented at the National Association of Housing and Redevelopment Officials (NAHRO) Summer Conference (Indianapolis, Indiana).
+
+13. Greenlee, Andrew J. 2017. "Assessing the Spatial and Temporal Evolution of Residential Mobility for the Chicago Metropolitan Area 2006 -- 2015." Paper Presented at the International Sociological Association RC-43: Housing and the Built Environment Conference (Hong Kong).
+
+14. Greenlee, Andrew J. 2017. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Urban Affairs Association Annual Meeting (Minneapolis, Minnesota).
+
+15. Greenlee, Andrew J. (with Flavia Andrade, Karen Kramer, and Miriam Keep). 2016. "The Chicago Periodic Earned Income Tax Credit (EITC Intervention): Preliminary Results. Poverty, Welfare, and Religion Symposium, Hebrew Union College (Cincinnati, Ohio).
+
+16. Greenlee, Andrew J. 2016. "Moving to Opportunity?: Pre and Post Participation Location Outcomes in the Housing Choice Voucher Program." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Portland, Oregon).
+
+17. Greenlee, Andrew J. 2016. "Gentrification and Residential Displacement Patterns in Chicago's Public Housing Transformation." Paper Presented at the Urban Affairs Association Annual Meeting (San Diego, California).
+
+18. Greenlee, Andrew J. 2015 "Moving or Moving Up?: Neighborhood Transitions in Chicago's Public Housing 2006-2014." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Houston, Texas).
+
+19. Greenlee, Andrew J. 2015 "I See Poor People: The CHA Plan for Transformation Moves Downstate." Paper Presented at the European Network for Housing Research (Lisbon, Portugal).
+
+20. Greenlee, Andrew J. 2014 "Planning Skills: An Examination of Supply and Local Government Demand." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Philadelphia, PA)
+
+21. Greenlee, Andrew J. 2014 "CHAnging Disadvantage: Creating Spaces for Chicago's Third Ghetto". Paper presented at the International Sociological Association World Congress (Yokohama, Japan)
+
+22. Greenlee, Andrew J. 2014 "Moving On? The Geography of Risk and Post-Foreclosure Displacement". Paper presented at the Urban Affairs Association Annual Meeting (San Antonio, Texas)
+
+23. Greenlee, Andrew J. 2013 "Who Gets Ahead in the U.S. Housing Choice Voucher Program?". Paper presented at the AESOP/ACEP Joint Congress (Dublin, Ireland)
+
+24. Greenlee, Andrew J. 2013 "Contextualizing the Discourse on Opportunity within U.S. Low-Income Mobility Policy" Paper presented at the International Sociological Association Research Panel 43 Conference (Amsterdam, Netherlands)
+
+25. Greenlee, Andrew J. 2013. "Public Private \[Public\] Housing in Chicago: Prospects and Pitfalls," Paper presented at the American Planning Association Annual Meeting (Chicago, IL)
+
+26. Greenlee, Andrew J. 2013. "Outmigration and the Geography of Nonmetropolitan Opportunity". Paper presented at the Urban Affairs Association Annual Meeting (San Francisco, CA)
+
+27. Greenlee, Andrew J. 2012. "Finding the 'Fit' Between Housing Strategies and Housing Consumers." Paper presented at the Illinois Asset Building Group conference (Champaign, IL)
+
+28. Greenlee, Andrew J. 2012. "Can Opportunity and Choice Co-Exist in Federal Housing Mobility Policy?" Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Cincinnati, OH)
+
+29. Greenlee, Andrew J. 2012. "Landlord Influence in the Housing Choice Voucher Program". Paper presented at the Urban Affairs Association Annual Meeting (Pittsburgh, PA)
+
+30. Greenlee, Andrew J. 2012. "Starting Over: Rebuilding Champaign's Bristol Place Neighborhood From the Ground Up," Illinois Chapter American Planning Association Annual Meeting (Champaign, IL)
+
+31. Greenlee, Andrew J. 2011. "Landlord Perspectives on the Housing Choice Voucher Program". Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Salt Lake City, UT)
+
+32. Greenlee, Andrew J. 2011. "Moving or Moving Up? Tenant Perspectives on Portability in Illinois' Housing Voucher Program." Paper presented at the Urban Affairs Association Annual Meeting (New Orleans, LA)
+
+33. Greenlee, Andrew J. 2010. "Moving Up or Just Moving? Tenant Perspectives on Portability in Illinois' Housing Voucher Program." Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Minneapolis, MN)
+
+34. Greenlee, Andrew J. 2010. "The Geography of Choice Within Illinois' Housing Choice Voucher Program." Paper presented at the Association of American Geographers Annual Meeting (Washington, DC)
+
+35. Greenlee, Andrew J. 2010. "Where Are We Going?: Tenant Perspectives on Portability in Illinois' Housing Choice Voucher Program." Paper presented at the Urban Affairs Association Annual Meeting (Honolulu, HI)
+
+36. Greenlee, Andrew J. 2009 "A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program" Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Crystal City, VA)
+
+37. Greenlee, Andrew J. 2009 "A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program" Paper presented at the International Sociological Association Research Panel 43 Conference (Glasgow, Scotland)
+
+38. Greenlee, Andrew J. 2009 "The Geography of Social Vulnerability in Illinois' Housing Choice Voucher Program" Paper presented at the Association of American Geographers Annual Meeting (Las Vegas, NV)
+
+39. Greenlee, Andrew J. 2009 "A Longitudinal Assessment of Voucher Portability in Illinois' Housing Choice Voucher Program" Paper presented at the Urban Affairs Association Annual Meeting (Chicago, IL)
+
+40. Greenlee, Andrew J. and Jerry Anthony. 2008 "The Chicago Low Income Housing Trust Fund: Evolution, Performance, and Prospects." Paper presented at the ACSP/AESOP Joint Congress (Chicago, IL)
+
+## Invited Lectures
+
+::: grid
+::: g-col-3
+November 18, 2022
+:::
+
+::: g-col-9
+*Prescribing Housing: Eviction Moratoria to Stop SARS-CoV-2 Transmission.* Invited Talk. University of Pennsylvania. (With Michael Z. Levy)
+:::
+
+::: g-col-3
+October 12, 2022
+:::
+
+::: g-col-9
+*Unlocking the DNA of Healthy Housing and Equitable Neighborhoods: A Sequence-Based Approach.* Invited Talk. University of Oklahoma.
+:::
+
+::: g-col-3
+April 22, 2022
+:::
+
+::: g-col-9
+*What's Fair? Where's Fair? Assessing Neighborhood Change Sequences to Decompose Institutional and Structural Racism.* Invited Talk. Henry Ford Health System.
+:::
+
+::: g-col-3
+October 8, 2021
+:::
+
+::: g-col-9
+*Housing Insecurity and COVID-19 Transmission.* Invited Talk. University of Pennsylvania.
+:::
+
+::: g-col-3
+September 24, 2021
+:::
+
+::: g-col-9
+*Notes on an Equitable COVID-19 Recovery.* Invited Talk. University of Illinois Department of Geography and Geographic Information Science.
+:::
+
+::: g-col-3
+July 17, 2019
+:::
+
+::: g-col-9
+*Sustaining Urban Mobility Systems.* Invited Talk. SUSPIRE Workshop, Northwestern University.
+:::
+
+::: g-col-3
+March 18, 2019
+:::
+
+::: g-col-9
+*The Making and Remaking of Chicago's "Third Ghetto": The Politics of Race, Poverty, and Residential Mobility.* Invited Talk. University of Indonesia.
+:::
+
+::: g-col-3
+September 5, 2018
+:::
+
+::: g-col-9
+*The Making and Remaking of Chicago's 'Third Ghetto': The Politics of Race, Poverty, and Residential Mobility.* Invited Talk. Department of Landscape Architecture & Regional Planning, University of Massachusetts Amherst.
+:::
+
+::: g-col-3
+April 11, 2018
+:::
+
+::: g-col-9
+*What's Fair? Where's Fair? The Geography of Metropolitan Fair Housing Choice in Chicago.* Invited Talk. The Fair Housing Act at 50 Symposium, University of Pennsylvania.
+:::
+
+::: g-col-3
+September 15, 2017
+:::
+
+::: g-col-9
+*Assessing the Intersection of Neighborhood Change and Residential Mobility Pathways for the Chicago Metropolitan Area (2006-2015).* Invited Talk. Future of Housing Symposium, University of Pennsylvania.
+:::
+
+::: g-col-3
+June, 2015
+:::
+
+::: g-col-9
+*CHAnging Chicago: State Sponsored Gentrification in Chicago's Public Housing (2006-2014)* Invited Talk. Coventry University, United Kingdom.
+:::
+
+::: g-col-3
+March 26, 2014
+:::
+
+::: g-col-9
+*Forced Out?: The Geography of Risk and Post-Foreclosure Residential Displacement* Invited Talk. Iowa State University.
+:::
+
+::: g-col-3
+October 2, 2012
+:::
+
+::: g-col-9
+*Where are we Going?: Linking Residential Mobility with Opportunity* Invited Talk. KTH University, Stockholm, Sweden.
+:::
+
+::: g-col-3
+April 6, 2012
+:::
+
+::: g-col-9
+*Can Opportunity and Choice Co-Exist in Federal Housing Policy?* Invited Talk. Geography Department. University of Illinois Urbana-Champaign.
+:::
+
+::: g-col-3
+September 22, 2011
+:::
+
+::: g-col-9
+*Moving or Moving Up?: Understanding Residential Mobility for Housing Choice Voucher Families in Illinois.* Invited Talk. 2011 Illinois Association of Housing Authorities Annual Meeting, Springfield, IL.
+:::
+
+::: g-col-3
+October 1, 2010
+:::
+
+::: g-col-9
+*Segregation and Other Problems Experienced by Housing Choice Voucher (Section 8) Recipients* Invited Talk. Fair Housing / Fair Lending: New Developments in Federal and International Law. The John Marshall Law School
+:::
+
+::: g-col-3
+June 22, 2010
+:::
+
+::: g-col-9
+*Placing Mobility in Context: Reconnaissance on Assisted Housing Mobility in Illinois* Invited Talk. The State of the African-American Family Symposium: The Migration Pattern of Chicago Public Housing Residents
+:::
+
+::: g-col-3
+October 21, 2009
+:::
+
+::: g-col-9
+*Is Chicago Making the Third Ghetto?* Invited talk, The University of Iowa
+:::
+
+::: g-col-3
+May 16, 2009
+:::
+
+::: g-col-9
+*The CHA Plan for Transformation's Impact on Homelessness.* Invited talk, The Hyde Park Transitional Housing Project Annual Meeting
+:::
+:::
+
+## Courses Taught
+
+### University of Illinois at Urbana-Champaign
+
+::: grid
+::: g-col-2
+UP 101
+:::
+
+::: g-col-5
+Introduction to City Planning
+:::
+
+::: g-col-5
+2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021
+:::
+
+::: g-col-2
+UP 301
+:::
+
+::: g-col-5
+Capstone Preparation
+:::
+
+::: g-col-5
+2018, 2019, 2020, 2021, 2022, 2023
+:::
+
+::: g-col-2
+UP 470
+:::
+
+::: g-col-5
+Shrinking Cities
+:::
+
+::: g-col-5
+2013, 2016, 2018, 2019
+:::
+
+::: g-col-2
+UP473
+:::
+
+::: g-col-5
+Housing and Urban Policy
+:::
+
+::: g-col-5
+2011, 2013, 2014, 2016, 2017, 2018, 2019, 2020, 2022, 2023
+:::
+
+::: g-col-2
+UP494-AG
+:::
+
+::: g-col-5
+The Housing Crisis
+:::
+
+::: g-col-5
+2012
+:::
+
+::: g-col-2
+UP 494-N
+:::
+
+::: g-col-5
+NEURUS Research Seminar
+:::
+
+::: g-col-5
+2014, 2015
+:::
+
+::: g-col-2
+UP 494-AG
+:::
+
+::: g-col-5
+Neighborhood Analysis
+:::
+
+::: g-col-5
+2020, 2021, 2022, 2023
+:::
+
+::: g-col-2
+UP 505
+:::
+
+::: g-col-5
+Urban and Regional Analysis
+:::
+
+::: g-col-5
+2012, 2013, 2014, 2015
+:::
+
+::: g-col-2
+UP 508
+:::
+
+::: g-col-5
+Survey Design and Analysis
+:::
+
+::: g-col-5
+2012, 2013, 2014, 2015
+:::
+
+::: g-col-2
+UP597-AG
+:::
+
+::: g-col-5
+Workshop in Urban Environmental Equity
+:::
+
+::: g-col-5
+2014, 2015
+:::
+:::
+
+### University of Illinois at Chicago
+
+::: grid
+::: g-col-3
+UPP403
+:::
+
+::: g-col-9
+Introduction to Urban Planning, UIC
+:::
+
+::: g-col-3
+UPP 596
+:::
+
+::: g-col-9
+Research and Writing Bootcamp, UIC
+:::
+:::
+
+## Awards and Distinctions
+
+::: grid
+::: g-col-3
+2022
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 473)
+:::
+
+::: g-col-3
+2021
+:::
+
+::: g-col-9
+Public Voices Fellow, University of Illinois System
+:::
+
+::: g-col-3
+2021
+:::
+
+::: g-col-9
+Illinois Student Government Excellence in Teaching Award
+:::
+
+::: g-col-3
+2021
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 494-AG)
+:::
+
+::: g-col-3
+2019
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 473)
+:::
+
+::: g-col-3
+2018
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 470)
+:::
+
+::: g-col-3
+2017
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 101)
+:::
+
+::: g-col-3
+2014
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 505)
+:::
+
+::: g-col-3
+2012
+:::
+
+::: g-col-9
+List of Teachers Rated as Excellent (UP 494-AG)
+:::
+
+::: g-col-3
+2006 - 2010
+:::
+
+::: g-col-9
+Abraham Lincoln Fellowship, University of Illinois at Chicago
+:::
+
+::: g-col-3
+2006
+:::
+
+::: g-col-9
+American Institute of Certified Planners Outstanding Student Award
+:::
+
+::: g-col-3
+2006
+:::
+
+::: g-col-9
+Iowa American Planning Association Chapter Service Award
+:::
+
+::: g-col-3
+2004 - 2006
+:::
+
+::: g-col-9
+Dean's Graduate Fellow, University of Iowa
+:::
+
+::: g-col-3
+2004
+:::
+
+::: g-col-9
+Senior Alumni Award, Grinnell College
+:::
+
+::: g-col-3
+2004
+:::
+
+::: g-col-9
+Student Employee of the Year, Grinnell College
+:::
+:::
+
+## Affiliations and Memberships
+
+::: grid
+::: g-col-3
+2014 - 2021
+:::
+
+::: g-col-9
+[International Sociological Association Research Committee 43](https://www.isa-sociology.org/en/research-networks/research-committees/rc43-housing-and-built-environment/)
+:::
+
+::: g-col-3
+2012 - Present
+:::
+
+::: g-col-9
+[American Planning Association](https://www.planning.org)
+:::
+
+::: g-col-3
+2011 - Present
+:::
+
+::: g-col-9
+[Association of Collegiate Schools of Planning](https://www.acsp.org)
+:::
+
+::: g-col-3
+2010 - Present
+:::
+
+::: g-col-9
+[The Urban Affairs Association](https://urbanaffairsassociation.org)
+:::
+
+::: g-col-3
+2009 - 2011
+:::
+
+::: g-col-9
+[Association of American Geographers](https://www.aag.org)
+:::
+:::
+
+## Academic and Professional Service
+
+::: grid
+::: g-col-3
+2022 - Present
+:::
+
+::: g-col-9
+Treasurer, Urban Affairs Association
+:::
+
+::: g-col-3
+2020 -- Present
+:::
+
+::: g-col-9
+Co-Chair, ACSP Committee on Diversity
+:::
+
+::: g-col-3
+2020 - Present
+:::
+
+::: g-col-9
+Member, Editorial Board, Journal of the American Planning Association
+:::
+
+::: g-col-3
+2019
+:::
+
+::: g-col-9
+Chair, Community Development Faculty Search Committee, DURP
+:::
+
+::: g-col-3
+2019 - Present
+:::
+
+::: g-col-9
+Member, Editorial Advisory Board, Housing Policy Debate
+:::
+
+::: g-col-3
+2018 - Present
+:::
+
+::: g-col-9
+Member, Editorial Board, Housing and Society
+:::
+
+::: g-col-3
+2017 - Present
+:::
+
+::: g-col-9
+Director of MUP Admissions, Department of Urban and Regional Planning
+:::
+
+::: g-col-3
+2017 - Present
+:::
+
+::: g-col-9
+Member, Governing Board, Urban Affairs Association
+:::
+
+::: g-col-3
+2017 - 2019
+:::
+
+::: g-col-9
+Housing and Community Development Track Co-Chair, ACSP
+:::
+
+::: g-col-3
+2016 - 2018
+:::
+
+::: g-col-9
+Member, Lorado Taft Lectureship on Art Committee, UIUC College of Fine and Applied Arts
+:::
+
+::: g-col-3
+2016
+:::
+
+::: g-col-9
+Member, Transportation Planning Faculty Search Committee, DURP
+:::
+
+::: g-col-3
+2016 - 2018
+:::
+
+::: g-col-9
+Member, Review and Appraisal Committee, ACSP (president Weiping Wu)
+:::
+
+::: g-col-3
+2016 - 2018
+:::
+
+::: g-col-9
+Co-Chair, ACSP Planners of Color Interest Group (POCIG)
+:::
+
+::: g-col-3
+2014 - 2016
+:::
+
+::: g-col-9
+Secretary / Treasurer, ACSP Planners of Color Interest Group (POCIG)
+:::
+
+::: g-col-3
+2014 - 2017
+:::
+
+::: g-col-9
+Member, Nominations Committee, Urban Affairs Association
+:::
+
+::: g-col-3
+2013 - 2017
+:::
+
+::: g-col-9
+Co-organizer, UIUC NEURUS Study Abroad Program
+:::
+
+::: g-col-3
+2012 - 2017
+:::
+
+::: g-col-9
+Member, University of Illinois Extension Steering Committee
+:::
+
+::: g-col-3
+2012 - 2018
+:::
+
+::: g-col-9
+Coordinator, Faculty Seminar Series, Department of Urban and Regional Planning
+:::
+
+::: g-col-3
+2013 - 2014
+:::
+
+::: g-col-9
+Member, Review and Appraisal Committee, ACSP (president June Manning Thomas)
+:::
+
+::: g-col-3
+2012 - 2014
+:::
+
+::: g-col-9
+Member, Action Research Illinois Advisory Committee, College of Fine and Applied Arts
+:::
+
+::: g-col-3
+2012 - 2013
+:::
+
+::: g-col-9
+Member, College Disciplinary Committee, College of Fine and Applied Arts
+:::
+
+::: g-col-3
+2011 - 2013
+:::
+
+::: g-col-9
+Member, College Library Committee, College of Fine and Applied Arts
+:::
+
+::: g-col-3
+2011
+:::
+
+::: g-col-9
+Member, Economic Development Faculty Search Committee, DURP
+:::
+
+::: g-col-3
+2011
+:::
+
+::: g-col-9
+Member, Urban Design Faculty Search Committee, DURP
+:::
+:::
+
+## External Service
+
+::: grid
+::: g-col-3
+2020 -- Present
+:::
+
+::: g-col-9
+Member, Advisory Board, Central Illinois Land Bank Authority
+:::
+
+::: g-col-3
+2014 - 2015
+:::
+
+::: g-col-9
+Member, Data and Analysis Advisory Committee, Decatur Education Coalition
+:::
+
+::: g-col-3
+2013 -- 2014
+:::
+
+::: g-col-9
+Bristol Place Neighborhood Steering Committee, Champaign, IL
+:::
+
+::: g-col-3
+2011 -- 2018
+:::
+
+::: g-col-9
+Member, Advisory Board, University of Iowa School of Urban and Regional Planning
+:::
+:::
