@@ -12,6 +12,8 @@ format:
 
 Welcome to the Illinois Housing Lab -- our mission is to produce policy-informed research related to housing for communities throughout the United States, and beyond.
 
+The lab's official website is \[here\](https://housinglab.agreen4.web.illinois.edu).
+
 The Illinois Housing Lab is run by [Dr. Andrew Greenlee](https://urban.illinois.edu/people/profiles/andrew-greenlee/), Associate Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/).
 
 ## Contact Us
@@ -131,9 +133,7 @@ Bed bugs have recently undergone a resurgence and inserted themselves into this 
 
 #### Funder
 
-[National Socio-Environmental Synthesis Center](https://www.sesync.org)</br> 
-[University of Illinois Center for Social and Behavioral Science](https://csbs.research.illinois.edu)</br> 
-[Chancellor's Call to Action to Address Racism and Social Injustice](https://diversity.illinois.edu/antiracism-initiatives/research-program/funded-projects-2022/)
+[National Socio-Environmental Synthesis Center](https://www.sesync.org)</br> [University of Illinois Center for Social and Behavioral Science](https://csbs.research.illinois.edu)</br> [Chancellor's Call to Action to Address Racism and Social Injustice](https://diversity.illinois.edu/antiracism-initiatives/research-program/funded-projects-2022/)
 
 #### Partners
 
