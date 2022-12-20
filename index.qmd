@@ -6,7 +6,7 @@ format:
 
 ::: grid
 ::: g-col-6
-![](Greenlee_Sketch4.png){fig-alt="A pencil drawing of Andrew Greenlee made by Dr. Sowmya Balachandran."}
+![Drawing by Dr. Sowmya Balachandran](Greenlee_Sketch4.png){fig-alt="A pencil drawing of Andrew Greenlee made by Dr. Sowmya Balachandran."}
 :::
 
 ::: g-col-6
