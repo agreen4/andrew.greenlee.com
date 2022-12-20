@@ -186,7 +186,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 9.  Nande, Anjalika, Justin Sheen, Emma Walters, Brennan Klein, Matteo Chinazzi, Andrei Gheorghe, Ben Adlam, Julianna Shinnick, Maria Florencia Tejeda, Samuel V. Scarpino, Alessandro Vespignani, Andrew J. Greenlee, Daniel Schneider, Michael Z. Levy, Alison L. Hill. 2021. The Effect of Eviction Moratoria on the Transmission of SARS-CoV-2. *Nature Communications*, 12(2274): 1-13. [{{< fa solid arrow-up-right-from-square >}}](https://www.nature.com/articles/s41467-021-22521-5)
 
-10. Contreras, Sergio, and Andrew J. Greenlee. 2021. Evaluating the Effectiveness of ChileCompra's Entrepreneurship Centers Policy. *Regional Science Policy & Practice*, 13(4): 1262-1282. [{{< fa solid arrow-up-right-from-square >}}]((https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12408?af=R)
+10. Contreras, Sergio, and Andrew J. Greenlee. 2021. Evaluating the Effectiveness of ChileCompra's Entrepreneurship Centers Policy. *Regional Science Policy & Practice*, 13(4): 1262-1282. [{{< fa solid arrow-up-right-from-square >}}](https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/rsp3.12408?af=R)
 
 11. Lopez Ochoa, Esteban, Dwayne Baker, and Andrew J. Greenlee. 2021. Transit Development and Housing Displacement: The Case of the Chicago Red Line Extension. *Cities*, 115: 103212. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0264275121001104)
 
@@ -222,7 +222,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 27. Andrade, Flavia C.D., Karen Z. Kramer, Andrew J. Greenlee, Ruby Mendenhall. 2017. Financial Stress and Depressive Symptoms: The Impact of an Intervention of the Chicago Earned Income Tax Periodic Payment. *Public Health*, 153: 99-102. [{{< fa solid arrow-up-right-from-square >}}](https://www.sciencedirect.com/science/article/abs/pii/S0033350617303001?via%3Dihub)
 
-28. Contractor, Annie, and Andrew J. Greenlee. 2017. Up-'Routing' Communities: Subaltern Voices Challenge Sustainable Urban Renewal in Fortaleza, Brazil. *Housing Theory and Society*. 35: 57-93. [{{< fa solid arrow-up-right-from-square >}}]((https://www.tandfonline.com/doi/abs/10.1080/14036096.2017.1284155)
+28. Contractor, Annie, and Andrew J. Greenlee. 2017. Up-'Routing' Communities: Subaltern Voices Challenge Sustainable Urban Renewal in Fortaleza, Brazil. *Housing Theory and Society*. 35: 57-93. [{{< fa solid arrow-up-right-from-square >}}](https://www.tandfonline.com/doi/abs/10.1080/14036096.2017.1284155)
 
 29. Hornik, Kaitlyn, Bethany Cutts, and Andrew J. Greenlee. 2016. Community Theories of Change: Linking Environmental Justice to Sustainability through Stakeholder Perceptions in Milwaukee, WI. *International Journal of Environmental Research and Public Health*, 13(10): 979. [{{< fa solid arrow-up-right-from-square >}}](https://www.mdpi.com/1660-4601/13/10/979)
 
