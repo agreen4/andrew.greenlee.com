@@ -12,7 +12,7 @@ format:
 
 Welcome to the Illinois Housing Lab -- our mission is to produce policy-informed research related to housing for communities throughout the United States, and beyond.
 
-The lab's official website is \[here\](https://housinglab.agreen4.web.illinois.edu).
+The lab's official website is [here](https://housinglab.agreen4.web.illinois.edu).
 
 The Illinois Housing Lab is run by [Dr. Andrew Greenlee](https://urban.illinois.edu/people/profiles/andrew-greenlee/), Associate Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/).
 
