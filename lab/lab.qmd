@@ -44,6 +44,15 @@ Emma Walters is a Project Manager in the Illinois Housing Lab and PhD student in
 :::
 
 ::: g-col-4
+
+:::
+
+::: g-col-8
+### Vinisha Basnet
+
+:::
+
+::: g-col-4
 ![](Anagha-2048x2048.jpg){fig-alt="Picture of Anagha Devanarayanan"}
 :::
 
@@ -60,7 +69,7 @@ Anagha Devanarayanan is a Research Assistant in the Illinois Housing Lab and a M
 ::: g-col-8
 ### Julia De Souza Campos Paiva
 
-Julia De Souza Campos Paiva is a Research Assistant in the Illinois Housing Lab and a Master of Urban Planning student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master’s degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
+Julia De Souza Campos Paiva is a Research Assistant in the Illinois Housing Lab and a Master of Urban Planning student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
 :::
 
 ::: g-col-4
