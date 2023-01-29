@@ -12,6 +12,8 @@ format:
 
 Welcome to the Illinois Housing Lab -- our mission is to produce policy-informed research related to housing for communities throughout the United States, and beyond.
 
+We accomplish this mission by telling stories about people and places, and their connections to housing. Our storytelling involves a blend of rigorous quantitative data analysis, stakeholder narratives, and other digital storytelling tools to present the complexities of housing and neighborhoods in ways that are useful for research and accessible to policymakers and the public.
+
 The lab's official website is [here](https://housinglab.agreen4.web.illinois.edu).
 
 The Illinois Housing Lab is run by [Dr. Andrew Greenlee](https://urban.illinois.edu/people/profiles/andrew-greenlee/), Associate Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/).
@@ -44,12 +46,13 @@ Emma Walters is a Project Manager in the Illinois Housing Lab and PhD student in
 :::
 
 ::: g-col-4
-
+![](basnet.jpg)
 :::
 
 ::: g-col-8
 ### Vinisha Basnet
 
+Vinisha Singh Basnet is a PhD student in Department of Urban and Regional Planning and is also pursuing MS in Entomology at the UIUC.
 :::
 
 ::: g-col-4
