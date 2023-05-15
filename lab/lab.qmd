@@ -25,7 +25,7 @@ Please contact us at [housinglab\@illinois.edu](mailto:housinglab@illinois.edu)
 ## Staff
 
 ::: grid
-::: g-col-4
+::: g-col-4 
 ![](../about/greenlee.jpg){fig-alt="Picture of Dr. Andrew Greenlee"}
 :::
 
@@ -52,17 +52,17 @@ Emma Walters is a Project Manager in the Illinois Housing Lab and PhD student in
 ::: g-col-8
 ### Vinisha Basnet
 
-Vinisha Singh Basnet is a doctoral student in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master’s in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet’s work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects’ ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs’ colonies, one of the first initiatives at UIUC, to facilitate possible future research. 
+Vinisha Singh Basnet is a doctoral student in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master's in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet's work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects' ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs' colonies, one of the first initiatives at UIUC, to facilitate possible future research.
 :::
 
 ::: g-col-4
-![](Anagha-2048x2048.jpg){fig-alt="Picture of Anagha Devanarayanan"}
+![](Sheikhfarshi.png){fig-alt="Picture of Shiva Sheikhfarshi"}
 :::
 
 ::: g-col-8
-### Anagha Devanarayanan
+### Shiva Sheikhfarshi
 
-Anagha Devanarayanan is a Research Assistant in the Illinois Housing Lab and a Master of Urban Planning student in the Department of Urban and Regional Planning. Her planning interests include housing and community development policy, grassroots community-led planning, and urban governance. Her research interest in housing policy stems from her curiosity to learn how government capacity and action impacts individual living conditions.
+Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. Her research lies at the intersection of urban heat, social equity, and design-based policies and interventions. Through her work, she aims to examine how thermally comfortable and well-designed housing and neighborhoods can play a role in promoting health and equity and help to create more sustainable communities.
 :::
 
 ::: g-col-4
@@ -74,6 +74,20 @@ Anagha Devanarayanan is a Research Assistant in the Illinois Housing Lab and a M
 
 Julia De Souza Campos Paiva is a Research Assistant in the Illinois Housing Lab and a Master of Urban Planning student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
 :::
+:::
+
+## Former Housing Lab Staff
+
+::: grid
+::: g-col-4
+![](Anagha-2048x2048.jpg){fig-alt="Picture of Anagha Devanarayanan"}
+:::
+
+::: g-col-8
+### Anagha Devanarayanan
+
+Anagha Devanarayanan's planning interests include housing and community development policy, grassroots community-led planning, and urban governance. Her research interest in housing policy stems from her curiosity to learn how government capacity and action impacts individual living conditions.
+:::
 
 ::: g-col-4
 ![](wright.png){fig-alt="Picture of David Wright"}
@@ -82,7 +96,7 @@ Julia De Souza Campos Paiva is a Research Assistant in the Illinois Housing Lab 
 ::: g-col-8
 ### David Wright
 
-David Wright is a Research Assistant in the Illinois Housing Lab and a Master of Urban Planning student in the Department of Urban and Regional Planning. He is interested in learning more about housing-first solutions and linking urban and rural policy development through place-based narratives.
+David Wright is interested in learning more about housing-first solutions and linking urban and rural policy development through place-based narratives.
 :::
 :::
 

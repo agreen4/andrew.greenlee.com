@@ -32,9 +32,15 @@ format:
 
 #### Current
 
-**Anagha Devanarayanan**: Examining the role of government initiatives and community efforts to drive private investment in Chicago's Opportunity Zones [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anagha-dev/)
-
 **Samantha Hendrickson**: Addressing Stress Among Rising Professional Women in Chicago [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-hendrickson-b8726b180/)
+
+**Julia de Souza Campos Paiva**: Assessing *Minha Casa Minha Vida* housing policy from a racial justice and equity perspective [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julia-paiva-098591157/?locale=en_US)
+
+**Rose Ravi Krishnan** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rose-ravi-krishnan-014b99189/?originalSubdomain=in)
+
+#### 2023
+
+**Anagha Devanarayanan**: Examining the role of government initiatives and community efforts to drive private investment in Chicago's Opportunity Zones [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anagha-dev/)
 
 **Gaargi Kulkarni**: Connecting the dots -- Scenario Planning -- A Multimodal Transit- Oriented Development- What it means for MSY and the City of Kenner [{{< fa brands linkedin >}}](https://www.linkedin.com/in/gaargi-kulkarni-b87bbb95/)
 
