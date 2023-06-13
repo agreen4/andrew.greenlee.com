@@ -8,17 +8,49 @@ format:
 
 ## Fall 2023
 
-### FAA 499 / UP 494 Informing the Illinois Arts Ecosystem (with Jennifer Novak-Leonard and Magdalena Novoa)
+### UP 473 Housing and Urban Policy
+
+[Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/473)
+
+Housing represents a fundamental human need and a critical element of human settlements. Within the context of urban planning, housing represents one of the ways in which planning intervention has sought to ensure the health and safety of residents, while also bearing influence on the spatial, social, and economic relationships that differentiate housing and other land uses. Within this class, we will explore the policies and practices that constitute housing policy in the United States and abroad, in order to understand where and how planning strategies have been effective (and ineffective) at shaping physical, economic, social, and political dimensions of housing.
+
+By the end of this course, we will develop:
+
+1. An understanding of the housing production and regulation system in the United States;
+2. An understanding of historic and contemporary housing policy intervention strategies;
+3. An understanding the intersection between housing policy and other urban policy initiatives;
+4. A framework for evaluation and analysis of housing policies in the US and abroad;
+5. Strategies for effective analysis and communication of housing policy trends and impacts.
+
+### FAA 499 / UP 494 Informing the Illinois Arts Ecosystem 
+Co-taught with [Jennifer Novak-Leonard](https://urban.illinois.edu/people/profiles/jennifer-novak-leonard/) and [Magdalena Novoa](https://urban.illinois.edu/people/profiles/magdalena-novoa/)
 
 [Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/494)
 
-This special topics-course is a team-led workshop that will engage students with timely matters and challenges affecting arts and artists across the state of Illinois, and with cultural leaders working to address those challenges. A key tool needed and used by such cultural leaders is research and evidence; hence, in addition to being exposed to current matters affecting the arts ecosystem across the state, students will engage with and work toward producing research and evidence that can help inform the work of cultural leaders. Students will participate in two, one-day trips to Chicago (tentatively 9/8/23 and 9/29/23, subject to change) to meet with cultural leaders working to address timely matters and challenges in the city and throughout Illinois.
+This special topics-course is a team-led workshop that will engage students with timely matters and challenges affecting arts and artists across the state of Illinois, and with cultural leaders working to address those challenges. A key tool needed and used by such cultural leaders is research and evidence; hence, in addition to being exposed to current matters affecting the arts ecosystem across the state, students will engage with and work toward producing research and evidence that can help inform the work of cultural leaders. Students will participate in two, one-day trips to Chicago to meet with cultural leaders working to address timely matters and challenges in the city and throughout Illinois. Prior background in either arts or policy is not required to participate in the class.
 
-### UP 510 Plan Making
+By the end of the course we will develop:
 
-[Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/510)
+1. A better understanding of who artists and creative workers at in Illinois, where they live, and what some of their main characteristics are.
+2. A better understanding of the organizations and institutions who are engaging with and addressing issues that overlap with or impact artists and creative workers.
+3. A detailed understanding of policies directly and indirectly targeting quality of life and stability for artists and creative workers.
+4. Policy-informed research that can inform current debates at the local, state, and federal level around issues related to the arts.
 
-Provides skills to develop a wide range of plans and an understanding of the processes to implement them. Topics covered include planning analysis, political constraints of planning and planning ethics, techniques of negotiation, facilitation, mediation, and presentation to the public. Uses a general framework for plan making that includes plan review, problem framing, information gathering, alternative modeling, scenarios development, impact assessment, and alternatives evaluation. Students will work on applied tasks individually and in groups.
+Here are some example policy briefs and issues which will guide our learning this semester:
+
+- Issue Brief: [The Status of Artists and Creative Workers](https://artsimpact.faa.illinois.edu/research/issue-brief-the-status-of-artists-and-creative-workers/)
+
+- Issue Brief: [The Artist Labor Force: a statistical look at Illinois in context of the U.S.](https://artsimpact.faa.illinois.edu/research/issue-brief-the-artist-labor-force-a-statistical-look-at-illinois-in-context-of-the-u-s/)
+
+- Issue Brief: [Housing Affordability for Illinois Artists and Creative Workers (2019–2021)](https://artsimpact.faa.illinois.edu/research/arts-impact-initiative-releases-new-issue-brief-on-chicagos-artist-labor-force-copy/)
+
+- [Peoria’s Cultural Assets: Mapping Resources, People, and Meaning](https://artsimpact.faa.illinois.edu/research/peorias-cultural-assets-mapping-resources-people-and-meaning/) / [Peoria's Cultural Assets Storymap](https://storymaps.arcgis.com/stories/82cb29024ce3465290995b8f6b3ca313)
+
+### UP 592 Doctoral Urban Planning Seminar
+
+[Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/592)
+
+The Doctoral Urban Planning seminar is a platform for intellectual development for PhD students in the Department of Urban & Regional Planning and a medium for building a community of scholars. The seminars facilitate the exchange of ideas and perspectives among urban planning Ph.D. students and faculty. The seminar is intended to benefit doctoral students across all stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
 
 ## Spring 2023
 
