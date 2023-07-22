@@ -4,6 +4,7 @@ format:
   html:
     page-layout: full
     toc: false
+sidebar: false
 ---
 
 ::: grid

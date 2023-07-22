@@ -5,15 +5,18 @@ format:
     page-layout: full
     toc: true
     toc-depth: 4
+sidebar: true
 ---
+
 This documentation is designed to help my advisees and students in the Master of Urban Planning (MUP) program at University of Illinois at Urbana-Champaign to navigate the Master's capstone process. It is likely that while some of this information may be somewhat specific to this program, that individuals in other graduate programs, particularly those in other planning programs or other applied fields may find this information useful and transferable.
 
 The usual caveats apply, however - your mileage may vary, and these are my personal opinions and should not be taken as those of my employer or as policy associated with my roles in the department and university.
 
 ## What is it?
+
 Most graduate programs in planning require students to complete some kind of major project, workshop, studio, or work of research to substantiate their mastery of the field and ability to practice elements of their craft in an independent and comprehensive way. These experiences are typically 2 semesters long, require some form of sustained and independent engagement or work, and required some form of polished output targeted towards a public audience. At UIUC, we offer two primary pathways to completing this requirement - the completion of a Master's Project or the completion of a Master's Thesis.
 
-In thinking about how to differentiate between these options, I typically advise students to think about them as having different overall audiences. 
+In thinking about how to differentiate between these options, I typically advise students to think about them as having different overall audiences.
 
 A *Master's Project* is typically targeted towards an audience composed of practitioners and the general public, and typically demonstrated skills and approaches most closely associated with professional practice. Therefore, a project typically involves some form of substantial engagement with a policy question or domain associated with practice, and might include substantial engagement and collaboration with other practitioners, community organizations, or the public. A Master's project can be initiated and completed as an individual or in groups of several students. A Master's project is written in plain and accessible language, typically contains highly polished visual elements, and oftentimes has a structure that follows that of a plan, policy report, or policy white paper. At UIUC, the final project defense is the presentation of the capstone poster, which happens at our capstone reception every spring.
 
@@ -21,11 +24,11 @@ A *Master's Thesis* is typically targeted towards an audience consisting of rese
 
 ## Which Should I Choose?
 
-I often have students ask me to help them determine which option might be most appropriate for them. It's complicated! The majority of MUP students (probably 95 percent) choose to complete the capstone project option, leaving the other 5 percent to choose the thesis option. Why? In general, it's because the majority of MUP students' capstones track from professional work that they started through internships, class projects, workshops, or other engagements with practice. The flexibility of the project option also means that some students will complete projects more oriented towards academic research as a project instead of a thesis. 
+I often have students ask me to help them determine which option might be most appropriate for them. It's complicated! The majority of MUP students (probably 95 percent) choose to complete the capstone project option, leaving the other 5 percent to choose the thesis option. Why? In general, it's because the majority of MUP students' capstones track from professional work that they started through internships, class projects, workshops, or other engagements with practice. The flexibility of the project option also means that some students will complete projects more oriented towards academic research as a project instead of a thesis.
 
 Other students may be interested in a thesis for a variety of reasons. For those students who are contemplating careers in advanced research or who are considering doctoral-level study, completing a thesis can be a good opportunity to try on advanced research. Likewise, student may have existing research interests or engagements that they wish to expand up by completing a thesis.
 
-One thing to keep in mind for research- and "Ph.D.-curious" students is that you *do not* - let me repeat that - *do not* - have to pursue the thesis option in order to successfully apply to research jobs or doctoral programs. 
+One thing to keep in mind for research- and "Ph.D.-curious" students is that you *do not* - let me repeat that - *do not* - have to pursue the thesis option in order to successfully apply to research jobs or doctoral programs.
 
 When I was a Master's student, I completed a capstone project - a [comprehensive plan](https://doi.org/10.17077/svt3-e0ew) written collaboratively with three other Master's students, and then successfully gained entry into multiple Ph.D. programs and pursued further training and a career as a researcher. Likewise, an employer will likely not think much differently about potentially hiring someone who completed a thesis versus someone who completed a capstone (unless the thesis perfectly dovetails with a particular research project or approach the employer is focused on).
 
@@ -34,16 +37,17 @@ This makes the decision more about your desired experience. In general, the caps
 This time aspect is important to keep in mind, particularly as you look at the structure of your summer and second year of study, as well as your professional and personal lives. It can be hard to envision what your spring will look like or what parameters will be important as you increasingly spend time on your job search or preparing for further education, but envisioning this can be useful for setting your time. Keep in mind that the capstone is only part of what helps you substantiate your professional expertise and values - you should also invest your time in networking, develop a portfolio of your work, and rehearse a narrative about your professional goals, values, and journey.
 
 ## Your Capstone Proposal
+
 Our department requires you to complete a short capstone proposal at the beginning of your second year in the program. Nominally, this two page proposal requires you to supply the following:
 
-1. Project Title
-2. Your name (or names if a group project)
-3. Description of project and client
-4. Detailed work plan with major deadlines
-5. Division of labor (for team projects)
-6. Outline of end product
-7. Description of how the project relates to professional goals
-8. For joint degree students, a description of how the project integrates both disciplines.
+1.  Project Title
+2.  Your name (or names if a group project)
+3.  Description of project and client
+4.  Detailed work plan with major deadlines
+5.  Division of labor (for team projects)
+6.  Outline of end product
+7.  Description of how the project relates to professional goals
+8.  For joint degree students, a description of how the project integrates both disciplines.
 
 ### Investing in your proposal
 
@@ -55,11 +59,11 @@ Here's a few pointers for ways you can invest in your proposal:
 
 For a *master's project*, your description will typically focus on a problem statement, policy issue, or describing a process you will develop or implement. The basics are easy, for example:
 
->Working in partnership with the Busytown office of planning and development, I will draft a revised zoning ordinance, focused on increasing housing density and reducing the reliance on zoning that is exclusively single-family nature.
+> Working in partnership with the Busytown office of planning and development, I will draft a revised zoning ordinance, focused on increasing housing density and reducing the reliance on zoning that is exclusively single-family nature.
 
 That's a good start - we know who you're working with, what the output will be, and what it's focused on. Don't stop there, though. Provide background so we understand *why* these policy changes are needed now.
 
->Busytown's city council has closely followed ongoing national debates regarding the elimination of single-family zoning. While the city council maintains the position that some single-family zoning should remain, they have asked the planning department to identify criteria for which neighborhoods currently zoned single family might be most appropriate to allow multifamily uses, and have also set a goal of upzoning zones to allow higher-intensity multifamily land uses. The city's zoning ordinance last received a major update in 1998. In 2019, the city initiated a land use analysis designed to inform zoning reform, however, the COVID-19 pandemic forced planning staff to put this analysis on hold. Part of my work will involve collaborating with city staff to resume and complete the process initiated in 2019, and I will then translate findings from this analysis into a series of proposed revisions to the city's zoning ordinance.
+> Busytown's city council has closely followed ongoing national debates regarding the elimination of single-family zoning. While the city council maintains the position that some single-family zoning should remain, they have asked the planning department to identify criteria for which neighborhoods currently zoned single family might be most appropriate to allow multifamily uses, and have also set a goal of upzoning zones to allow higher-intensity multifamily land uses. The city's zoning ordinance last received a major update in 1998. In 2019, the city initiated a land use analysis designed to inform zoning reform, however, the COVID-19 pandemic forced planning staff to put this analysis on hold. Part of my work will involve collaborating with city staff to resume and complete the process initiated in 2019, and I will then translate findings from this analysis into a series of proposed revisions to the city's zoning ordinance.
 
 For a *thesis* you'll want to use this section to talk more generally about your project:
 
@@ -68,6 +72,7 @@ For a *thesis* you'll want to use this section to talk more generally about your
 Essentially this description should serve as an abstract for your thesis. Just like the project description, you should cover the who, what, where, why, and how of your thesis. For a thesis, you may want to think about attaching your overall thesis proposal (which should be longer than two pages). If you have taken my advice and prepared in advance, you'll already have a thesis proposal and abstract which can be utilized for filing your capstone proposal. Note (at least for my advisees) that I expect a separate and more detailed thesis proposal (typically 4-6 pages) drafted and discussed over the summer between years 1 and 2.
 
 #### Detailed Work Plan with Major Deadlines
+
 We now have a pretty clear picture of the what, where, and why of your project, as well as the expected outcomes. Now is time to break these outcomes into distinct work products. These distinct work products may be structured around particular subtasks you've identified, the structure of your writing, or by external factors and resources (such as a client's timeline or when they plan to hold public meetings). Regardless of what factors are imposing structure on your project, the work plan offers an opportunity to define distinct phases of the project. I suggest using these distinct phases as opportunities to solicit feedback from both your client and your advisor.
 
 Thinking about the hypothetical Busytown project, I see three distinct phases:
@@ -90,22 +95,22 @@ I've seen students complete this in two ways - one, literally providing an outli
 
 In the case of our Busytown land use example, I see several discrete end products that will be incorporated into the capstone:
 
-1. Land use analysis
-2. Staff report containing proposed revisions to the zoning code
-3. Capstone poster
+1.  Land use analysis
+2.  Staff report containing proposed revisions to the zoning code
+3.  Capstone poster
 
 Items 1 and 2 are discrete deliverables that will be delivered to the Busytown planning staff. The student completing this work will combine the substantive elements from these two documents to create the master's project. They will also submit a poster that summarizes and presents their work to a public audience.
 
 For a student writing a thesis, it might be tempting to throw a stock research paper outline in this section and call it good:
 
-1. Abstract
-2. Introduction
-3. Literature Review
-4. Research Questions
-5. Methodology
-6. Results
-7. Discussion
-8. Conclusion
+1.  Abstract
+2.  Introduction
+3.  Literature Review
+4.  Research Questions
+5.  Methodology
+6.  Results
+7.  Discussion
+8.  Conclusion
 
 Again, this is not too useful for providing advice or creating general accountability, especially during the early thesis stages where this is particularly important. This is a good time to talk about the main types of evidence and analysis you will use and how this evidence and analysis makes a contribution to our knowledge. For example...
 

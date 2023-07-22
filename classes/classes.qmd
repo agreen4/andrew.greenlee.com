@@ -4,7 +4,9 @@ format:
   html:
     page-layout: full
     toc: false
+sidebar: false
 ---
+
 ## Spring 2024
 
 ### UP 570 Neighborhood Analysis
@@ -25,13 +27,14 @@ Housing represents a fundamental human need and a critical element of human sett
 
 By the end of this course, we will develop:
 
-1. An understanding of the housing production and regulation system in the United States;
-2. An understanding of historic and contemporary housing policy intervention strategies;
-3. An understanding the intersection between housing policy and other urban policy initiatives;
-4. A framework for evaluation and analysis of housing policies in the US and abroad;
-5. Strategies for effective analysis and communication of housing policy trends and impacts.
+1.  An understanding of the housing production and regulation system in the United States;
+2.  An understanding of historic and contemporary housing policy intervention strategies;
+3.  An understanding the intersection between housing policy and other urban policy initiatives;
+4.  A framework for evaluation and analysis of housing policies in the US and abroad;
+5.  Strategies for effective analysis and communication of housing policy trends and impacts.
 
-### FAA 499 / UP 494 Informing the Illinois Arts Ecosystem 
+### FAA 499 / UP 494 Informing the Illinois Arts Ecosystem
+
 Co-taught with [Jennifer Novak-Leonard](https://urban.illinois.edu/people/profiles/jennifer-novak-leonard/) and [Magdalena Novoa](https://urban.illinois.edu/people/profiles/magdalena-novoa/)
 
 [Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/494)
@@ -40,20 +43,20 @@ This special topics-course is a team-led workshop that will engage students with
 
 By the end of the course we will develop:
 
-1. A better understanding of who artists and creative workers at in Illinois, where they live, and what some of their main characteristics are.
-2. A better understanding of the organizations and institutions who are engaging with and addressing issues that overlap with or impact artists and creative workers.
-3. A detailed understanding of policies directly and indirectly targeting quality of life and stability for artists and creative workers.
-4. Policy-informed research that can inform current debates at the local, state, and federal level around issues related to the arts.
+1.  A better understanding of who artists and creative workers at in Illinois, where they live, and what some of their main characteristics are.
+2.  A better understanding of the organizations and institutions who are engaging with and addressing issues that overlap with or impact artists and creative workers.
+3.  A detailed understanding of policies directly and indirectly targeting quality of life and stability for artists and creative workers.
+4.  Policy-informed research that can inform current debates at the local, state, and federal level around issues related to the arts.
 
 Here are some example policy briefs and issues which will guide our learning this semester:
 
-- Issue Brief: [The Status of Artists and Creative Workers](https://artsimpact.faa.illinois.edu/research/issue-brief-the-status-of-artists-and-creative-workers/)
+-   Issue Brief: [The Status of Artists and Creative Workers](https://artsimpact.faa.illinois.edu/research/issue-brief-the-status-of-artists-and-creative-workers/)
 
-- Issue Brief: [The Artist Labor Force: a statistical look at Illinois in context of the U.S.](https://artsimpact.faa.illinois.edu/research/issue-brief-the-artist-labor-force-a-statistical-look-at-illinois-in-context-of-the-u-s/)
+-   Issue Brief: [The Artist Labor Force: a statistical look at Illinois in context of the U.S.](https://artsimpact.faa.illinois.edu/research/issue-brief-the-artist-labor-force-a-statistical-look-at-illinois-in-context-of-the-u-s/)
 
-- Issue Brief: [Housing Affordability for Illinois Artists and Creative Workers (2019–2021)](https://artsimpact.faa.illinois.edu/research/arts-impact-initiative-releases-new-issue-brief-on-chicagos-artist-labor-force-copy/)
+-   Issue Brief: [Housing Affordability for Illinois Artists and Creative Workers (2019--2021)](https://artsimpact.faa.illinois.edu/research/arts-impact-initiative-releases-new-issue-brief-on-chicagos-artist-labor-force-copy/)
 
-- [Peoria’s Cultural Assets: Mapping Resources, People, and Meaning](https://artsimpact.faa.illinois.edu/research/peorias-cultural-assets-mapping-resources-people-and-meaning/) / [Peoria's Cultural Assets Storymap](https://storymaps.arcgis.com/stories/82cb29024ce3465290995b8f6b3ca313)
+-   [Peoria's Cultural Assets: Mapping Resources, People, and Meaning](https://artsimpact.faa.illinois.edu/research/peorias-cultural-assets-mapping-resources-people-and-meaning/) / [Peoria's Cultural Assets Storymap](https://storymaps.arcgis.com/stories/82cb29024ce3465290995b8f6b3ca313)
 
 ### UP 592 Doctoral Urban Planning Seminar
 

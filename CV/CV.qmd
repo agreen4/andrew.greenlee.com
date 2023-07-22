@@ -4,6 +4,7 @@ editor: visual
 format:
   html:
     page-layout: full
+sidebar: false
 ---
 
 ::: grid

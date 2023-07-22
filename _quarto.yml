@@ -17,8 +17,10 @@ website:
       - href: CV/CV.qmd
         text: CV
       - consulting/consulting.qmd
+      
   sidebar:
       - title: "Advisee Resources"
+        style: "docked"  
         contents:
             - text: "Advisee Resources"
               file: "resources/resources.qmd"

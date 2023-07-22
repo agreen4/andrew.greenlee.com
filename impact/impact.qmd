@@ -6,6 +6,7 @@ format:
     toc: true
     toc-depth: 4
     smooth-scroll: true
+sidebar: false
 ---
 
 ## Advisees
@@ -26,7 +27,7 @@ format:
 
 #### 2022
 
-**Natalie Prochaska**: At Another Crossroads: Mission vs. Market Lending and Risk Assessment in Chicago Community Development Loan Funds [{{< fa book >}}](https://hdl.handle.net/2142/117673)  [{{< fa brands linkedin >}}](https://www.linkedin.com/in/natalie-prochaska-phd-250a0916/)
+**Natalie Prochaska**: At Another Crossroads: Mission vs. Market Lending and Risk Assessment in Chicago Community Development Loan Funds [{{< fa book >}}](https://hdl.handle.net/2142/117673) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/natalie-prochaska-phd-250a0916/)
 
 #### 2021
 
@@ -35,6 +36,7 @@ format:
 ### Master of Urban Planning
 
 #### Current
+
 **Linda Derhak**: TBD [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lindaderhak/)
 
 **Prithvi Hegde**: TBD [{{< fa brands linkedin >}}](https://www.linkedin.com/in/prithvihegde1/)

@@ -6,6 +6,7 @@ format:
     toc: true
     toc-depth: 3
     smooth-scroll: true
+sidebar: false
 ---
 
 ## Welcome
@@ -25,7 +26,7 @@ Please contact us at [housinglab\@illinois.edu](mailto:housinglab@illinois.edu)
 ## Staff
 
 ::: grid
-::: g-col-4 
+::: g-col-4
 ![](../about/greenlee.jpg){fig-alt="Picture of Dr. Andrew Greenlee"}
 :::
 
