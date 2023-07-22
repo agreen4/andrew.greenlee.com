@@ -1,0 +1,14 @@
+---
+title: "Advisee Resources"
+format:
+  html:
+    page-layout: full
+    toc: true
+---
+
+There's a lot of common questions that I get asked as an adviser and as a program director. While I'm always open to talking (often in too much detail!) about how to navigate graduate studies, I also want to share my thoughts in writing as a resource.
+
+While many of these thoughts are written with the policies and practices of the Department of Urban and Regional Planning at University of Illinois at Urbana-Champaign in mind, it's my hope that some of my perspective may reasonably translate to experiences in other departments and universities.
+
+The usual caveats apply, however - your mileage may vary, and these are my personal opinions and should not be taken as those of my employer or as policy associated with my roles in the department and university.
+
