@@ -3,7 +3,7 @@ title: "Classes"
 format:
   html:
     page-layout: full
-    toc: false
+    toc: true
 sidebar: false
 ---
 
