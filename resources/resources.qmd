@@ -1,5 +1,5 @@
 ---
-title: "Advisee Resources"
+title: "Student Resources"
 format:
   html:
     page-layout: full
