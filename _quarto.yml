@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Andrew J. Greenlee, Ph.D."
+  google-analytics: "G-B1NBZ6RJHS"
   navbar:
     left:
       - href: index.qmd
