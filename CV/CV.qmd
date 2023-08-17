@@ -9,7 +9,7 @@ sidebar: false
 
 ::: grid
 ::: g-col-6
-Andrew Jordan Greenlee</br> Associate Professor</br> Department of Urban and Regional Planning</br> College of Fine and Applied Arts</br> University of Illinois at Urbana-Champaign</br>
+Andrew Jordan Greenlee</br> Professor</br> Department of Urban and Regional Planning</br> College of Fine and Applied Arts</br> University of Illinois at Urbana-Champaign</br>
 :::
 
 ::: g-col-6
@@ -51,7 +51,14 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 ::: grid
 ::: g-col-3
-2019 -- Present
+2023 - Present
+:::
+
+::: g-col-9
+*Professor*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+::: g-col-3
+2019 - 2023
 :::
 
 ::: g-col-9
