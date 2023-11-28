@@ -37,17 +37,25 @@ sidebar: false
 
 #### Current
 
-**Linda Derhak**: TBD [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lindaderhak/)
+**Linda Derhak**: Rural Realities: An Environmental Justice Needs Assessment for Rural Illinois [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lindaderhak/)
 
-**Prithvi Hegde**: TBD [{{< fa brands linkedin >}}](https://www.linkedin.com/in/prithvihegde1/)
+**Natalia Fic**: (co-advisor with Rolf Pendall) Understanding the Social Relationships Between Community Members and Their Local Governments: A Trauma-Informed Guidebook for Strong Neighborhood Cohesion [{{< fa brands linkedin >}}](https://www.linkedin.com/in/natalia-fic-uiuc/)
 
-**Samantha Hendrickson**: Addressing Stress Among Rising Professional Women in Chicago [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-hendrickson-b8726b180/)
+**Prithvi Hegde**: Land Governance for Land-Based Commons in India: Policy Pathways for Peri-Urban Land in Kanataka [{{< fa brands linkedin >}}](https://www.linkedin.com/in/prithvihegde1/)
 
-**Jenifer Munmun**: TBD [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jenifer-munmun-231620ab/)
+**Samantha Hendrickson**: Clarendon Heights Master Plan [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-hendrickson-b8726b180/)
+
+**Jenifer Munmun**: Fostering Social Sustainability for Bangladeshi Community in Jackson Heights Through Sustainable Planning [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jenifer-munmun-231620ab/)
 
 **Julia de Souza Campos Paiva**: Assessing *Minha Casa Minha Vida* housing policy from a racial justice and equity perspective [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julia-paiva-098591157/?locale=en_US)
 
-**Rose Ravi Krishnan** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rose-ravi-krishnan-014b99189/?originalSubdomain=in)
+**Rose Ravi Krishnan**: Housing After Hurricane in New Orleans [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rose-ravi-krishnan-014b99189/?originalSubdomain=in)
+
+**Trinity Lewis**: In Our Own Backyard: Housing Discrimination in Urbana, IL [{{< fa brands linkedin >}}](https://www.linkedin.com/in/trinity-lewis-2505571b0/)
+
+**Priyadarshini Satish**: Understanding the Integration of Equity with Transportation Resilience Planning [{{< fa brands linkedin >}}](https://www.linkedin.com/in/priya-satish/)
+
+**Shweta**: Empowering Legacies: The Rev. Dr. C.T. Vivian Center for Civic & Cultural Engagement [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shweta-179084101/)
 
 #### 2023
 
