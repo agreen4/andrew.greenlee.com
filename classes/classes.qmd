@@ -11,6 +11,8 @@ sidebar: false
 
 ### UP 570 Neighborhood Analysis
 
+[Course Website](https://up570s24.netlify.app)<br>
+
 Techniques for analyzing the demographic, economic, physical, and social conditions that exist at the neighborhood and local government scale. While our focus will be on analyzing current conditions, we will also learn how to tell stories about neighborhood change, and will learn how to project and forecast future trends. We will learn how to describe community characteristics with small area census data, work with local administrative data, and will learn how to design primary data collection strategies to fill in gaps in knowledge gained through exploration and analysis of existing data.
 
 ### UP 592 Doctoral Urban Planning Seminar
@@ -21,8 +23,7 @@ The Doctoral Urban Planning seminar is a platform for intellectual development f
 
 ### UP 473 Housing and Urban Policy
 
-[Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/473) </br>
-[Course Website](https://up473f23.netlify.app) (draft in progress)
+[Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/473) </br> [Course Website](https://up473f23.netlify.app) (draft in progress)
 
 Housing represents a fundamental human need and a critical element of human settlements. Within the context of urban planning, housing represents one of the ways in which planning intervention has sought to ensure the health and safety of residents, while also bearing influence on the spatial, social, and economic relationships that differentiate housing and other land uses. Within this class, we will explore the policies and practices that constitute housing policy in the United States and abroad, in order to understand where and how planning strategies have been effective (and ineffective) at shaping physical, economic, social, and political dimensions of housing.
 
