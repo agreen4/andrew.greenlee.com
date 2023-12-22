@@ -20,10 +20,10 @@ website:
       - consulting/consulting.qmd
       
   sidebar:
-        title: "Student Resources"
+        title: "Resources"
         style: "floating"  
         contents:
-            - text: "Advisee Resources"
+            - text: "Resources"
               file: "resources/resources.qmd"
             - section: "Prospective Students"
               contents:
@@ -35,6 +35,10 @@ website:
                   file: resources/adviser.qmd
                 - text: "The MUP Capstone"
                   file: resources/mup_capstone.qmd
+            - section: "Faculty / Colleagues"
+              contents:
+                - text: "Navigating a Move to Chambana"
+                  file: resources/chambana.qmd
   favicon: favicon.png
   page-footer:
     left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"

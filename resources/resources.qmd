@@ -1,5 +1,5 @@
 ---
-title: "Student Resources"
+title: "Resources"
 format:
   html:
     page-layout: full
@@ -7,7 +7,11 @@ format:
 sidebar: true
 ---
 
-There's a lot of common questions that I get asked as an adviser and as a program director. While I'm always open to talking (often in too much detail!) about how to navigate graduate studies, I also want to share my thoughts in writing as a resource.
+There's a lot of common questions that I get asked as an adviser, program director, and colleague. 
+
+For prospective and current students - I'm always open to talking (often in too much detail!) about how to navigate graduate studies, I also want to share my thoughts in writing as a resource.
+
+For colleagues - I hope some of these resources might be useful as you navigate academia.
 
 While many of these thoughts are written with the policies and practices of the Department of Urban and Regional Planning at University of Illinois at Urbana-Champaign in mind, it's my hope that some of my perspective may reasonably translate to experiences in other departments and universities.
 
