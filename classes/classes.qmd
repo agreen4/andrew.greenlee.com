@@ -13,6 +13,8 @@ sidebar: false
 
 [Registration Link](https://courses.illinois.edu/schedule/2024/fall/UP/591)
 
+The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester.
+
 ### UP 592: Doctoral Urban Planning Seminar
 
 [Registration Link](https://courses.illinois.edu/schedule/2024/fall/UP/592)
