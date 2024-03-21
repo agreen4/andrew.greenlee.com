@@ -57,6 +57,15 @@ Bachelor of Arts in English and Sociology, Grinnell College
 ::: g-col-9
 *Professor*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
 :::
+
+::: g-col-3
+2023 - Present
+:::
+
+::: g-col-9
+*Director of Graduate Studies*, Department of Urban and Regional Planning, University of Illinois at Urbana-Champaign
+:::
+
 ::: g-col-3
 2019 - 2023
 :::
@@ -82,7 +91,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2021 -- Present
+2021 -- 2023
 :::
 
 ::: g-col-9
@@ -654,6 +663,7 @@ Workshop in Urban Environmental Equity
 ::: g-col-5
 2014, 2015
 :::
+
 ::: g-col-2
 UP 592
 :::
@@ -858,6 +868,15 @@ Student Employee of the Year, Grinnell College
 ## Academic and Professional Service
 
 ::: grid
+
+::: g-col-3
+2023
+:::
+
+::: g-col-9
+Chair, Land Use and Regional Governance Faculty Search Committee, DURP
+:::
+
 ::: g-col-3
 2022 - 2023
 :::
@@ -1055,7 +1074,7 @@ Member, Urban Design Faculty Search Committee, DURP
 
 ::: grid
 ::: g-col-3
-2020 -- Present
+2020 -- 2023
 :::
 
 ::: g-col-9
