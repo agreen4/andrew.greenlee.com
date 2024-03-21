@@ -1,0 +1,50 @@
+---
+title: "Graduate Internships"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 4
+sidebar: true
+---
+
+In planning and other applied fields, internships are particularly useful for gaining experience with practice. They are so integral to the learning process that many graduate programs include them as a required component of the degree, while others might offer optional credit if you pursue one.
+
+In many cases, graduate students I work with have some prior internship experience as an undergraduate student or some work experience in a professional setting. Oftentimes, in their new role as a graduate student, they'll pursue similar strategies for internship identification - sometimes this works well, but in many cases, this approach misses the mark for what an internship might potentially do for someone pursuing a terminal professional degree.
+
+Here are some thoughts on how to maximize what internships and other paraprofessional work experiences can do for you as a graduate student. I'm going to focus on the types of experiences that may be most appropriate for students and professionals in urban planning, but I think much of my advice should be widely applicable, particularly to graduate students in other applied fields.
+
+The usual caveats apply, however - your mileage may vary, and these are my personal opinions and should not be taken as those of my employer or as policy associated with my roles in the department or university.
+
+## How do internships fit into graduate education (in urban planning)?
+
+Put succinctly, there's a lot you can learn in the classroom, but much of it has limited utility until you are asked to apply what you've learned in practice. Graduate education in applied fields typically represents a terminal professional qualification to practice - you are receiving training that's designed as a strong foundation for an upwardly responsible professional career in the field. What allows you to advance is how you bring together what you've learned in school with practical wisdom gained through practice.
+
+Internships allow you to integrate and process what you've learned through its application. Hopefully, internship experiences help you to better understand how classroom knowledge and skills are applied in practice, increases your experience in their application, and helps build your confidence and grounding as a *practitioner*. As such, while any internship can be beneficial, it makes sense for someone at the graduate level to focus on internship experiences that are going to directly contribute to their own vision for planning practice.
+
+## What makes an internship useful?
+
+Internships can be useful for a lot of reasons, however, I find that oftentimes my graduate students begin compulsively applying for internships without taking the time to reflect on how an internship will advance *their specific goals and needs*. Let's explore systematically:
+
+**Experience:** This may seem very obvious, but clearly internships can help you gain experience with practice. The value of this experience, however, is very different if you've never had a professional job or all of your prior experience is in a very different area. Taking the time to reflect on what the value of experience is for you is important for articulating your internship goals.
+
+**Networks:** Internships should help you build (or add depth to) your personal and professional networks. Urban planning is ultimately a "small" field where professional networks can make a major difference in how you enter the field and in the opportunities available to you. Internships give you a point of entry, and allow you to start to build a reputation. Even if you ultimately choose to pursue professional opportunities in other areas of practice that are not directly connected to your internship, the networks and connections you build during the internship can still be instrumental to those new opportunities. Assuming you build a strong repoire with staff at your internship, you should also expect that your supervisor or other staff may continue to help you with informal mentorship and navigation in the job market following the conclusion of your internship - of course that is not a requirement, but I"ve often found that studenrts are surprised when the first see a network of professionals working on their behalf. 
+
+At the beginning of an internship, there may not be much to reflect on with regards to networks. It does often make sense to be able to clearly articulate to a supervisor or hiring manager your goals, and this might include some professional development goals alongside goals related to experience.
+
+**Access - geographic:** Along with experience and networks, internships can be an important way to gain strategic exposure to practice in a particular geographic location. Every place has its unique characteristics that shape how practice happens, and having some experience, even limited experience over the course of an internship can make a big difference for subsequent job applications in that place. As you reflect upon your overall goals, you may find that you have some insight into the type of context or location you would like to work in after you graduate. This may help you prioritize internship opportunities that offer you access or exposure to that context or to similar places.
+
+## How can I effectively identify and pursue internship opportunities?
+
+Hopefully, some of the above thoughts have helped you start to articulate a set of goals associated with pursuing an internship. These goals should help you to focus your internship search. A big mistake that I see a lot of students making is that they apply for (literally) everything. For a graduate student, there are almost no cases where I think this makes sense. Slowing down, taking time to be deliberate, and developing an approach that prioritizes certain positions often makes more sense. Let's break down some advice about the internship search strategy.
+
+**Have a Strategy:** I see many graduate students initiating their internship search too early and without a clear strategy in mind. Having a plan is crucial, and allows you to focus time and effort into *attaining your goals* in an internship search. Taking the time to articulate your goals as well as a strategy for achieving them is crucial. Thinking critically about what evidence will allow you to determine whether there's a good match between a potential opportunity and your goals is also important.
+
+**Search Passively and Actively:** I find that most graduate students conduct *passive* internship searches - they wait for positions to be posted on job boards or websites. Of course a passive search strategy can yield results, and in some cases, you may even know to expect that certain agencies or employers will advertise positions this way. For most graduate students, however, a search strategy that relies only on a passive strategy will be frustrating, and will not yield great results. Active search strategies would include approaches where it's you reaching out or making connections independently of an advertised internship or job position. 
+
+Reaching out and making connections may come through networking, informational interviews, engagement through classes, or asking academic or professional contacts to make a connection on your behalf. Clearly, an active strategy is more "costly" in terns of time and effort. This means that you will have to *be strategic* in using this strategy, focusing on potential employers for who you see a very strong fit or value added for you to benefit from. Think about this as part of a hierarchical strategy - you may want to focus active search strategies on a narrow set of potential employers who you see a very strong fit with and then rely upon some combination of active and passive strategies for a broader set of positions that are of interest, but for which you see less of a compelling fit. You might also focus on active outreach and engagement early in your internship search, have a period when you choose to focus more on passive search strategies, and then start to integrate active search strategies again as you get close to your preferred start date or availability to work as an intern.
+
+In pursuing an active strategy, it's important to understand that every contact you make or conversation you solicit will not pay off. You're oftentimes asking a busy practitioner to take time from their work to engage with you or get to know about your work or overall goals. Some people will be more or less receptive to this. If you don't get a response or get a negative response, don't take it as a sign that they are not interested in helping you or don't see a good reason to engage with you - professionals are often just busy and have to prioritize where their effort is going at a given time.
+
+If you reach out to someone or leverage your contacts to have them reach out on your behalf, you better be ready if they respond positively! Do your homework. Know something about the individual and know things about they agency they work for. Have specific questions in mind that show you're thinking purposefully and seriously. Be honest about why you're being in touch, but also be open to having a broader conversation.
+

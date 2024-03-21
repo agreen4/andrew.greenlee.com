@@ -7,7 +7,7 @@ format:
 sidebar: true
 ---
 
-There's a lot of common questions that I get asked as an adviser, program director, and colleague. 
+There's a lot of common questions that I get asked as an adviser, program director, and colleague.
 
 For prospective and current students - I'm always open to talking (often in too much detail!) about how to navigate graduate studies, I also want to share my thoughts in writing as a resource.
 
