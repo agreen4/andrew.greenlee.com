@@ -7,6 +7,18 @@ format:
 sidebar: false
 ---
 
+## Fall 2024
+
+### UP 591: Capstone Seminar
+
+[Registration Link](https://courses.illinois.edu/schedule/2024/fall/UP/591)
+
+### UP 592: Doctoral Urban Planning Seminar
+
+[Registration Link](https://courses.illinois.edu/schedule/2024/fall/UP/592)
+
+The Doctoral Urban Planning seminar is a platform for intellectual development for PhD students in the Department of Urban & Regional Planning and a medium for building a community of scholars. The seminars facilitate the exchange of ideas and perspectives among urban planning Ph.D. students and faculty. The seminar is intended to benefit doctoral students across all stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
+
 ## Spring 2024
 
 ### UP 570 Neighborhood Analysis
