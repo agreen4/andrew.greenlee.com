@@ -7,13 +7,28 @@ format:
 sidebar: false
 ---
 
+## Spring 2025
+
+### UP 510: Plan Making Workshop
+
+In this workshop, we’ll work with a local government client to describe threats to local housing stability and will develop appropriate strategies and recommendations responsive to local housing submarkets. Students can expect to engage directly with local government and community stakeholders, as well as other housing professionals. Outputs will include an analysis of local threats to housing stability, a review of best practices from other communities facing similar challenges, and recommendations for government and housing practitioners.
+ 
+### UP 591: Capstone Seminar
+
+The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester. All MUP 2 students take 0 credit hours of workshop in the spring.
+
+### UP 592: Doctoral Urban Planning Seminar
+
+The Doctoral Urban Planning seminar is a platform for intellectual development for PhD students in the Department of Urban & Regional Planning and a medium for building a community of scholars. The seminars facilitate the exchange of ideas and perspectives among urban planning Ph.D. students and faculty. The seminar is intended to benefit doctoral students across all stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
+
+
 ## Fall 2024
 
 ### UP 591: Capstone Seminar
 
 [Registration Link](https://courses.illinois.edu/schedule/2024/fall/UP/591)
 
-The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester.
+The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester. MUP 2 students will either take 0 credit hours of capstone seminar (if pursuing the Workshop capstone option) or 4 credit hours of capstone seminar (if pursuing the Project or Thesis capstone option).
 
 ### UP 592: Doctoral Urban Planning Seminar
 
