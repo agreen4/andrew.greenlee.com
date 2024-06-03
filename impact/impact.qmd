@@ -17,6 +17,8 @@ sidebar: false
 
 **Nadia Kim** (co-advisor with [Marc Doussard](https://urban.illinois.edu/people/profiles/marc-doussard/)) [{{< fa brands linkedin >}}]()
 
+**Julia de Souza Campos Paiva** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julia-paiva-098591157/)
+
 **Jon Petty** (co-advisor with [Marc Doussard](https://urban.illinois.edu/people/profiles/marc-doussard/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jonathan-petty-phd-student-69151815/)
 
 **Shiva Sheikhfarshi** (co-advisor with [Fang Fang](https://urban.illinois.edu/people/profiles/fang-fang/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shiva-sheikhfarshi-38a8b1194/)
@@ -35,7 +37,7 @@ sidebar: false
 
 ### Master of Urban Planning
 
-#### Current
+#### 2024
 
 **Linda Derhak**: Rural Realities: An Environmental Justice Needs Assessment for Rural Illinois [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lindaderhak/)
 
@@ -59,7 +61,7 @@ sidebar: false
 
 #### 2023
 
-**Anagha Devanarayanan**: Examining the role of government initiatives and community efforts to drive private investment in Chicago's Opportunity Zones [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anagha-dev/)
+**Anagha Devanarayanan**: Examining the role of government initiatives and community efforts to drive private investment in Chicago's Opportunity Zones [{{< fa book >}}](https://hdl.handle.net/2142/121530) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anagha-dev/)
 
 **Gaargi Kulkarni**: Connecting the dots -- Scenario Planning -- A Multimodal Transit- Oriented Development- What it means for MSY and the City of Kenner [{{< fa brands linkedin >}}](https://www.linkedin.com/in/gaargi-kulkarni-b87bbb95/)
 
@@ -69,15 +71,15 @@ sidebar: false
 
 #### 2022
 
-**Arpita Banerjee**: A Disaster Planning Integration Toolkit for Rural Communities in Illinois [{{< fa brands linkedin >}}](https://www.linkedin.com/in/arpita-banerjee-aa78b372/)
+**Arpita Banerjee**: A Disaster Planning Integration Toolkit for Rural Communities in Illinois [{{< fa book >}}](https://hdl.handle.net/2142/122298) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/arpita-banerjee-aa78b372/)
 
 **Rosario Barrera**: The Displacement of Noncitizens Across the City of Chicago [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rosario-barrera-840b68163/)
 
-**Iain Burns**: Shrinking Smart: Confronting Urban Decline in Decatur, IL [{{< fa brands linkedin >}}](https://www.linkedin.com/in/iain-burns-34a08a249/)
+**Iain Burns**: Shrinking Smart: Confronting Urban Decline in Decatur, IL [{{< fa book >}}](https://hdl.handle.net/2142/122300) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/iain-burns-34a08a249/)
 
-**Theresa Dunne**: A New Yorker's Nightmare: Examining the Relationship Between Bedbug Infestations and the Build Environment through New York City Disclosure Data [{{< fa brands linkedin >}}](https://www.linkedin.com/in/theresa-dunne-666517b2/)
+**Theresa Dunne**: A New Yorker's Nightmare: Examining the Relationship Between Bedbug Infestations and the Build Environment through New York City Disclosure Data [{{< fa book >}}](https://hdl.handle.net/2142/122302) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/theresa-dunne-666517b2/)
 
-**Jack Maszka**: Bridge to Home: Anti-Poverty Campaign with Cunningham Township [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jack-maszka/)
+**Jack Maszka**: Bridge to Home: Anti-Poverty Campaign with Cunningham Township [{{< fa book >}}](https://hdl.handle.net/2142/122766) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jack-maszka/)
 
 #### 2021
 
@@ -85,7 +87,7 @@ sidebar: false
 
 **Frankie Lewington**: Supporting Indigenous Data Sovereignty: Improving Housing Outcomes for American Indian and Alaska Native (AIAN) Populations [{{< fa book >}}](https://hdl.handle.net/2142/111638) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/frankie-lewington-12b87a83/)
 
-**J.D. McClanahan**: A Housing Toolkit for Rural Illinois [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jd-mcclanahan/)
+**J.D. McClanahan**: A Housing Toolkit for Rural Illinois [{{< fa book >}}]() \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jd-mcclanahan/)
 
 **Emma Walters**: Considering Uncertain Futures in Shrinking Regions: Inventing, Reinventing, and Responding to Narratives Through Scenario Planning [{{< fa book >}}](https://hdl.handle.net/2142/113922) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/emmawalters/)
 
