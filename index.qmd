@@ -13,9 +13,9 @@ sidebar: false
 ::: g-col-6
 ### Welcome to my site!
 
-I'm a Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu). I teach and research at the intersection of housing policy, neighborhood change, and social equity in cities.
+I'm a Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu) at [University of Illinois at Urbana-Champaign](https://illinois.edu). I teach and research at the intersection of housing policy, neighborhood change, and social equity in cities. In the Department of Urban and Regional Planning, I serve as the Director of Graduate Studies.
 
-At University of Illinois, I run the [Illinois Housing Lab](https://housinglab.agreen4.web.illinois.edu), and am a faculty affiliate of the [Center for Social and Behavioral Sciences](https://csbs.research.illinois.edu) and the [Institute of Government and Public Affairs](https://igpa.uillinois.edu/andrew-greenlee/). In the Department of Urban and Regional Planning, I serve as the Director of Graduate Studies.
+At University of Illinois, I run the [Illinois Housing Lab](https://housinglab.agreen4.web.illinois.edu), and am a faculty affiliate of the [Center for Social and Behavioral Sciences](https://csbs.research.illinois.edu)  the [Institute of Government and Public Affairs](https://igpa.uillinois.edu/andrew-greenlee/), the [Lemann Center for Brazilian Studies](https://lemann.illinois.edu), and the [Center for Latin American & Caribbean Studies](https://clacs.illinois.edu). 
 
 I am not currently accepting applications from prospective Ph.D. advisees.
 :::
