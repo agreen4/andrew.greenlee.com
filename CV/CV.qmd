@@ -868,7 +868,6 @@ Student Employee of the Year, Grinnell College
 ## Academic and Professional Service
 
 ::: grid
-
 ::: g-col-3
 2023
 :::
