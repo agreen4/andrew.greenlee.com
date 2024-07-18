@@ -12,7 +12,7 @@ sidebar: false
 ### UP 510: Plan Making Workshop
 
 In this workshop, we’ll work with a local government client to describe threats to local housing stability and will develop appropriate strategies and recommendations responsive to local housing submarkets. Students can expect to engage directly with local government and community stakeholders, as well as other housing professionals. Outputs will include an analysis of local threats to housing stability, a review of best practices from other communities facing similar challenges, and recommendations for government and housing practitioners.
- 
+
 ### UP 591: Capstone Seminar
 
 The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester. All MUP 2 students take 0 credit hours of workshop in the spring.
@@ -20,7 +20,6 @@ The MUP Capstone Seminar is designed to structure and support the early stages o
 ### UP 592: Doctoral Urban Planning Seminar
 
 The Doctoral Urban Planning seminar is a platform for intellectual development for PhD students in the Department of Urban & Regional Planning and a medium for building a community of scholars. The seminars facilitate the exchange of ideas and perspectives among urban planning Ph.D. students and faculty. The seminar is intended to benefit doctoral students across all stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
-
 
 ## Fall 2024
 
@@ -38,13 +37,13 @@ The Doctoral Urban Planning seminar is a platform for intellectual development f
 
 ## Spring 2024
 
-### UP 570 Neighborhood Analysis
+### UP 570: Neighborhood Analysis
 
 [Course Website](https://up570s24.netlify.app)<br>
 
 Techniques for analyzing the demographic, economic, physical, and social conditions that exist at the neighborhood and local government scale. While our focus will be on analyzing current conditions, we will also learn how to tell stories about neighborhood change, and will learn how to project and forecast future trends. We will learn how to describe community characteristics with small area census data, work with local administrative data, and will learn how to design primary data collection strategies to fill in gaps in knowledge gained through exploration and analysis of existing data.
 
-### UP 592 Doctoral Urban Planning Seminar
+### UP 592: Doctoral Urban Planning Seminar
 
 [Course Website](https://up592s24.netlify.app)<br>
 
@@ -52,7 +51,7 @@ The Doctoral Urban Planning seminar is a platform for intellectual development f
 
 ## Fall 2023
 
-### UP 473 Housing and Urban Policy
+### UP 473: Housing and Urban Policy
 
 [Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/473) </br> [Course Website](https://up473f23.netlify.app) (draft in progress)
 
@@ -66,7 +65,7 @@ By the end of this course, we will develop:
 4.  A framework for evaluation and analysis of housing policies in the US and abroad;
 5.  Strategies for effective analysis and communication of housing policy trends and impacts.
 
-### FAA 499 / UP 494 Informing the Illinois Arts Ecosystem
+### FAA 499 / UP 494: Informing the Illinois Arts Ecosystem
 
 Co-taught with [Jennifer Novak-Leonard](https://urban.illinois.edu/people/profiles/jennifer-novak-leonard/) and [Magdalena Novoa](https://urban.illinois.edu/people/profiles/magdalena-novoa/)
 
@@ -91,7 +90,7 @@ Here are some example policy briefs and issues which will guide our learning thi
 
 -   [Peoria's Cultural Assets: Mapping Resources, People, and Meaning](https://artsimpact.faa.illinois.edu/research/peorias-cultural-assets-mapping-resources-people-and-meaning/) / [Peoria's Cultural Assets Storymap](https://storymaps.arcgis.com/stories/82cb29024ce3465290995b8f6b3ca313)
 
-### UP 592 Doctoral Urban Planning Seminar
+### UP 592: Doctoral Urban Planning Seminar
 
 [Registration Link](https://courses.illinois.edu/schedule/2023/fall/UP/592)
 
@@ -99,13 +98,13 @@ The Doctoral Urban Planning seminar is a platform for intellectual development f
 
 ## Spring 2023
 
-### UP 473 Housing and Urban Policy
+### UP 473: Housing and Urban Policy
 
 [Course Website](https://up473s23.netlify.app)
 
 The role of housing in American social policy planning: the history of public and private intervention in housing, regulation of supply and demand within housing markets and market imperfections; analysis of public policies for housing as they affect special populations (for example, the poor, the elderly, the disabled, homeless, and minorities).
 
-### UP 570 Neighborhood Analysis
+### UP 570: Neighborhood Analysis
 
 [Course Website](https://up570s23.netlify.app)
 
@@ -117,20 +116,20 @@ On sabbatical
 
 ## Spring 2022
 
-### UP 473 Housing and Urban Policy
+### UP 473: Housing and Urban Policy
 
 [Course Website](https://housingandurbanpolicy-s22.netlify.app)
 
 ## Fall 2021
 
-### UP 101 Introduction to City Planning
+### UP 101: Introduction to City Planning
 
-### UP 494-AG Neighborhood Analysis
+### UP 494-AG: Neighborhood Analysis
 
 [Course Website](https://neighborhood-analysis-f21.netlify.app)
 
 ## Spring 2021
 
-### UP 494-AG Neighborhood Analysis
+### UP 494-AG: Neighborhood Analysis
 
 [Course Website](https://neighborhood-analysis-s21.netlify.app)
