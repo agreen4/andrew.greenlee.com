@@ -19,6 +19,8 @@ sidebar: false
 
 **Julia de Souza Campos Paiva** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julia-paiva-098591157/)
 
+**Marwah Malik** (co-advisor with [Omar Perez-Figueroa](https://urban.illinois.edu/people/profiles/omar-perez-figueroa/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/marwahmaqbool/)
+
 **Jon Petty** (co-advisor with [Marc Doussard](https://urban.illinois.edu/people/profiles/marc-doussard/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jonathan-petty-phd-student-69151815/)
 
 **Shiva Sheikhfarshi** (co-advisor with [Fang Fang](https://urban.illinois.edu/people/profiles/fang-fang/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shiva-sheikhfarshi-38a8b1194/)
@@ -36,6 +38,10 @@ sidebar: false
 **Sowmya Balachandran**: Low-Income Homeownership for Intergenerational Mobility?: The Role of Intermediaries in Risk Mitigation [{{< fa book >}}](https://hdl.handle.net/2142/112969) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sowmyab2/) \| [{{< fa globe >}}](https://hps.unt.edu/sowmya-balachandran-phd)
 
 ### Master of Urban Planning
+
+#### 2025
+
+**Luisa Fernandes Vieira da Ponte** (co-advisor with [Faranak Miraftab](https://urban.illinois.edu/people/profiles/faranak-miraftab/)): Reframing Urban Sustainability Through the Perspective of Socio-Environmental Insurgent Practice 
 
 #### 2024
 
@@ -229,15 +235,21 @@ sidebar: false
 
 **Vinisha Basnet**, University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/vinisha-singh-basnet-8720a81b0/)
 
+**Devin Goodson**, University of Illinois at Urbana-Champaign. Ph.D. in Natural Resources and Environmental Sciences.
+
+**Matthew Hiett**, University of Illinois at Urbana-Champaign. Ph.D. in Geography. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/matthewhiett/)
+
 **Michelle Hoereth**, University of Illinois at Chicago. Ph.D. in Educational Policy Studies.
 
 **Keith Miller**, "Impacts of Built Environment and Outdoor Air Quality on Neighborly Social Interaction: An Ethnographic Comparative Multiple Case Study of Compact, Diverse, Walkable Neighborhoods in Los Angeles," University of Illinois at Urbana-Champaign. Ph.D. in Architecture. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/keith-miller-5490a6109/)
 
-**Kristy Ulrich Papcuzn**, "Giving Attention to Hauntings and Engaging with Ghosts: Portraits of Closed Schools in Chicago". University of Illinois at Chicago. Ph.D. in Educational Policy Studies.
-
 **Emily Rhoades**, University of Illinois at Urbana-Champaign. Ph.D. in Social Work.
 
 **Nina Roberts**, "Seeking the Urban Resilience Fix: Balancing Economic Growth, Climate Change, and Social Justice in Flagstaff, Arizona". University of Illinois at Urbana-Champaign. Ph.D. in Geography. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/nina-roberts-15775b17a/)
+
+#### 2024
+
+**Kristy Ulrich Papcuzn**, "Giving Attention to Hauntings and Engaging with Ghosts: Portraits of Closed Schools in Chicago". University of Illinois at Chicago. Ph.D. in Educational Policy Studies.
 
 #### 2022
 
