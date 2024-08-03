@@ -33,7 +33,7 @@ Please contact us at [housinglab\@illinois.edu](mailto:housinglab@illinois.edu)
 ::: g-col-8
 ### Dr. Andrew Greenlee
 
-Andrew J. Greenlee Ph.D. is a Professor in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. His research lies at the intersection of housing policy, poverty, and social equity within cities and regions. His current research examines neighborhood and metropolitan opportunity structures through residential mobility processes. Greenlee's other ongoing research examines the influence of governance on spatial outcomes for public and subsidized housing participants, and the dynamics of neighborhood change driven by urban renewal processes and public housing transformation.
+Andrew J. Greenlee Ph.D. is Professor in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. His research lies at the intersection of housing policy, poverty, and social equity within cities and regions. His current research examines neighborhood and metropolitan opportunity structures through residential mobility processes. Greenlee's other ongoing research examines the influence of governance on spatial outcomes for public and subsidized housing participants, and the dynamics of neighborhood change driven by urban renewal processes and public housing transformation.
 :::
 
 ::: g-col-4
@@ -43,7 +43,7 @@ Andrew J. Greenlee Ph.D. is a Professor in the Department of Urban and Regional 
 ::: g-col-8
 ### Emma Walters, MUP
 
-Emma Walters is a Project Manager in the Illinois Housing Lab and PhD student in the Department of Urban and Regional Planning at the University of Illinois at Urbana Champaign. She explores housing policy and community and economic development within the context of urban shrinkage. Through the intersection of housing policy, governance, and economic and demographic changes, Emma examines the socio-economic and political complexities of urban shrinkage and its relationship to stable, affordable housing and quality of life.
+Emma Walters is a Project Manager in the Illinois Housing Lab and PhD candidate in the Department of Urban and Regional Planning at the University of Illinois at Urbana Champaign. She explores housing policy and community and economic development within the context of urban shrinkage. Through the intersection of housing policy, governance, and economic and demographic changes, Emma examines the socio-economic and political complexities of urban shrinkage and its relationship to stable, affordable housing and quality of life.
 :::
 
 ::: g-col-4
@@ -53,17 +53,7 @@ Emma Walters is a Project Manager in the Illinois Housing Lab and PhD student in
 ::: g-col-8
 ### Vinisha Basnet
 
-Vinisha Singh Basnet is a doctoral student in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master's in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet's work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects' ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs' colonies, one of the first initiatives at UIUC, to facilitate possible future research.
-:::
-
-::: g-col-4
-![](Sheikhfarshi.png){fig-alt="Picture of Shiva Sheikhfarshi"}
-:::
-
-::: g-col-8
-### Shiva Sheikhfarshi
-
-Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. Her research lies at the intersection of urban heat, social equity, and design-based policies and interventions. Through her work, she aims to examine how thermally comfortable and well-designed housing and neighborhoods can play a role in promoting health and equity and help to create more sustainable communities.
+Vinisha Singh Basnet is a doctoral candidate in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master's in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet's work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects' ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs' colonies, one of the first initiatives at UIUC, to facilitate possible future research.
 :::
 
 ::: g-col-4
@@ -73,8 +63,19 @@ Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Plan
 ::: g-col-8
 ### Julia De Souza Campos Paiva
 
-Julia De Souza Campos Paiva is a Research Assistant in the Illinois Housing Lab and a Master of Urban Planning student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
+Julia De Souza Campos Paiva is a Ph.D. student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
 :::
+
+::: g-col-4
+![](Petty_Jon.png){fig-alt="Picture of Jon Petty"}
+:::
+
+::: g-col-8
+### Jon Petty
+
+Jon Petty is a doctoral student in the Department of Urban and Regional Planning. His research interest explores innovative strategies that health care anchor institutions pursue to effectively engage low-income communities’ long-term social health conditions. Healthcare anchors are placed in a unique position to serve in a greater capacity beyond traditional medical health provision. The social avenues connected to holistic health broadens the basic needs of health anchor’s patients and relevant communities.
+:::
+
 :::
 
 ## Former Housing Lab Staff
@@ -88,6 +89,16 @@ Julia De Souza Campos Paiva is a Research Assistant in the Illinois Housing Lab 
 ### Anagha Devanarayanan
 
 Anagha Devanarayanan's planning interests include housing and community development policy, grassroots community-led planning, and urban governance. Her research interest in housing policy stems from her curiosity to learn how government capacity and action impacts individual living conditions.
+:::
+
+::: g-col-4
+![](Sheikhfarshi.png){fig-alt="Picture of Shiva Sheikhfarshi"}
+:::
+
+::: g-col-8
+### Shiva Sheikhfarshi
+
+Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. Her research lies at the intersection of urban heat, social equity, and design-based policies and interventions. Through her work, she aims to examine how thermally comfortable and well-designed housing and neighborhoods can play a role in promoting health and equity and help to create more sustainable communities.
 :::
 
 ::: g-col-4
@@ -181,13 +192,11 @@ September 27, 2022 [UI Researchers, YouthBuild Team Up to Train Exterminators](h
 
 ### Texas Assisted Housing Trajectory Study
 
-
-
 #### Project Summary
 
 Do Housing Choice Vouchers (HCVs) mitigate housing instability and displacement in Texas?
 
-We use administrative data from the HUD Family Report (Form 50058) to create longitudinal program participation histories for households who participated in the HCV Program between 2005 and 2022 in Texas’ major cities. These histories are cross-referenced with a suite of neighborhood-level sociodemographic and housing indicators, overlays for flood and inundation risk, and COVID-19 infection rates to understand the contribution of neighborhood-level factors. 
+We use administrative data from the HUD Family Report (Form 50058) to create longitudinal program participation histories for households who participated in the HCV Program between 2005 and 2022 in Texas’ major cities. These histories are cross-referenced with a suite of neighborhood-level sociodemographic and housing indicators, overlays for flood and inundation risk, and COVID-19 infection rates to understand the contribution of neighborhood-level factors.
 
 Through longitudinal spatial data analysis, the researchers will model a) the likelihood of a voucher-subsidized household moving as they relate to housing and non-housing neighborhood conditions, and b) the likelihood of moving to or from low-income neighborhoods. These models will help us to answer a set of question regarding whether housing vouchers help to mitigate housing instability due to both housing cost and other related factors.
 
