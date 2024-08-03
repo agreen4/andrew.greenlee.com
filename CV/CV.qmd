@@ -301,11 +301,11 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 2.  Mendenhall, Ruby, Renee Lemons, Flavia Andrade, Andrew Greenlee, Karen Kramer, Loren Henderson, Lizanne DeStefano, Christopher Larrison, Ilana Redstone Akresh, and Kevin Franklin. 2015. Chicago Earned Income Tax Credit Periodic Payment Pilot Final Evaluation. University of Illinois at Urbana-Champaign.
 
-3.  Smith, J., Andrew Greenlee, Sharon A. Legenza, and Kate Walz. 2011. Moving or Moving Up?: Understanding Residential Mobility for Housing Choice Voucher Families in Illinois. Illinois Affordable Housing Action and Research Project. UIC Voorhees Center with Sargent Shriver National Poverty Law Center, Housing Action Illinois, and Latino Policy Forum.
+3.  Smith, J., Andrew Greenlee, Sharon A. Legenza, and Kate Walz. 2011. Moving or Moving Up?: Understanding Residential Mobility for Housing Choice Voucher Families in Illinois. Illinois Affordable Housing Action and Research Project. UIC Voorhees Center with Sargent Shriver National Poverty Law Center, Housing Action Illinois, and Latino Policy Forum. [{{< fa solid arrow-up-right-from-square >}}](Reports/IHARP_State_report_JS_Final_4-6-11.pdf)
 
-4.  Greenlee, Andrew J. 2010. Illinois Assisted Housing and Residential Mobility Data Guide: County Level Fact Book and Index. Illinois African-American Family Commission.
+4.  Greenlee, Andrew J. 2010. Illinois Assisted Housing and Residential Mobility Data Guide: County Level Fact Book and Index. Illinois African-American Family Commission. [{{< fa solid arrow-up-right-from-square >}}](Reports/IllinoisAssistedHousingandResidentialMobilityDataGuide-web.pdf)
 
-5.  Smith, J., Andrew Greenlee, Sharon A. Legenza, and Kate Walz. 2010. Are We Home Yet? Creating Real Choice for Housing Choice Voucher Families in Chicago. Illinois Affordable Housing Action and Research Project. UIC Voorhees Center with Sargent Shriver National Poverty Law Center, Housing Action Illinois, and Latino Policy Forum.
+5.  Smith, J., Andrew Greenlee, Sharon A. Legenza, and Kate Walz. 2010. Are We Home Yet? Creating Real Choice for Housing Choice Voucher Families in Chicago. Illinois Affordable Housing Action and Research Project. UIC Voorhees Center with Sargent Shriver National Poverty Law Center, Housing Action Illinois, and Latino Policy Forum. [{{< fa solid arrow-up-right-from-square >}}](Reports/IHARP_HCV_Report_2010.pdf)
 
 ## Conference Papers and Presentations
 
