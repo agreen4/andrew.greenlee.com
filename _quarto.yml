@@ -37,6 +37,8 @@ website:
                   file: resources/grad_internships.qmd
                 - text: "The MUP Capstone"
                   file: resources/mup_capstone.qmd
+                - text: "Ph.D. Milestones"
+                  file: resources/phd_milestones.qmd
             - section: "Faculty / Colleagues"
               contents:
                 - text: "Navigating a Move to Chambana"
