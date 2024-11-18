@@ -7,7 +7,7 @@ format:
 sidebar: false
 ---
 
-::: grid
+::::: grid
 ::: g-col-6
 Andrew Jordan Greenlee</br> Professor</br> Department of Urban and Regional Planning</br> College of Fine and Applied Arts</br> University of Illinois at Urbana-Champaign</br>
 :::
@@ -15,13 +15,13 @@ Andrew Jordan Greenlee</br> Professor</br> Department of Urban and Regional Plan
 ::: g-col-6
 111 Temple Buell Hall, MC-619</br> 611 Lorado Taft Drive</br> Champaign, IL 61820</br> [agreen4\@illinois.edu](mailto:%20agreen4@illinois.edu)
 :::
-:::
+:::::
 
 Curriculum Vitae [{{< fa regular file-pdf >}}](GreenleeCV.pdf)
 
 ## Education
 
-::: grid
+::::::::: grid
 ::: g-col-3
 8/2006 -- 4/2012
 :::
@@ -45,11 +45,11 @@ Master of Science in Urban and Regional Planning, The University of Iowa</br> Ma
 ::: g-col-9
 Bachelor of Arts in English and Sociology, Grinnell College
 :::
-:::
+:::::::::
 
 ## Professional Experience
 
-::: grid
+::::::::::::::::::::::: grid
 ::: g-col-3
 2023 - Present
 :::
@@ -129,7 +129,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 ::: g-col-9
 *Research Assistant*, Nathalie P. Voorhees Center, University of Illinois at Chicago
 :::
-:::
+:::::::::::::::::::::::
 
 ## Grants and Funded Research
 
@@ -309,101 +309,113 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 ## Conference Papers and Presentations
 
-1.  Greenlee, Andrew J., Sharon Legenza, and Emma Walters. 2024 “Participatory Mixed Methods for Assessing Spatial Justice in Housing Code Enforcement.” Paper Presented at the Urban Affairs Association Annual Meeting (New York, New York).
+1.  Greenlee, Andrew J., Sharon Legenza, and Emma Walters. 2024 “A Multistakeholder Assessment of Displacement Potentoal from Housing Code Enforcement in Illinois.” Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Seattle, Washington).
 
-2.  Greenlee, Andrew J. and Kirk McClure. 2023 “A Sequence-Based Analysis of Federal Housing Assistance Participation” Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Chicago, Illinois).
+2.  Greenlee, Andrew J., Sharon Legenza, and Emma Walters. 2024 “Code Enforcement as a Tool for Safe and Affordable Housing.” Paper Presented at the Housing Matters Conference, Illinois).
 
-3.  Greenlee, Andrew J. 2023. "Multistakeholder Evaluation of Housing Code Enforcement Ecosystems." Paper presented at the Urban Affairs Association Annual Meeting (Nashville, Tennessee).
+3.  Greenlee, Andrew J., Sharon Legenza, and Emma Walters. 2024 “Participatory Mixed Methods for Assessing Spatial Justice in Housing Code Enforcement.” Paper Presented at the Urban Affairs Association Annual Meeting (New York, New York).
 
-4.  Kaye, Tracy, and Andrew J. Greenlee. 2023. "Opportunity Zones and Race." Paper presented at the American Tax Policy Institute Critical Tax Symposium (Washington, D.C.).
+4.  Greenlee, Andrew J. and Kirk McClure. 2023 “A Sequence-Based Analysis of Federal Housing Assistance Participation” Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Chicago, Illinois).
 
-5.  Greenlee, Andrew J. 2022. "Evaluating the Ecology of Rental Housing Regulation in Illinois." Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Toronto, Canada).
+5.  Greenlee, Andrew J. 2023. "Multistakeholder Evaluation of Housing Code Enforcement Ecosystems." Paper presented at the Urban Affairs Association Annual Meeting (Nashville, Tennessee).
 
-6.  Greenlee, Andrew J., and Emma L. Walters. 2022. "Mapping Peoria's Creative and Cultural Assets Using Community Voice." Presented at the Illinois GIS Association Annual Meeting (Normal, Illinois).
+6.  Kaye, Tracy, and Andrew J. Greenlee. 2023. "Opportunity Zones and Race." Paper presented at the American Tax Policy Institute Critical Tax Symposium (Washington, D.C.).
 
-7.  Greenlee, Andrew J. 2022. "Tackling School and Housing Segregation Through AFFH: What do the Plans Say?" Presentation at the Public Housing Authorities Directors (PHADA) Annual Meeting (Virtual due to COVID-19 Pandemic)
+7.  Greenlee, Andrew J. 2022. "Evaluating the Ecology of Rental Housing Regulation in Illinois." Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Toronto, Canada).
 
-8.  Greenlee, Andrew J. 2022. "A Sequence-Based Analysis of Federal Housing Assistance Participation" Paper Presented at the Urban Affairs Association Annual Meeting (Washington, D.C.).
+8.  Greenlee, Andrew J., and Emma L. Walters. 2022. "Mapping Peoria's Creative and Cultural Assets Using Community Voice." Presented at the Illinois GIS Association Annual Meeting (Normal, Illinois).
 
-9.  Greenlee Andrew J. 2020. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Virtual due to COVID-19 Pandemic).
+9.  Greenlee, Andrew J. 2022. "Tackling School and Housing Segregation Through AFFH: What do the Plans Say?" Presentation at the Public Housing Authorities Directors (PHADA) Annual Meeting (Virtual due to COVID-19 Pandemic)
 
-10. Greenlee, Andrew J. 2019. "How Consistent are Racial Rent Premia in the Housing Choice Voucher Program?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
+10.  Greenlee, Andrew J. 2022. "A Sequence-Based Analysis of Federal Housing Assistance Participation" Paper Presented at the Urban Affairs Association Annual Meeting (Washington, D.C.).
 
-11. Greenlee, Andrew J., Elizabeth DeBray, Kara Finnigan, Megan Haberle, Heidi Kurniawan, and Jade Harvey. 2019. "Analyzing the Coordination of Education and Housing Policy Actors in Federal Assessments of Fair Housing." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
+11.  Greenlee Andrew J. 2020. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Virtual due to COVID-19 Pandemic).
 
-12. Greenlee, Andrew J. 2019. "Planning for Education and Housing Fairness: What do the Plans Say?" Paper Presented at the American Planning Association Illinois Chapter Annual Meeting (Evanston, Illinois).
+12. Greenlee, Andrew J. 2019. "How Consistent are Racial Rent Premia in the Housing Choice Voucher Program?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
 
-13. Greenlee, Andrew J. 2018. "What's Fair? Where's Fair? The Geography of Metropolitan Fair Housing Choice in Chicago" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Buffalo, New York).
+13. Greenlee, Andrew J., Elizabeth DeBray, Kara Finnigan, Megan Haberle, Heidi Kurniawan, and Jade Harvey. 2019. "Analyzing the Coordination of Education and Housing Policy Actors in Federal Assessments of Fair Housing." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
 
-14. Greenlee, Andrew J. 2018. "Moving to Opportunity? A Longitudinal Analysis of Residential Mobility Opportunity Structure" Paper Presented at the International Sociological Association World Congress (Toronto, Canada).
+14. Greenlee, Andrew J. 2019. "Planning for Education and Housing Fairness: What do the Plans Say?" Paper Presented at the American Planning Association Illinois Chapter Annual Meeting (Evanston, Illinois).
 
-15. Greenlee, Andrew J. 2018. "Status Discrepancy and the Structure of Individual and Collective Pathways of Residential Mobility in the Chicago Metropolitan Area" Paper Presented at the Regional Science Association World Congress (Goa, India).
+15. Greenlee, Andrew J. 2018. "What's Fair? Where's Fair? The Geography of Metropolitan Fair Housing Choice in Chicago" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Buffalo, New York).
 
-16. Greenlee, Andrew J. 2018. "How Does Neighborhood Housing Stability Influence Residential Mobility Pathways?" Paper Presented at the Urban Affairs Association Annual Meeting (Toronto, Canada).
+16. Greenlee, Andrew J. 2018. "Moving to Opportunity? A Longitudinal Analysis of Residential Mobility Opportunity Structure" Paper Presented at the International Sociological Association World Congress (Toronto, Canada).
 
-17. Greenlee, Andrew J. 2017. "Assessing the Spatial and Temporal Evolution of Gentrification-Induced Residential Mobility Pathways for the Chicago Metropolitan Area (2006-2015)." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Denver, Colorado).
+17. Greenlee, Andrew J. 2018. "Status Discrepancy and the Structure of Individual and Collective Pathways of Residential Mobility in the Chicago Metropolitan Area" Paper Presented at the Regional Science Association World Congress (Goa, India).
 
-18. Greenlee, Andrew J. 2017. "Expanding Small PHA Participation in the Moving to Work Program." Paper Presented at the National Association of Housing and Redevelopment Officials (NAHRO) Summer Conference (Indianapolis, Indiana).
+18. Greenlee, Andrew J. 2018. "How Does Neighborhood Housing Stability Influence Residential Mobility Pathways?" Paper Presented at the Urban Affairs Association Annual Meeting (Toronto, Canada).
 
-19. Greenlee, Andrew J. 2017. "Assessing the Spatial and Temporal Evolution of Residential Mobility for the Chicago Metropolitan Area 2006 -- 2015." Paper Presented at the International Sociological Association RC-43: Housing and the Built Environment Conference (Hong Kong).
+19. Greenlee, Andrew J. 2017. "Assessing the Spatial and Temporal Evolution of Gentrification-Induced Residential Mobility Pathways for the Chicago Metropolitan Area (2006-2015)." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Denver, Colorado).
 
-20. Greenlee, Andrew J. 2017. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Urban Affairs Association Annual Meeting (Minneapolis, Minnesota).
+20. Greenlee, Andrew J. 2017. "Expanding Small PHA Participation in the Moving to Work Program." Paper Presented at the National Association of Housing and Redevelopment Officials (NAHRO) Summer Conference (Indianapolis, Indiana).
 
-21. Greenlee, Andrew J. (with Flavia Andrade, Karen Kramer, and Miriam Keep). 2016. "The Chicago Periodic Earned Income Tax Credit (EITC Intervention): Preliminary Results. Poverty, Welfare, and Religion Symposium, Hebrew Union College (Cincinnati, Ohio).
+21. Greenlee, Andrew J. 2017. "Assessing the Spatial and Temporal Evolution of Residential Mobility for the Chicago Metropolitan Area 2006 -- 2015." Paper Presented at the International Sociological Association RC-43: Housing and the Built Environment Conference (Hong Kong).
 
-22. Greenlee, Andrew J. 2016. "Moving to Opportunity?: Pre and Post Participation Location Outcomes in the Housing Choice Voucher Program." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Portland, Oregon).
+22. Greenlee, Andrew J. 2017. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Urban Affairs Association Annual Meeting (Minneapolis, Minnesota).
 
-23. Greenlee, Andrew J. 2016. "Gentrification and Residential Displacement Patterns in Chicago's Public Housing Transformation." Paper Presented at the Urban Affairs Association Annual Meeting (San Diego, California).
+23. Greenlee, Andrew J. (with Flavia Andrade, Karen Kramer, and Miriam Keep). 2016. "The Chicago Periodic Earned Income Tax Credit (EITC Intervention): Preliminary Results. Poverty, Welfare, and Religion Symposium, Hebrew Union College (Cincinnati, Ohio).
 
-24. Greenlee, Andrew J. 2015 "Moving or Moving Up?: Neighborhood Transitions in Chicago's Public Housing 2006-2014." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Houston, Texas).
+24. Greenlee, Andrew J. 2016. "Moving to Opportunity?: Pre and Post Participation Location Outcomes in the Housing Choice Voucher Program." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Portland, Oregon).
 
-25. Greenlee, Andrew J. 2015 "I See Poor People: The CHA Plan for Transformation Moves Downstate." Paper Presented at the European Network for Housing Research (Lisbon, Portugal).
+25. Greenlee, Andrew J. 2016. "Gentrification and Residential Displacement Patterns in Chicago's Public Housing Transformation." Paper Presented at the Urban Affairs Association Annual Meeting (San Diego, California).
 
-26. Greenlee, Andrew J. 2014 "Planning Skills: An Examination of Supply and Local Government Demand." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Philadelphia, PA)
+26. Greenlee, Andrew J. 2015 "Moving or Moving Up?: Neighborhood Transitions in Chicago's Public Housing 2006-2014." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Houston, Texas).
 
-27. Greenlee, Andrew J. 2014 "CHAnging Disadvantage: Creating Spaces for Chicago's Third Ghetto". Paper presented at the International Sociological Association World Congress (Yokohama, Japan)
+27. Greenlee, Andrew J. 2015 "I See Poor People: The CHA Plan for Transformation Moves Downstate." Paper Presented at the European Network for Housing Research (Lisbon, Portugal).
 
-28. Greenlee, Andrew J. 2014 "Moving On? The Geography of Risk and Post-Foreclosure Displacement". Paper presented at the Urban Affairs Association Annual Meeting (San Antonio, Texas)
+28. Greenlee, Andrew J. 2014 "Planning Skills: An Examination of Supply and Local Government Demand." Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Philadelphia, PA)
 
-29. Greenlee, Andrew J. 2013 "Who Gets Ahead in the U.S. Housing Choice Voucher Program?". Paper presented at the AESOP/ACEP Joint Congress (Dublin, Ireland)
+29. Greenlee, Andrew J. 2014 "CHAnging Disadvantage: Creating Spaces for Chicago's Third Ghetto". Paper presented at the International Sociological Association World Congress (Yokohama, Japan)
 
-30. Greenlee, Andrew J. 2013 "Contextualizing the Discourse on Opportunity within U.S. Low-Income Mobility Policy" Paper presented at the International Sociological Association Research Panel 43 Conference (Amsterdam, Netherlands)
+30. Greenlee, Andrew J. 2014 "Moving On? The Geography of Risk and Post-Foreclosure Displacement". Paper presented at the Urban Affairs Association Annual Meeting (San Antonio, Texas)
 
-31. Greenlee, Andrew J. 2013. "Public Private \[Public\] Housing in Chicago: Prospects and Pitfalls," Paper presented at the American Planning Association Annual Meeting (Chicago, IL)
+31. Greenlee, Andrew J. 2013 "Who Gets Ahead in the U.S. Housing Choice Voucher Program?". Paper presented at the AESOP/ACEP Joint Congress (Dublin, Ireland)
 
-32. Greenlee, Andrew J. 2013. "Outmigration and the Geography of Nonmetropolitan Opportunity". Paper presented at the Urban Affairs Association Annual Meeting (San Francisco, CA)
+32. Greenlee, Andrew J. 2013 "Contextualizing the Discourse on Opportunity within U.S. Low-Income Mobility Policy" Paper presented at the International Sociological Association Research Panel 43 Conference (Amsterdam, Netherlands)
 
-33. Greenlee, Andrew J. 2012. "Finding the 'Fit' Between Housing Strategies and Housing Consumers." Paper presented at the Illinois Asset Building Group conference (Champaign, IL)
+33. Greenlee, Andrew J. 2013. "Public Private \[Public\] Housing in Chicago: Prospects and Pitfalls," Paper presented at the American Planning Association Annual Meeting (Chicago, IL)
 
-34. Greenlee, Andrew J. 2012. "Can Opportunity and Choice Co-Exist in Federal Housing Mobility Policy?" Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Cincinnati, OH)
+34. Greenlee, Andrew J. 2013. "Outmigration and the Geography of Nonmetropolitan Opportunity". Paper presented at the Urban Affairs Association Annual Meeting (San Francisco, CA)
 
-35. Greenlee, Andrew J. 2012. "Landlord Influence in the Housing Choice Voucher Program". Paper presented at the Urban Affairs Association Annual Meeting (Pittsburgh, PA)
+35. Greenlee, Andrew J. 2012. "Finding the 'Fit' Between Housing Strategies and Housing Consumers." Paper presented at the Illinois Asset Building Group conference (Champaign, IL)
 
-36. Greenlee, Andrew J. 2012. "Starting Over: Rebuilding Champaign's Bristol Place Neighborhood From the Ground Up," Illinois Chapter American Planning Association Annual Meeting (Champaign, IL)
+36. Greenlee, Andrew J. 2012. "Can Opportunity and Choice Co-Exist in Federal Housing Mobility Policy?" Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Cincinnati, OH)
 
-37. Greenlee, Andrew J. 2011. "Landlord Perspectives on the Housing Choice Voucher Program". Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Salt Lake City, UT)
+37. Greenlee, Andrew J. 2012. "Landlord Influence in the Housing Choice Voucher Program". Paper presented at the Urban Affairs Association Annual Meeting (Pittsburgh, PA)
 
-38. Greenlee, Andrew J. 2011. "Moving or Moving Up? Tenant Perspectives on Portability in Illinois' Housing Voucher Program." Paper presented at the Urban Affairs Association Annual Meeting (New Orleans, LA)
+38. Greenlee, Andrew J. 2012. "Starting Over: Rebuilding Champaign's Bristol Place Neighborhood From the Ground Up," Illinois Chapter American Planning Association Annual Meeting (Champaign, IL)
 
-39. Greenlee, Andrew J. 2010. "Moving Up or Just Moving? Tenant Perspectives on Portability in Illinois' Housing Voucher Program." Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Minneapolis, MN)
+39. Greenlee, Andrew J. 2011. "Landlord Perspectives on the Housing Choice Voucher Program". Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Salt Lake City, UT)
 
-40. Greenlee, Andrew J. 2010. "The Geography of Choice Within Illinois' Housing Choice Voucher Program." Paper presented at the Association of American Geographers Annual Meeting (Washington, DC)
+40. Greenlee, Andrew J. 2011. "Moving or Moving Up? Tenant Perspectives on Portability in Illinois' Housing Voucher Program." Paper presented at the Urban Affairs Association Annual Meeting (New Orleans, LA)
 
-41. Greenlee, Andrew J. 2010. "Where Are We Going?: Tenant Perspectives on Portability in Illinois' Housing Choice Voucher Program." Paper presented at the Urban Affairs Association Annual Meeting (Honolulu, HI)
+41. Greenlee, Andrew J. 2010. "Moving Up or Just Moving? Tenant Perspectives on Portability in Illinois' Housing Voucher Program." Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Minneapolis, MN)
 
-42. Greenlee, Andrew J. 2009 "A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program" Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Crystal City, VA)
+42. Greenlee, Andrew J. 2010. "The Geography of Choice Within Illinois' Housing Choice Voucher Program." Paper presented at the Association of American Geographers Annual Meeting (Washington, DC)
 
-43. Greenlee, Andrew J. 2009 "A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program" Paper presented at the International Sociological Association Research Panel 43 Conference (Glasgow, Scotland)
+43. Greenlee, Andrew J. 2010. "Where Are We Going?: Tenant Perspectives on Portability in Illinois' Housing Choice Voucher Program." Paper presented at the Urban Affairs Association Annual Meeting (Honolulu, HI)
 
-44. Greenlee, Andrew J. 2009 "The Geography of Social Vulnerability in Illinois' Housing Choice Voucher Program" Paper presented at the Association of American Geographers Annual Meeting (Las Vegas, NV)
+44. Greenlee, Andrew J. 2009 "A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program" Paper presented at the Association of Collegiate Schools of Planning Annual Meeting (Crystal City, VA)
 
-45. Greenlee, Andrew J. 2009 "A Longitudinal Assessment of Voucher Portability in Illinois' Housing Choice Voucher Program" Paper presented at the Urban Affairs Association Annual Meeting (Chicago, IL)
+45. Greenlee, Andrew J. 2009 "A Different Lens: Administrative Perspectives on Portability in Illinois' Housing Choice Voucher Program" Paper presented at the International Sociological Association Research Panel 43 Conference (Glasgow, Scotland)
 
-46. Greenlee, Andrew J. and Jerry Anthony. 2008 "The Chicago Low Income Housing Trust Fund: Evolution, Performance, and Prospects." Paper presented at the ACSP/AESOP Joint Congress (Chicago, IL)
+46. Greenlee, Andrew J. 2009 "The Geography of Social Vulnerability in Illinois' Housing Choice Voucher Program" Paper presented at the Association of American Geographers Annual Meeting (Las Vegas, NV)
+
+47. Greenlee, Andrew J. 2009 "A Longitudinal Assessment of Voucher Portability in Illinois' Housing Choice Voucher Program" Paper presented at the Urban Affairs Association Annual Meeting (Chicago, IL)
+
+48. Greenlee, Andrew J. and Jerry Anthony. 2008 "The Chicago Low Income Housing Trust Fund: Evolution, Performance, and Prospects." Paper presented at the ACSP/AESOP Joint Congress (Chicago, IL)
 
 ## Invited Lectures
 
-::: grid
+::::::::::::::::::::::::::::::::::::::::::: grid
+::: g-col-3
+October 18, 2024
+:::
+
+::: g-col-9
+*Emerging Perspectives from Research.* Invited Talk as part of the Rutgers Equity Alliance for Community Health Conference.
+:::
+
 ::: g-col-3
 February 24, 2023
 :::
@@ -563,13 +575,13 @@ May 16, 2009
 ::: g-col-9
 *The CHA Plan for Transformation's Impact on Homelessness.* Invited talk, The Hyde Park Transitional Housing Project Annual Meeting
 :::
-:::
+:::::::::::::::::::::::::::::::::::::::::::
 
 ## Courses Taught
 
 ### University of Illinois at Urbana-Champaign
 
-::: grid
+:::::::::::::::::::::::::::::::::::::::::: grid
 ::: g-col-2
 UP 101
 :::
@@ -725,11 +737,11 @@ Doctoral Urban Planning Seminar
 ::: g-col-5
 2023, 2024
 :::
-:::
+::::::::::::::::::::::::::::::::::::::::::
 
 ### University of Illinois at Chicago
 
-::: grid
+::::::: grid
 ::: g-col-3
 UPP 403
 :::
@@ -745,11 +757,11 @@ UPP 596
 ::: g-col-9
 Research and Writing Bootcamp, UIC
 :::
-:::
+:::::::
 
 ## Awards and Distinctions
 
-::: grid
+::::::::::::::::::::::::::::::::: grid
 ::: g-col-3
 2022
 :::
@@ -869,11 +881,11 @@ Senior Alumni Award, Grinnell College
 ::: g-col-9
 Student Employee of the Year, Grinnell College
 :::
-:::
+:::::::::::::::::::::::::::::::::
 
 ## Affiliations and Memberships
 
-::: grid
+::::::::::::: grid
 ::: g-col-3
 2014 - 2021
 :::
@@ -913,11 +925,11 @@ Student Employee of the Year, Grinnell College
 ::: g-col-9
 [Association of American Geographers](https://www.aag.org)
 :::
-:::
+:::::::::::::
 
 ## Academic and Professional Service
 
-::: grid
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: grid
 ::: g-col-3
 :::
 
@@ -1139,11 +1151,11 @@ Member, Economic Development Faculty Search Committee, DURP
 ::: g-col-9
 Member, Urban Design Faculty Search Committee, DURP
 :::
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## External Service
 
-::: grid
+::::::::::: grid
 ::: g-col-3
 2020 -- 2023
 :::
@@ -1175,4 +1187,4 @@ Bristol Place Neighborhood Steering Committee, Champaign, IL
 ::: g-col-9
 Member, Advisory Board, University of Iowa School of Urban and Regional Planning
 :::
-:::
+:::::::::::
