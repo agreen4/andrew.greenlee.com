@@ -16,9 +16,9 @@ The usual caveats apply, however - your mileage may vary, and these are my perso
 
 Although by their nature they are diverse, most Ph.D. programs in the United States follow a similar structure. I like to think of the Ph.D. as having three main stages:
 
-1. Coursework
-2. Advancing to Candidacy
-3. Dissertation
+1.  Coursework
+2.  Advancing to Candidacy
+3.  Dissertation
 
 There are different mechanics to each of these three phases which make them distinct from each other. Over the course of these three phases, you are expected to build expertise and an identity in a particular area of focus; situate your identity within the work which others have done in the past, test and affirm your general area of expertise and unique positionality, and then further demonstrate your capacity to design and execute original research related to your expertise (it's just that simple!).
 
@@ -52,21 +52,23 @@ It is also useful to keep your ear to the ground for specialized seminars offere
 
 Here's the key takeaways for your coursework phase:
 
-1. Have a Plan and Narrative: You will have a lot of flexibility in what you take - you need to come in with a concept for how you will structure your Ph.D. coursework to build core theoretical, methodological, and domain skills. On top of that, you need to develop a narrative that interweaves the choices you've made into how you frame your identity as a Ph.D. candidate (more below).
+1.  Have a Plan and Narrative: You will have a lot of flexibility in what you take - you need to come in with a concept for how you will structure your Ph.D. coursework to build core theoretical, methodological, and domain skills. On top of that, you need to develop a narrative that interweaves the choices you've made into how you frame your identity as a Ph.D. candidate (more below).
 
-2. Courses Serve Multiple Purposes: As you write and think during your coursework period, use coursework as an opportunity not just to think but also produce writing that advances your ideas. Some of this writing (and related research) should be good substrate for conference papers and can be worked into peer-reviewed papers.
+2.  Courses Serve Multiple Purposes: As you write and think during your coursework period, use coursework as an opportunity not just to think but also produce writing that advances your ideas. Some of this writing (and related research) should be good substrate for conference papers and can be worked into peer-reviewed papers.
 
-3. Embrace Being a Professional Student: Your engagement during the coursework phase isn't just in the classroom - you need to also develop a reading practice to build breadth and depth of knowledge, and will likely also gain experience as a Research Assistant or Teaching Assistant, learning elements of the trade. Immersing yourself in learning across these contexts is important, and is also your full-time job.
+3.  Embrace Being a Professional Student: Your engagement during the coursework phase isn't just in the classroom - you need to also develop a reading practice to build breadth and depth of knowledge, and will likely also gain experience as a Research Assistant or Teaching Assistant, learning elements of the trade. Immersing yourself in learning across these contexts is important, and is also your full-time job.
 
 #### What Advisors Want to See
 
-As a Ph.D. adviser, the main thing I want to see my advisees do during the coursework phase is to immerse themselves in the process of fleshing out their academic identity and practice. I want to see evidence that my advisees are reading widely and grappling with new ideas. I also want to see that they are pushing themselves in their coursework to develop outputs that reflect their evolving thinking. 
+As a Ph.D. adviser, the main thing I want to see my advisees do during the coursework phase is to immerse themselves in the process of fleshing out their academic identity and practice. I want to see evidence that my advisees are reading widely and grappling with new ideas. I also want to see that they are pushing themselves in their coursework to develop outputs that reflect their evolving thinking.
 
 ### Advancing to Candidacy
 
-Advancing to candidacy is when things start to get real. The candidacy phase essentially marks your transition from being a knowledge consumer to being a knowledge producer. Of all the phases of the Ph.D., I think that advancing to candidacy is often the least well-defined stage and also the one that causes the most intimidation and anxiety for doctoral students. This is also a time period where many students have a tendency to lose momentum or drag their feet due to the transition from the externally imposed structure of coursework to a period during which the student must define and impost their own structure.
+Advancing to candidacy is when things start to get real. The candidacy phase essentially marks your transition from being a knowledge consumer to being a knowledge producer. Advancing to candidacy requires the completion of your qualifying exam and completion of your dissertation proposal defense.
 
-During this period, which should ideally be only a few months long, you must articulate a coherent academic identity including domains of knowledge and related literatures which you claim expertise in, be tested on your command of your identity and its constituent domains, and articulate how you will apply your unique identity to a particular research project (the dissertation). Let's break down key considerations for each phase. 
+Of all the phases of the Ph.D., I think that advancing to candidacy is often the least well-defined stage and also the one that causes the most intimidation and anxiety for doctoral students. This is also a time period where many students have a tendency to lose momentum or drag their feet due to the transition from the externally imposed structure of coursework to a period during which the student must define and impost their own structure.
+
+During this period, which should ideally be only a few months long, you must articulate a coherent academic identity including domains of knowledge and related literatures which you claim expertise in, be tested on your command of your identity and its constituent domains, and articulate how you will apply your unique identity to a particular research project (the dissertation). Let's break down key considerations for each phase.
 
 #### Qualifying Documents
 
@@ -78,25 +80,21 @@ As an adviser, my goal is for students to independently develop and share these 
 
 #### The Qualifying Exam
 
-Talking with Ph.D. students, I think the qualifying exam may be more anxiety-producing than the dissertation process. Arguably, the notion of an exam does convey that the stakes are high, and there are real consequences for failing the exam. In general, an adviser will not let a student take the exam until they are confident they will pass it. I encourage my students to think about the qualifying exam as a unique moment  to show off their identity and approach as a scholar. This is a reflective moment that should be confidence-building.
+Talking with Ph.D. students, I think the qualifying exam may be more anxiety-producing than the dissertation process. Arguably, the notion of an exam does convey that the stakes are high, and there are real consequences for failing the exam. In general, an adviser will not let a student take the exam until they are confident they will pass it. I encourage my students to think about the qualifying exam as a unique moment to show off their identity and approach as a scholar. This is a reflective moment that should be confidence-building.
 
 Essentially, we're testing your knowledge and application of the domains you claim expertise of in your pre-qualifying documents. We use your pre-qualifying documents to craft questions that will ask you to demonstrate your command of theory, methods, research design, and domain-specific knowledge. Typically, your committee members will each take the lead on at least one of the questions, and may design some working together. Even if committee members take the lead on designing a question, all committee members will read and be prepared to comment on your responses during your oral defense.
 
 Different programs will have different exam formats. I am most accustomed to an exam format that is a period of writing and responding to questions from the examining committee that lasts around 1 week. I have heard of some institutions structuring exams to last hours or to be conducted in a timed fashion in a classroom. I typically design exams to be completed off campus (or wherever the student wants), with no time limit for individual questions, and an overall examination window of 7 days. Exams can be open book or closed book, but I tend to prefer open book exams because I can then see how a student leverages their command of literature.
 
-Typically you will need to provide an oral defense of your responses. When I took my exams, I envisioned a tribunal in which a wrong response might send me to the academic gallows. The reality is that the oral is typically a highly constructive and supportive process. Oftentimes, the oral defense will also be an occasion where your examination committee might share some thoughts about the implications of your thoughts for a potential dissertation framework and proposal. Again, the goal here is that this is a unique moment of constructive feedback. Of course if there are serious concerns about an exam response, you may be asked to provide more detail and accountability, or to re-approach the question with some additional writing. 
+Typically you will need to provide an oral defense of your responses. When I took my exams, I envisioned a tribunal in which a wrong response might send me to the academic gallows. The reality is that the oral is typically a highly constructive and supportive process. Oftentimes, the oral defense will also be an occasion where your examination committee might share some thoughts about the implications of your thoughts for a potential dissertation framework and proposal. Again, the goal here is that this is a unique moment of constructive feedback. Of course if there are serious concerns about an exam response, you may be asked to provide more detail and accountability, or to re-approach the question with some additional writing.
 
-#### Transitioning to Candidacy
+#### Dissertation Proposal
 
-Technically, once you complete your examination you have completed the transition from a doctoral student to a doctoral candidate. By successfully completing your exam, you have earned a Master of Philosophy (no, you are not awarded a separate M.Phil unless you leave your degree program without completing your Ph.D.).
-
-This transition is an exciting one, but also a dangerous one. After you complete your exams, you will likely be feeling a sense of both accomplishment and also exhaustion, and you'll also be dealing with the transition I mentioned before from the relative structure of knowledge consumption to the more open-ended structure of knowledge production. 
-
-The key here is to not allow yourself to be caught in an academic doldrums. You will have to dig deep to keep moving forward, but it will be worth it!
+The final stage of advancing to candidacy is the successful defense of the dissertation proposal. Since the dissertation proposal is highly contextualized by the dissertation process, let's talk about it in it's own section below.
 
 ### Dissertation
 
-Now that you have completed your exams and advanced to candidacy, it's dissertation time! This dissertation feels like (and is) a big thing - a major research project and manuscript taking a deep dive into a specific research question. While this can appear daunting, you have the support of your adviser and committee who should be providing feedback and guidance along the way. 
+Now that you have completed your exams, it's dissertation time! This dissertation feels like (and is) a big thing - a major research project and manuscript taking a deep dive into a specific research question. While this can appear daunting, you have the support of your adviser and committee who should be providing feedback and guidance along the way.
 
 #### Developing a Proposal
 
@@ -118,6 +116,14 @@ In addition to thinking about the contribution of subject matter expertise, it c
 
 It is also important to think about the specific role which committee members might play during the dissertation process. Your adviser's job is clear - they are your academic sherpa and helping you to manage the entire process. Next to yourself, they are accountable in making sure you are progressing and have adequate support. They are oftentimes the responsible party (PI) on your IRB. You are likely going to rely upon the subject-area knowledge of other committee members. It can be useful to have an intentional conversation with committee members about the role you want them to play. Yes, they will ultimately read and comment on your whole dissertation, but you may also ask committee members to focus on particular aspects of your work - methods, theory, implications for practice, etc. There's no right time to assign or delegate such roles, but it is often useful to do so around the time you start writing and have chapters or draft materials to share.
 
+#### Transitioning to Candidacy
+
+Once you complete your examination and dissertation proposal defense, you have completed the transition from a doctoral student to a doctoral candidate.
+
+This transition is an exciting one, but also a dangerous one. After you complete your exams and proposal defense, you will likely be feeling a sense of both accomplishment and also exhaustion, and you'll also be dealing with the transition I mentioned before from the relative structure of knowledge consumption to the more open-ended structure of knowledge production.
+
+The key here is to not allow yourself to be caught in an academic doldrums. You will have to dig deep to keep moving forward, but it will be worth it!
+
 #### Research and Writing
 
 It's off to the races! In reality as I've mentioned before you have likely already begun aspects of your dissertation research before you defended your proposal. You may have already sought IRB approval for aspects of your proposed research. You may need to submit an IRB protocol for review or amend an existing protocol to reflect new aspects of your project.
@@ -138,32 +144,33 @@ At the same time, it is valuable to regularly seek advice from your committee me
 
 #### The Defense
 
-Congratulations! You made it to the point where you have produced a manuscript, received feedback, and are prepared to defend your work. 
+Congratulations! You made it to the point where you have produced a manuscript, received feedback, and are prepared to defend your work.
 
 Like the qualifying exam, the dissertation defense can seem like a scary (or at least vulnerable) milestone. The defense is designed to do four things:
 
-1. The defense is an opportunity for your committee to review your work, provide feedback, and help you make changes to polish your description of what you've done and why it's important. 
-2. The defense is an opportunity for public celebration of your accomplishments. 
+1.  The defense is an opportunity for your committee to review your work, provide feedback, and help you make changes to polish your description of what you've done and why it's important.
 
-3. The defense ts an opportunity for your committee to review and certify that you have demonstrated the capacity for rigorous independent research.
+2.  The defense is an opportunity for public celebration of your accomplishments.
 
-4. The defense is a final formal occasion for your committee to provide feedback that looks at your next steps after you deposit your dissertation and prepare to graduate.
+3.  The defense ts an opportunity for your committee to review and certify that you have demonstrated the capacity for rigorous independent research.
+
+4.  The defense is a final formal occasion for your committee to provide feedback that looks at your next steps after you deposit your dissertation and prepare to graduate.
 
 A typical defense (at least in my department) will be scheduled for two hours and will consist of both a public component and a private component. When I am running a defense as an adviser, I typically expect that we will do the following:
 
-1. **Pre-Defense Conversation** (a week before the defense) - I will have a conversation with my advisee to talk about the structure and format of the defense and I may provide advice on what types of questions to anticipate from committee members. My advisee might share a draft version of their defense presentation and I will share feedback (typically, I request cuts to the number of slides included in the presentation). I will also typically reach out to each committee member before the defense to see if they have any major questions or concerns that we should talk about before the defense.
+1.  **Pre-Defense Conversation** (a week before the defense) - I will have a conversation with my advisee to talk about the structure and format of the defense and I may provide advice on what types of questions to anticipate from committee members. My advisee might share a draft version of their defense presentation and I will share feedback (typically, I request cuts to the number of slides included in the presentation). I will also typically reach out to each committee member before the defense to see if they have any major questions or concerns that we should talk about before the defense.
 
-2. **Introduction** - At the beginning of the defense, I will take a moment to say a few words about the work which my student has done and about their background. I will also allow each of the committee members to introduce themselves.
+2.  **Introduction** - At the beginning of the defense, I will take a moment to say a few words about the work which my student has done and about their background. I will also allow each of the committee members to introduce themselves.
 
-3. **Research Presentation** - now the floor is yours - at this point, my student will give a 20-25 minute presentation describing their dissertation research. This will cover the research rationale, background and literature, approach, results, and discussion of findings.
+3.  **Research Presentation** - now the floor is yours - at this point, my student will give a 20-25 minute presentation describing their dissertation research. This will cover the research rationale, background and literature, approach, results, and discussion of findings.
 
-4. **Community Questions** - I like to invite any members of the public present at the defense to ask questions they may have before I invite committee members to comment. It is often intimidating for guests to interject once committee members have started their comments. In general, most guests present haven't read your manuscript, so their questions will be based upon the narrative you provide during your research presentation. Typically these are pretty light and easy to answer (unless a friend or family member really wants to grill you on something). As an aside, this is a public celebration, so you should feel welcome to invite friends and family. Increasingly, we accommodate friends and family joining via Zoom, which is also a nice way to invite people in to the special moment.
+4.  **Community Questions** - I like to invite any members of the public present at the defense to ask questions they may have before I invite committee members to comment. It is often intimidating for guests to interject once committee members have started their comments. In general, most guests present haven't read your manuscript, so their questions will be based upon the narrative you provide during your research presentation. Typically these are pretty light and easy to answer (unless a friend or family member really wants to grill you on something). As an aside, this is a public celebration, so you should feel welcome to invite friends and family. Increasingly, we accommodate friends and family joining via Zoom, which is also a nice way to invite people in to the special moment.
 
-4. **Committee Questions** - After guests at your defense have the chance to ask questions, I will invite committee members to ask questions. At this point, you should be able to anticipate what types of questions each of your committee members might ask, based upon your past conversations and interactions around your dissertation. Again, assuming there aren't major holes in your dissertation research, these questions are usually more friendly than you might anticipate - the goal during your defense isn't to grill you, but rather to support and celebrate your work and accomplishments, and to develop evidence for the advice the committee will give you in private conversation.
+5.  **Committee Questions** - After guests at your defense have the chance to ask questions, I will invite committee members to ask questions. At this point, you should be able to anticipate what types of questions each of your committee members might ask, based upon your past conversations and interactions around your dissertation. Again, assuming there aren't major holes in your dissertation research, these questions are usually more friendly than you might anticipate - the goal during your defense isn't to grill you, but rather to support and celebrate your work and accomplishments, and to develop evidence for the advice the committee will give you in private conversation.
 
-5. **Committee Conversation** - After your committee members have asked all their questions and you have responded to them we will conclude the public portion of your defense. Guests will be asked to leave, and the doctoral candidate will also step out momentarily. The committee will then talk about defense results and guidance. There's two main questions on the table at this point - one, what are the results of the defense (pass, pass with revisions, fail); and, two, what feedback or guidance does the committee want to provide regarding how to finalize the dissertation. With regards to the overall exam results, the decision between pass and pass with revisions typically revolves around the extent of required revisions, and how comfortable the committee feels with allowing revisions to happen without further committee review. Typically an adviser would not allow you to schedule an exam if they saw an imminent risk of the result being fail (it would be cancelled and rescheduled after issues were addressed).
+6.  **Committee Conversation** - After your committee members have asked all their questions and you have responded to them we will conclude the public portion of your defense. Guests will be asked to leave, and the doctoral candidate will also step out momentarily. The committee will then talk about defense results and guidance. There's two main questions on the table at this point - one, what are the results of the defense (pass, pass with revisions, fail); and, two, what feedback or guidance does the committee want to provide regarding how to finalize the dissertation. With regards to the overall exam results, the decision between pass and pass with revisions typically revolves around the extent of required revisions, and how comfortable the committee feels with allowing revisions to happen without further committee review. Typically an adviser would not allow you to schedule an exam if they saw an imminent risk of the result being fail (it would be cancelled and rescheduled after issues were addressed).
 
-6. **Results** - after you have the chance to sweat for a while and the committee completes their deliberation and assembles their overall advice, the doctoral candidate will be invited back into the examination room to receive the results of their defense examination. Again, typically this will come in two parts - first (hopefully) a hearty congratulation followed by a summary of advice and feedback on the dissertation. Depending upon the nature of the advice and the extent of changes called for by the committee, they may decide that the student and adviser can handle them without further committee review, a particular committee member with a concern or question may request additional review around a component in question, or the whole committee may wish to review again before making a final determination on the dissertation.
+7.  **Results** - after you have the chance to sweat for a while and the committee completes their deliberation and assembles their overall advice, the doctoral candidate will be invited back into the examination room to receive the results of their defense examination. Again, typically this will come in two parts - first (hopefully) a hearty congratulation followed by a summary of advice and feedback on the dissertation. Depending upon the nature of the advice and the extent of changes called for by the committee, they may decide that the student and adviser can handle them without further committee review, a particular committee member with a concern or question may request additional review around a component in question, or the whole committee may wish to review again before making a final determination on the dissertation.
 
 #### Post Defense
 
@@ -171,18 +178,17 @@ Breathe! From the outside, it often looks like the defense is the last hurdle to
 
 Here are some of the common things which I see doctoral candidates having to revise following their defense:
 
-1. **Methods:** Details matter in methods section, and oftentimes by the time you conclude your dissertation, what you did doesn't quite line up with what you wrote in your methods section.
+1.  **Methods:** Details matter in methods section, and oftentimes by the time you conclude your dissertation, what you did doesn't quite line up with what you wrote in your methods section.
 
-2. **Discussion:** Discussions are hard to write, particularly when you have in-depth knowledge and command of your research. I often see students need to do some re-thinking and additional synthesis of their discussion following their defense.
+2.  **Discussion:** Discussions are hard to write, particularly when you have in-depth knowledge and command of your research. I often see students need to do some re-thinking and additional synthesis of their discussion following their defense.
 
-3. **Conclusion:** Conclusions are even harder to write than discussions! Oftentimes, it is very clear in the defense draft that the author doesn't really know what to say in their conclusion. Oftentimes this can be a good place to intertwine reflections on the research process, the knowledge gained, and the broader implications of the work.
+3.  **Conclusion:** Conclusions are even harder to write than discussions! Oftentimes, it is very clear in the defense draft that the author doesn't really know what to say in their conclusion. Oftentimes this can be a good place to intertwine reflections on the research process, the knowledge gained, and the broader implications of the work.
 
-4. **Font/End Matter:** Students completing a three paper dissertation often struggle to adequately develop their introductory and concluding portions of their dissertation. In particular, students fail to conceptualize how the three papers are interrelated and contribute knowledge addressing a particular overarching research question. Likewise, there's often under conceptualization in the concluding chapter regarding how the results from the three papers can be read together and what their implications are. 
+4.  **Font/End Matter:** Students completing a three paper dissertation often struggle to adequately develop their introductory and concluding portions of their dissertation. In particular, students fail to conceptualize how the three papers are interrelated and contribute knowledge addressing a particular overarching research question. Likewise, there's often under conceptualization in the concluding chapter regarding how the results from the three papers can be read together and what their implications are.
 
 The university typically has a deposit deadline by which all individuals looking to receive their degree in that semester must deposit a complete and correctly formatted dissertation manuscript, along with the signed committee result form from the dissertation defense. Typically, you can find such information on the Graduate College calendar.
 
 It is important to keep timing in mind here - even with meticulous attention to detail, it is likely that you will need a week or two to complete final edits and formatting of your dissertation manuscript for deposit. You also want to allow sufficient time for your department and the graduate college thesis reviewer to check and approve your thesis for deposit. It's easy to underestimate (or discount) the time this will take when you are scheduling your defense, so be forewarned and conscientious about this as you plan your deposit.
-
 
 ## Milestones
 
