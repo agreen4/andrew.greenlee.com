@@ -75,7 +75,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 10,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
@@ -459,7 +460,39 @@ Sep 15, 2022
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="Media" data-listing-date-sort="1591851600000" data-listing-file-modified-sort="1735666554567" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="8" data-categories="Media" data-listing-date-sort="1618808400000" data-listing-file-modified-sort="1735671634631" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="../talks/media/2021-04-19_Crisis/index.html"> <img src="../talks/media/2021-04-19_Crisis/crisis.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../talks/media/2021-04-19_Crisis/index.html">
+<h3 class="no-anchor listing-title">
+Historical context for housing crisis
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Media'); return false;">
+Media
+</div>
+</div>
+<a href="../talks/media/2021-04-19_Crisis/index.html">
+<div class="listing-description">
+<p>WJBC</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../talks/media/2021-04-19_Crisis/index.html">
+<div class="listing-date">
+Apr 19, 2021
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="9" data-categories="Media" data-listing-date-sort="1591851600000" data-listing-file-modified-sort="1735666554567" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="../talks/media/2020-06-11_Covid/index.html"> <img src="../talks/media/2020-06-11_Covid/173760.jpg" class="thumbnail-image"> </a></p>
 </div>
@@ -491,9 +524,9 @@ Jun 11, 2020
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="Media" data-listing-date-sort="1466830800000" data-listing-file-modified-sort="1735666380558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="10" data-categories="Media" data-listing-date-sort="1466830800000" data-listing-file-modified-sort="1735666380558" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
-<p><a href="../talks/media/2016-06-25_Housing/index.html"> <img src="../talks/media/2016-06-25_Housing/bga.png" class="thumbnail-image"> </a></p>
+<p><a href="../talks/media/2016-06-25_Housing/index.html"> <img data-src="../talks/media/2016-06-25_Housing/bga.png" class="thumbnail-image"> </a></p>
 </div>
 <div class="body">
 <a href="../talks/media/2016-06-25_Housing/index.html">
@@ -527,6 +560,9 @@ Jun 25, 2016
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
