@@ -1,0 +1,15 @@
+---
+title: "Cultural Asset Mapping in Central Illinois"
+description: "Sound Methods for a New World Symposium"
+date: 09-15-2022
+image: mapping.png
+categories: [Talks]
+draft: false
+sidebar: false
+---
+
+[Sound Methods for a New World](https://publish.illinois.edu/soundmethods/home/program/)
+
+```{=html}
+<iframe width="780" height="500" src="https://publish.illinois.edu/soundmethods/home/program/" title="Sound Methods for a New World"></iframe>
+```

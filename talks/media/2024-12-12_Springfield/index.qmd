@@ -1,0 +1,15 @@
+---
+title: "Springfield Gets a City Planner"
+description: "Illinois Times"
+date: 12-12-2024
+image: prichard.png
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+[Springfield gets a city planner](https://www.illinoistimes.com/news-opinion/springfield-gets-a-city-planner-19479381)
+
+```{=html}
+<iframe width="780" height="500" src="https://www.illinoistimes.com/news-opinion/springfield-gets-a-city-planner-19479381" title="Springfield Gets a New City Planner"></iframe>
+```

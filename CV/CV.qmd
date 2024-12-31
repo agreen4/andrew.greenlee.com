@@ -75,7 +75,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2021 -- Present
+2021 - Present
 :::
 
 ::: g-col-9
@@ -83,7 +83,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2021 -- Present
+2021 - Present
 :::
 
 ::: g-col-9
@@ -91,7 +91,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2021 -- 2023
+2021 - 2023
 :::
 
 ::: g-col-9
@@ -107,7 +107,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2012 -- 2016
+2012 - 2016
 :::
 
 ::: g-col-9
@@ -115,7 +115,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2011 -- 2012
+2011 - 2012
 :::
 
 ::: g-col-9
@@ -123,7 +123,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 :::
 
 ::: g-col-3
-2007 -- 2011
+2007 - 2011
 :::
 
 ::: g-col-9
@@ -327,9 +327,9 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 9.  Greenlee, Andrew J. 2022. "Tackling School and Housing Segregation Through AFFH: What do the Plans Say?" Presentation at the Public Housing Authorities Directors (PHADA) Annual Meeting (Virtual due to COVID-19 Pandemic)
 
-10.  Greenlee, Andrew J. 2022. "A Sequence-Based Analysis of Federal Housing Assistance Participation" Paper Presented at the Urban Affairs Association Annual Meeting (Washington, D.C.).
+10. Greenlee, Andrew J. 2022. "A Sequence-Based Analysis of Federal Housing Assistance Participation" Paper Presented at the Urban Affairs Association Annual Meeting (Washington, D.C.).
 
-11.  Greenlee Andrew J. 2020. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Virtual due to COVID-19 Pandemic).
+11. Greenlee Andrew J. 2020. "The Geography of (Actually Existing) Opportunity: Housing Choice as Capital?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Virtual due to COVID-19 Pandemic).
 
 12. Greenlee, Andrew J. 2019. "How Consistent are Racial Rent Premia in the Housing Choice Voucher Program?" Paper Presented at the Association of Collegiate Schools of Planning Annual Meeting (Greenville, South Carolina).
 
@@ -407,7 +407,7 @@ Bachelor of Arts in English and Sociology, Grinnell College
 
 ## Invited Lectures
 
-::::::::::::::::::::::::::::::::::::::::::: grid
+::::::::::::::::::::::::::::::::::::::::::::: grid
 ::: g-col-3
 October 18, 2024
 :::
@@ -575,7 +575,7 @@ May 16, 2009
 ::: g-col-9
 *The CHA Plan for Transformation's Impact on Homelessness.* Invited talk, The Hyde Park Transitional Housing Project Annual Meeting
 :::
-:::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::
 
 ## Courses Taught
 

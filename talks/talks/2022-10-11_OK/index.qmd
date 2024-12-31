@@ -1,0 +1,13 @@
+---
+title: "Unlocking the DNA of Healthy Housing and Equitable Neighborhoods"
+description: "University of Oklahoma"
+date: 10-1-2022
+image: ou.png
+categories: [Talks]
+draft: false
+sidebar: false
+---
+
+```{=html}
+<iframe class="pdf" src="Greenlee_OU.pdf" width=100%; height=70%>
+```

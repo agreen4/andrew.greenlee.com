@@ -17,6 +17,8 @@ website:
       - impact/impact.qmd
       - href: CV/CV.qmd
         text: CV
+      - href: talks/talks.qmd
+        text: Talks and Media
       - consulting/consulting.qmd
       
   sidebar:

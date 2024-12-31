@@ -1,0 +1,15 @@
+---
+title: "Opportunity Zones and Race"
+description: "American Tax Policy Institute Race and Tax PolicySymposium"
+date: 02-24-2023
+image: oz.png
+categories: [Talks]
+draft: false
+sidebar: false
+---
+
+[Race and Tax Policy Symposium](https://americantaxpolicyinstitute.org/race-and-tax-symposium/race-and-tax-symposium-agenda/)
+
+```{=html}
+<iframe width="780" height="500" src="https://americantaxpolicyinstitute.org/race-and-tax-symposium/race-and-tax-symposium-agenda/" title="Race and Tax Policy Symposium"></iframe>
+```

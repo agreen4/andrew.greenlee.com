@@ -1,0 +1,15 @@
+---
+title: "Affordable housing crisis has 'waitlist shoppers' across US vying for few Arizona vouchers"
+description: "AZ Central"
+date: 3-08-2023
+image: waitlist.png
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+[Affordable housing crisis has 'waitlist shoppers' across US vying for few Arizona vouchers](https://www.azcentral.com/in-depth/news/local/arizona/2023/03/08/affordable-housing-crisis-waitlist-shoppers-arizona-vouchers/8293656001/)
+
+```{=html}
+<iframe width="780" height="500" src="https://www.azcentral.com/in-depth/news/local/arizona/2023/03/08/affordable-housing-crisis-waitlist-shoppers-arizona-vouchers/8293656001/ title="Affordable housing crisis has 'waitlist shoppers' across US vying for few Arizona vouchers"></iframe>
+```

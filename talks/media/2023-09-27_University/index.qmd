@@ -1,0 +1,15 @@
+---
+title: "Unpacking the complex racial history of University Avenue"
+description: "Daily Illini"
+date: 9-27-2023
+image: University.png
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+[Unpacking the complex racial history of University Avenue](https://dailyillini.com/life_and_culture-stories/culture-diversity/2023/09/27/racial-history-university-avenue/)
+
+```{=html}
+<iframe width="780" height="500" src="https://dailyillini.com/life_and_culture-stories/culture-diversity/2023/09/27/racial-history-university-avenue/" title="Unpacking the complex racial history of University Avenue"></iframe>
+```

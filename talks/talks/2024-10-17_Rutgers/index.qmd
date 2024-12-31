@@ -1,0 +1,16 @@
+---
+title: "Emerging Perspectives from Research"
+description: "Rutgers Equity Alliance for Community Health Housing Conference"
+date: 10-18-2024
+image: reach.jpg
+categories: [Talks]
+draft: false
+sidebar: false
+---
+
+[Rutgers Equity Alliance for Community Health Housing Conference](https://rwv.rutgers.edu/housing-conference/)
+
+
+```{=html}
+<iframe width="780" height="500" src="https://rwv.rutgers.edu/housing-conference/" title="Rutgers Equity Alliance for Community Health Housing Conference"></iframe>
+```

@@ -1,0 +1,15 @@
+---
+title: "Housing instability undermines public health response to COVID-19 pandemic"
+description: "Illinois News Bureau"
+date: 6-11-2020
+image: 173760.jpg
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+[Housing instability undermines public health response to COVID-19 pandemic](https://news.illinois.edu/view/6367/809501)
+
+```{=html}
+<iframe width="780" height="500" src="https://news.illinois.edu/view/6367/809501" title="Housing instability undermines public health response to COVID-19 pandemic"></iframe>
+```

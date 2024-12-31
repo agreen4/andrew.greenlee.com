@@ -1,0 +1,15 @@
+---
+title: "Daley’s CHA Plan Jolted Region"
+description: "Chicago’s public housing divide, a Watchdogs / BGA special report"
+date: 6-25-2016
+image: bga.png
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+[Daley's CHA Plan Jolted Region](https://illinoisanswers.org/2016/06/25/daleys-cha-plan-jolted-region/)
+
+```{=html}
+<iframe width="780" height="500" src="https://illinoisanswers.org/2016/06/25/daleys-cha-plan-jolted-region/" title="Daley’s CHA Plan Jolted Region"></iframe>
+```
