@@ -9,17 +9,18 @@ website:
       - href: index.qmd
         text: Home
       - about/about.qmd
+      - href: talks/talks.qmd
+        text: Talks and Media
       - href: lab/lab.qmd
         text: Housing Lab
       - classes/classes.qmd
       - href: resources/resources.qmd
         text: Resources
+      - consulting/consulting.qmd
       - impact/impact.qmd
       - href: CV/CV.qmd
         text: CV
-      - href: talks/talks.qmd
-        text: Talks and Media
-      - consulting/consulting.qmd
+
       
   sidebar:
         title: "Resources"
