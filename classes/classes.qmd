@@ -7,6 +7,32 @@ format:
 sidebar: false
 ---
 
+## Fall 2025
+
+### UP 473: Housing and Urban Policy
+
+Housing represents a fundamental human need and a critical element of human settlements. Within the context of urban planning, housing represents one of the ways in which planning intervention has sought to ensure the health and safety of residents, while also bearing influence on the spatial, social, and economic relationships that differentiate housing and other land uses. Within this class, we will explore the policies and practices that constitute housing policy in the United States and abroad, in order to understand where and how planning strategies have been effective (and ineffective) at shaping physical, economic, social, and political dimensions of housing.
+
+By the end of this course, we will develop:
+
+1.  An understanding of the housing production and regulation system in the United States;
+2.  An understanding of historic and contemporary housing policy intervention strategies;
+3.  An understanding the intersection between housing policy and other urban policy initiatives;
+4.  A framework for evaluation and analysis of housing policies in the US and abroad;
+5.  Strategies for effective analysis and communication of housing policy trends and impacts.
+
+### UP 591: Capstone Seminar
+
+All MUP 2 students should register for 0 credit hours.
+
+The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester. All MUP 2 students take 0 credit hours of workshop in the spring.
+
+### UP 592: Doctoral Urban Planning Seminar
+
+Year 1 and 2 Ph.D. students should register for 0 credit hours.
+
+The Doctoral Urban Planning seminar is a platform for intellectual development for PhD students in the Department of Urban & Regional Planning and a medium for building a community of scholars. The seminars facilitate the exchange of ideas and perspectives among urban planning Ph.D. students and faculty. The seminar is intended to benefit doctoral students across all stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
+
 ## Spring 2025
 
 ### UP 510: Plan Making Workshop
