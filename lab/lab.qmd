@@ -25,7 +25,7 @@ Please contact us at [housinglab\@illinois.edu](mailto:housinglab@illinois.edu)
 
 ## Staff
 
-::: grid
+::::::::::::: grid
 ::: g-col-4
 ![](../about/greenlee.jpg){fig-alt="Picture of Dr. Andrew Greenlee"}
 :::
@@ -43,7 +43,7 @@ Andrew J. Greenlee Ph.D. is Professor in the Department of Urban and Regional Pl
 ::: g-col-8
 ### Emma Walters, MUP
 
-Emma Walters is a Project Manager in the Illinois Housing Lab and PhD candidate in the Department of Urban and Regional Planning at the University of Illinois at Urbana Champaign. She explores housing policy and community and economic development within the context of urban shrinkage. Through the intersection of housing policy, governance, and economic and demographic changes, Emma examines the socio-economic and political complexities of urban shrinkage and its relationship to stable, affordable housing and quality of life.
+Emma Walters is a Project Manager in the Illinois Housing Lab and PhD student in the Department of Urban and Regional Planning at the University of Illinois at Urbana Champaign. She explores housing policy and community and economic development within the context of urban shrinkage. Through the intersection of housing policy, governance, and economic and demographic changes, Emma examines the socio-economic and political complexities of urban shrinkage and its relationship to stable, affordable housing and quality of life.
 :::
 
 ::: g-col-4
@@ -53,7 +53,7 @@ Emma Walters is a Project Manager in the Illinois Housing Lab and PhD candidate 
 ::: g-col-8
 ### Vinisha Basnet
 
-Vinisha Singh Basnet is a doctoral candidate in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master's in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet's work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects' ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs' colonies, one of the first initiatives at UIUC, to facilitate possible future research.
+Vinisha Singh Basnet is a Ph.D. candidate in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master's in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet's work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects' ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs' colonies, one of the first initiatives at UIUC, to facilitate possible future research.
 :::
 
 ::: g-col-4
@@ -65,22 +65,11 @@ Vinisha Singh Basnet is a doctoral candidate in the Department of Urban and Regi
 
 Julia De Souza Campos Paiva is a Ph.D. student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
 :::
-
-::: g-col-4
-![](Petty_Jon.png){fig-alt="Picture of Jon Petty"}
-:::
-
-::: g-col-8
-### Jon Petty
-
-Jon Petty is a doctoral student in the Department of Urban and Regional Planning. His research interest explores innovative strategies that health care anchor institutions pursue to effectively engage low-income communities’ long-term social health conditions. Healthcare anchors are placed in a unique position to serve in a greater capacity beyond traditional medical health provision. The social avenues connected to holistic health broadens the basic needs of health anchor’s patients and relevant communities.
-:::
-
-:::
+:::::::::::::
 
 ## Former Housing Lab Staff
 
-::: grid
+::::::::: grid
 ::: g-col-4
 ![](Anagha-2048x2048.jpg){fig-alt="Picture of Anagha Devanarayanan"}
 :::
@@ -90,7 +79,15 @@ Jon Petty is a doctoral student in the Department of Urban and Regional Planning
 
 Anagha Devanarayanan's planning interests include housing and community development policy, grassroots community-led planning, and urban governance. Her research interest in housing policy stems from her curiosity to learn how government capacity and action impacts individual living conditions.
 :::
+::: g-col-4
+![](Petty_Jon.png){fig-alt="Picture of Jon Petty"}
+:::
 
+::: g-col-8
+### Jon Petty
+
+Jon Petty is a doctoral student in the Department of Urban and Regional Planning. His research interest explores innovative strategies that health care anchor institutions pursue to effectively engage low-income communities’ long-term social health conditions. Healthcare anchors are placed in a unique position to serve in a greater capacity beyond traditional medical health provision. The social avenues connected to holistic health broadens the basic needs of health anchor’s patients and relevant communities.
+:::
 ::: g-col-4
 ![](Sheikhfarshi.png){fig-alt="Picture of Shiva Sheikhfarshi"}
 :::
@@ -110,7 +107,7 @@ Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Plan
 
 David Wright is interested in learning more about housing-first solutions and linking urban and rural policy development through place-based narratives.
 :::
-:::
+:::::::::
 
 ## Projects
 
@@ -141,6 +138,10 @@ This evaluation reflects a novel partnership between policy advocates and resear
 #### Staff
 
 **Andrew Greenlee (PI)**, Illinois Housing Lab</br> **Sharon Legenza (PI)**, Housing Action Illinois</br> **Foluke Akanni**, Housing Action Illinois</br> **Mare Ralph**, Housing Action Illinois</br> **Anagha Devanarayanan**, Illinois Housing Lab</br> **Bob Palmer**, Housing Action Illinois</br> **Emma Walters**, Illinois Housing Lab</br> **David Wright**, Illinois Housing Lab</br>
+
+#### Publications
+
+Code Enforcement as a Tool for Safe, Equitable & Affordable Housing ([PDF](Reports/UIUC-HAI_CodeEnforcementReport_2024_web-compressed.pdf))
 
 ### Neighborhood Change, Structural Racism, and Health
 
@@ -180,7 +181,9 @@ Bed bugs have recently undergone a resurgence and inserted themselves into this 
 
 #### Publications
 
-[Spatiotemporal Trends in Bed Bug Metrics: New York City](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268798)</br> [Socioeconomic Drivers of Urban Pest Prevalence](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10096)
+[Spatiotemporal Trends in Bed Bug Metrics: New York City](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268798)</br> 
+
+[Socioeconomic Drivers of Urban Pest Prevalence](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10096)
 
 #### News
 
@@ -210,7 +213,7 @@ Texas Southern University Center of Excellence for Housing and Community Develop
 
 #### Staff
 
-Andrew Greenlee, <br> Rose Ravi Krishnan
+Andrew Greenlee, <br>
 
 ### Measuring Neighborhood-Level Affordable Housing Dynamics in the Boston Region
 
@@ -234,4 +237,5 @@ Outputs from this project include an [interactive web tool](https:/housinglab.sh
 
 #### Staff
 
-**Julia Paiva**</br> **Emma Walters**
+**Julia Paiva**</br> 
+**Emma Walters**
