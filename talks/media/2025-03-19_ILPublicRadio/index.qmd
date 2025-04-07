@@ -1,0 +1,21 @@
+---
+title: "Housing experts worry about federal plans to cut homelessness programs"
+description: "An IGPA Q and A with Andrew Greenlee"
+date: 03-19-2025
+image: nlihc.png
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+Andrew Greenlee, professor of urban and regional planning at the University of Illinois Urbana Champaign, leads the Urban Housing Lab there.
+
+“The prospect of more cuts and the uncertainty surrounding federal programs, “really is doing significant harm to to our ability to deliver that housing to people who desperately need it. And one other aspect of that that I think is increasingly important is that across the country, the profile of who is taking advantage of or participating in low income housing is also changing, increasingly the participants who are receiving the low income housing benefits are senior citizens.”
+
+While over the last decade, the low income population in the country has declined, so has the stock of available affordable housing, which has created a stubborn gap, he notes..
+
+“Essentially, part of the challenge here is that the circumstances facing low income renters really haven't changed terribly much over the last decade. So the same gap that we saw 10 years ago is the same gap that we're seeing today with regards to there being far more people looking for housing than there are affordable options to house them. So this is a chronic challenge for Illinois and for most all states …right now that really define one of the main issues in our national housing crisis,” Greenlee said.
+
+```{=html}
+<iframe width="780" height="500" src="https://www.nprillinois.org/illinois/2025-03-19/housing-experts-worry-about-federal-plans-to-cut-homelessness-programs" title="Housing experts worry about federal plans to cut homelessness programs"></iframe>
+```
