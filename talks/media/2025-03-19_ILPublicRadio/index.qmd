@@ -1,12 +1,13 @@
 ---
 title: "Housing experts worry about federal plans to cut homelessness programs"
-description: "An IGPA Q and A with Andrew Greenlee"
 date: 03-19-2025
 image: nlihc.png
 categories: [Media]
 draft: false
 sidebar: false
 ---
+
+[Illinois Public Radio Link](https://www.nprillinois.org/illinois/2025-03-19/housing-experts-worry-about-federal-plans-to-cut-homelessness-programs)
 
 Andrew Greenlee, professor of urban and regional planning at the University of Illinois Urbana Champaign, leads the Urban Housing Lab there.
 
