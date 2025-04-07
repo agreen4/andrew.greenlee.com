@@ -1,0 +1,42 @@
+---
+title: "The Socio-Spatial Ecology of Bed Bugs"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+sidebar: false
+---
+
+## Project Summary
+
+This project examines the residential environment as an integrated socio-environmental system. We focus on the relationship between bed bugs and housing as a tightly coupled system because humans are the primary host of bed bugs, and housing units are the primary location of bed bug infestations. Bed bug infestations require intensive treatment routines which have major financial consequences for property owners and occupants, and which also result in physical disruptions to the living environment. Since bed bugs can disperse actively by crawling in between housing units and passively by latching onto clothes, backpacks, and other easily carried items, infestations in multi-unit dwellings can rapidly grow in size, complexity, and cost to treat.
+
+Our work on bed bug infestations in Chicago (Sutherland et al., 2021) and New York (McLafferty et al. 2020) has shown that bed bugs are not evenly distributed across the socio-economic landscape. In Chicago, bed bug infestations are strongly associated with both income and crowding at the neighborhood level. Bed bug prevalence is higher in lower income neighborhoods with higher levels of household crowding. Further, we find that bed bug infestations are positively associated with eviction risk, further connecting bed bugs to issues of poverty and mobility. Bed bugs increase the disproportionate allocation of public health burdens upon neighborhoods facing multiple dimensions of disadvantage.
+
+Urban housing policy interventions traditionally engage three sets of institutions -- the state, the market, and the individual. The state sets regulations that govern the location and diversity of housing (zoning), and housing quality and occupancy standards (building codes) for housing. The state also uses incentives and sanctions to ensure that residential environments meet minimum standards, and also that market actors are fair in their treatment of housing consumers. In theory, the market supplies housing to meet the demands of housing consumers, and ensures housing stock diversity reflective of the needs of housing consumers. Market actors also serve as gatekeepers to housing opportunities and neighborhoods, which reflect push and pull factors for housing consumers. Households search for and consume housing that balances household needs, budgets, and access to neighborhood resources.
+
+Bed bugs have recently undergone a resurgence and inserted themselves into this system, potentially altering its behavior. Bed bugs cause changes in behavior of governments (policy), markets (rent) and individuals (moves), and in turn, these institutions affect bed bug population dynamics (population growth, dispersal, local extirpation, evolution of dispersal behavior and pesticide resistance). The recent resurgence of bed bugs has caused a range of local policy responses and debates. For instance, New York City is currently implementing disclosure policies that require landlords to notify prospective tenants whether their unit was previously treated for a bedbug infestation. Chicago's bedbug policies use an escalating fee structure to encourage landlords to treat infestations quickly once they are discovered. In other parts of the country, active policy debate and legislative advocacy is occurring regarding whether bed bug infestations should be considered either the tenant or landlord's responsibility to treat (Schneider 2019). Related to this debate are broader questions of how bed bug infestations contribute to household precarity and to elevated rates of eviction, particularly in low-income neighborhoods. By treating bed bugs and housing as an integrated social and environmental system, we seek to address several basic yet unanswered questions about the spatial and demographic determinants of bed bug prevalence. We then use the answers to these basic questions to examine how policy interventions may have intended and unintended consequences associated with the types of feedback processes we believe are inherent to this system.
+
+### Funder
+
+[National Socio-Environmental Synthesis Center](https://www.sesync.org)</br> [University of Illinois Center for Social and Behavioral Science](https://csbs.research.illinois.edu)</br> [Chancellor's Call to Action to Address Racism and Social Injustice](https://diversity.illinois.edu/antiracism-initiatives/research-program/funded-projects-2022/)
+
+### Partners
+
+[**Dr. Alison Hill**](https://www.bme.jhu.edu/people/faculty/alison-hill/), Johns Hopkins University</br> [**Dr. Michael Z. Levy**](https://www.med.upenn.edu/apps/faculty/index.php/g275/p6363868), University of Pennsylvania</br> [**Dr. Daniel Schneider**](https://urban.illinois.edu/people/profiles/daniel-schneider/), University of Illinois at Urbana-Champaign
+
+### Publications
+
+[Spatiotemporal Trends in Bed Bug Metrics: New York City](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268798)</br>
+
+[Socioeconomic Drivers of Urban Pest Prevalence](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10096)
+
+### News
+
+September 27, 2022 [UI Researchers, YouthBuild Team Up to Train Exterminators](https://www.news-gazette.com/news/local/university-illinois/ui-researchers-youthbuild-team-up-to-train-bedbug-exterminators/article_8f9b4d2e-7340-52dd-9c24-982df32a7250.html), *The News Gazette*
+
+### Staff
+
+**Vinisha Basnet**</br> **Emma Walters**

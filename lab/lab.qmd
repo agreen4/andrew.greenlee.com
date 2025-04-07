@@ -23,9 +23,62 @@ The Illinois Housing Lab is run by [Dr. Andrew Greenlee](https://urban.illinois
 
 Please contact us at [housinglab\@illinois.edu](mailto:housinglab@illinois.edu).
 
+## Recent Projects
+
+::::::::::::::: grid
+::: g-col-4
+2022 - Present
+:::
+
+::: g-col-8
+[Texas Assisted Housing Trajectory Study](Projects/2022_Texas%20Assisted%20Housing%20Trajectory/tsu.qmd)
+:::
+
+::: g-col-4
+2021 - Present
+:::
+
+::: g-col-8
+[Neighborhood Change, Structural Racism, and Health](Projects/2021_HFHS/hfhs.qmd)
+:::
+
+::: g-col-4
+2018 - Present
+:::
+
+::: g-col-8
+[The Socio-Spatial Ecology of Bed Bugs](Projects/2021_Bedbugs/bedbugs.qmd)
+:::
+
+::: g-col-4
+2024-2025
+:::
+
+::: g-col-8
+[Voorhees Gentrification Index Update](Projects/2024_VoorheesIPCE/neighchange.qmd)
+:::
+
+::: g-col-4
+2022-2024
+:::
+
+::: g-col-8
+[Measuring Neighborhood-Level Affordable Housing Dynamics in the Boston Region](Projects/2022_HNS/hns.qmd)
+:::
+
+::: g-col-4
+2021 - 2024
+:::
+
+::: g-col-8
+[The Ecology of Rental Housing Regulation in Illinois](Projects/2022_RWJF/rwjf.qmd)
+:::
+
+:::::::::::::::
+
 ## Staff
 
-::::::::::::: grid
+::::::::::: grid
 ::: g-col-4
 ![](../about/greenlee.jpg){fig-alt="Picture of Dr. Andrew Greenlee"}
 :::
@@ -65,11 +118,11 @@ Vinisha Singh Basnet is a Ph.D. candidate in the Department of Urban and Regiona
 
 Julia De Souza Campos Paiva is a Ph.D. student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
 :::
-:::::::::::::
+:::::::::::
 
 ## Former Housing Lab Staff
 
-::::::::: grid
+::::::::::: grid
 ::: g-col-4
 ![](Anagha-2048x2048.jpg){fig-alt="Picture of Anagha Devanarayanan"}
 :::
@@ -79,6 +132,7 @@ Julia De Souza Campos Paiva is a Ph.D. student in the Department of Urban and Re
 
 Anagha Devanarayanan's planning interests include housing and community development policy, grassroots community-led planning, and urban governance. Her research interest in housing policy stems from her curiosity to learn how government capacity and action impacts individual living conditions.
 :::
+
 ::: g-col-4
 ![](Petty_Jon.png){fig-alt="Picture of Jon Petty"}
 :::
@@ -88,6 +142,7 @@ Anagha Devanarayanan's planning interests include housing and community developm
 
 Jon Petty is a doctoral student in the Department of Urban and Regional Planning. His research interest explores innovative strategies that health care anchor institutions pursue to effectively engage low-income communities’ long-term social health conditions. Healthcare anchors are placed in a unique position to serve in a greater capacity beyond traditional medical health provision. The social avenues connected to holistic health broadens the basic needs of health anchor’s patients and relevant communities.
 :::
+
 ::: g-col-4
 ![](Sheikhfarshi.png){fig-alt="Picture of Shiva Sheikhfarshi"}
 :::
@@ -107,135 +162,4 @@ Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Plan
 
 David Wright is interested in learning more about housing-first solutions and linking urban and rural policy development through place-based narratives.
 :::
-:::::::::
-
-## Projects
-
-### The Ecology of Rental Housing Regulation in Illinois
-
-#### Project Summary
-
-Housing code enforcement has been described as "law in action" (Ross, 1995). Within the local government context, municipal code enforcement involves decision makers operating across a highly uneven and diverse tapestry of neighborhoods and living situations (Diver, 1980). Implicit in code enforcement practices is a blending of objective health and safety concerns with highly subjective social and cultural norms (Krieger, 2008). While code enforcement activities are vital for protecting individual and collective public health, safety, and wellbeing, the potential harms caused by implicit bias and differential treatment are great (Hirsch, 1983), and the material consequences and stakes grow increasingly higher, especially as cities adopt stronger nuisance and crime-free housing ordinances (Werth, 2013). Understanding the potential for bias within code enforcement systems brings up two important areas of concern: uneven enforcement and uneven outcomes.
-
-One set of concerns involves the discretion of local government code enforcement officials, who may enforce codes differently based upon the racial or socioeconomic status of tenants, landlords, or the neighborhood in which the property is located. In some cases, such differential enforcement may be desirable from an equity perspective -- it may recognize and help to minimize the impacts of hardships for tenants and landlords. Conversely, such discretion may increase housing instability, eviction, and displacement. Policy evaluation can help to uncover when and where such regulatory discretion is racialized, the consequences for tenants, landlords, and government, and the ways in which such discretion addresses or exacerbates local government and neighborhood equity concerns.
-
-The second area of immediate concern involves the contribution of code enforcement to evictions during the COVID-19 pandemic. Renters are currently protected by an uneven patchwork of federal, state, and local eviction moratoriums. While eviction moratoria provided protections for tenants from non-payment of rent, eviction for other reasons can proceed regardless of health and safety consequences despite evidence that evictions increase the spread of COVID (Nande, et al., 2021). Landlords may turn to justifications that are supported by nuisance or code enforcement violations as opposed to non-payment of rent as a lever to remove tenants amidst a continually evolving public health crisis (Layser, et al., 2021).
-
-In response to these two domains of concern, we evaluate local government rental property regulation and the application of nuisance and crime-free housing ordinances to assess the extent to which discretionary enforcement increases affordability, housing stability, and access to resource-rich neighborhoods, especially for people of color. Our goal is to use evaluation methods to inform code enforcement approaches that avoid targeting on the basis of race or income, avoid displacement, maintain affordable rental units, and provide landlords with opportunities to secure financial resources for property improvements. We propose conducting an in-depth comparative evaluation of the 28 local governments in Illinois with populations between 50,000 to 500,000, with the idea that variations observed in larger or smaller cities are likely to be more idiosyncratic or due to other complicating factors.
-
-![](code.png)
-
-This evaluation reflects a novel partnership between policy advocates and researchers that leverages Housing Action Illinois' connections with local communities, commitment to storytelling for change and centering the voices of people with lived experiences in their policy efforts, and a diverse practice-focused audience for evaluation findings, with University of Illinois' advanced housing policy research capacity and opportunities to train emerging policy practitioners and researchers. The evaluation brings together code enforcement stakeholders' perspectives to contextualize local trends associated with racial segregation, housing instability, and eviction -- all revealed as major issues for Illinois' cities outside of Chicago in a 2019 Governing Magazine investigation Segregation in the Heartland (Vock, Charles, and Maciag, 2019). We draw upon a combination of traditional policy evaluation techniques coupled with documentary video to develop policy-informed narratives to share with local governments, landlords, and tenants, but also with housing advocates and housing policy and legal researchers.
-
-#### Funder
-
-[Robert Wood Johnson Foundation Policies for Action](https://policiesforaction.org)</br> [Institute of Government and Public Affairs](https://igpa.uillinois.edu/research-scholar-initiatives/)
-
-#### Partners
-
-[Housing Action Illinois](https://housingactionil.org)
-
-#### Staff
-
-**Andrew Greenlee (PI)**, Illinois Housing Lab</br> **Sharon Legenza (PI)**, Housing Action Illinois</br> **Foluke Akanni**, Housing Action Illinois</br> **Mare Ralph**, Housing Action Illinois</br> **Anagha Devanarayanan**, Illinois Housing Lab</br> **Bob Palmer**, Housing Action Illinois</br> **Emma Walters**, Illinois Housing Lab</br> **David Wright**, Illinois Housing Lab</br>
-
-#### Publications
-
-Code Enforcement as a Tool for Safe, Equitable & Affordable Housing ([PDF](Reports/UIUC-HAI_CodeEnforcementReport_2024_web-compressed.pdf))
-
-### Neighborhood Change, Structural Racism, and Health
-
-#### Project Summary
-
-Structural and institutional racism remain integral parts of housing policy in the United States. High levels of racial and economic segregation expose some residents to more adverse conditions that have important social, economic, and physiological outcomes. This project examines the relationship between exposure to structural racism at the neighborhood level and health outcomes for both mothers and their babies. This project sets out to illustrate the relationship between neighborhood housing disparities and health disparities with important implication for the intergenerational transfer of health and wellbeing.
-
-![](health_cluster.png)
-
-#### Partners
-
-[**Dr. Christine Joseph**](https://www.henryford.com/physician-directory/j/joseph-christine), Henry Ford Health</br> [**Alexandra Sitarik**](https://www.researchgate.net/profile/Alexandra-Sitarik-2), Henry Ford Health</br> **Cheryl Miree**, Henry Ford Health</br> [**Dr. Ganesa Wegienka**](https://www.henryford.com/physician-directory/w/wegienka-ganesa), Henry Ford Health</br> [**Dr. Denise White-Perkins**](https://www.henryford.com/physician-directory/p/perkins-denise), Henry Ford Health
-
-#### Staff
-
-Andrew Greenlee
-
-### The Socio-Spatial Ecology of Bed Bugs
-
-#### Project Summary
-
-This project examines the residential environment as an integrated socio-environmental system. We focus on the relationship between bed bugs and housing as a tightly coupled system because humans are the primary host of bed bugs, and housing units are the primary location of bed bug infestations. Bed bug infestations require intensive treatment routines which have major financial consequences for property owners and occupants, and which also result in physical disruptions to the living environment. Since bed bugs can disperse actively by crawling in between housing units and passively by latching onto clothes, backpacks, and other easily carried items, infestations in multi-unit dwellings can rapidly grow in size, complexity, and cost to treat.
-
-Our work on bed bug infestations in Chicago (Sutherland et al., 2021) and New York (McLafferty et al. 2020) has shown that bed bugs are not evenly distributed across the socio-economic landscape. In Chicago, bed bug infestations are strongly associated with both income and crowding at the neighborhood level. Bed bug prevalence is higher in lower income neighborhoods with higher levels of household crowding. Further, we find that bed bug infestations are positively associated with eviction risk, further connecting bed bugs to issues of poverty and mobility. Bed bugs increase the disproportionate allocation of public health burdens upon neighborhoods facing multiple dimensions of disadvantage.
-
-Urban housing policy interventions traditionally engage three sets of institutions -- the state, the market, and the individual. The state sets regulations that govern the location and diversity of housing (zoning), and housing quality and occupancy standards (building codes) for housing. The state also uses incentives and sanctions to ensure that residential environments meet minimum standards, and also that market actors are fair in their treatment of housing consumers. In theory, the market supplies housing to meet the demands of housing consumers, and ensures housing stock diversity reflective of the needs of housing consumers. Market actors also serve as gatekeepers to housing opportunities and neighborhoods, which reflect push and pull factors for housing consumers. Households search for and consume housing that balances household needs, budgets, and access to neighborhood resources.
-
-Bed bugs have recently undergone a resurgence and inserted themselves into this system, potentially altering its behavior. Bed bugs cause changes in behavior of governments (policy), markets (rent) and individuals (moves), and in turn, these institutions affect bed bug population dynamics (population growth, dispersal, local extirpation, evolution of dispersal behavior and pesticide resistance). The recent resurgence of bed bugs has caused a range of local policy responses and debates. For instance, New York City is currently implementing disclosure policies that require landlords to notify prospective tenants whether their unit was previously treated for a bedbug infestation. Chicago's bedbug policies use an escalating fee structure to encourage landlords to treat infestations quickly once they are discovered. In other parts of the country, active policy debate and legislative advocacy is occurring regarding whether bed bug infestations should be considered either the tenant or landlord's responsibility to treat (Schneider 2019). Related to this debate are broader questions of how bed bug infestations contribute to household precarity and to elevated rates of eviction, particularly in low-income neighborhoods. By treating bed bugs and housing as an integrated social and environmental system, we seek to address several basic yet unanswered questions about the spatial and demographic determinants of bed bug prevalence. We then use the answers to these basic questions to examine how policy interventions may have intended and unintended consequences associated with the types of feedback processes we believe are inherent to this system.
-
-#### Funder
-
-[National Socio-Environmental Synthesis Center](https://www.sesync.org)</br> [University of Illinois Center for Social and Behavioral Science](https://csbs.research.illinois.edu)</br> [Chancellor's Call to Action to Address Racism and Social Injustice](https://diversity.illinois.edu/antiracism-initiatives/research-program/funded-projects-2022/)
-
-#### Partners
-
-[**Dr. Alison Hill**](https://www.bme.jhu.edu/people/faculty/alison-hill/), Johns Hopkins University</br> [**Dr. Michael Z. Levy**](https://www.med.upenn.edu/apps/faculty/index.php/g275/p6363868), University of Pennsylvania</br> [**Dr. Daniel Schneider**](https://urban.illinois.edu/people/profiles/daniel-schneider/), University of Illinois at Urbana-Champaign
-
-#### Publications
-
-[Spatiotemporal Trends in Bed Bug Metrics: New York City](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0268798)</br> 
-
-[Socioeconomic Drivers of Urban Pest Prevalence](https://besjournals.onlinelibrary.wiley.com/doi/10.1002/pan3.10096)
-
-#### News
-
-September 27, 2022 [UI Researchers, YouthBuild Team Up to Train Exterminators](https://www.news-gazette.com/news/local/university-illinois/ui-researchers-youthbuild-team-up-to-train-bedbug-exterminators/article_8f9b4d2e-7340-52dd-9c24-982df32a7250.html), *The News Gazette*
-
-#### Staff
-
-**Vinisha Basnet**</br> **Emma Walters**
-
-### Texas Assisted Housing Trajectory Study
-
-#### Project Summary
-
-Do Housing Choice Vouchers (HCVs) mitigate housing instability and displacement in Texas?
-
-We use administrative data from the HUD Family Report (Form 50058) to create longitudinal program participation histories for households who participated in the HCV Program between 2005 and 2022 in Texas’ major cities. These histories are cross-referenced with a suite of neighborhood-level sociodemographic and housing indicators, overlays for flood and inundation risk, and COVID-19 infection rates to understand the contribution of neighborhood-level factors.
-
-Through longitudinal spatial data analysis, the researchers will model a) the likelihood of a voucher-subsidized household moving as they relate to housing and non-housing neighborhood conditions, and b) the likelihood of moving to or from low-income neighborhoods. These models will help us to answer a set of question regarding whether housing vouchers help to mitigate housing instability due to both housing cost and other related factors.
-
-#### Funder
-
-Texas Southern University Center of Excellence for Housing and Community Development Policy Research (CEHCDPR)
-
-#### Partners
-
-Texas Southern University Center of Excellence for Housing and Community Development Policy Research (CEHCDPR)
-
-#### Staff
-
-Andrew Greenlee, <br>
-
-### Measuring Neighborhood-Level Affordable Housing Dynamics in the Boston Region
-
-#### Project Summary
-
-This project engages two major questions about housing affordability in the Boston region. It questions 1) what unique mixes of government actors are subsidizing housing for low-income individuals; and 2) how well regional Federal Fair Market Rent (FMR) standards align with the incomes of Boston residents, again at the neighborhood level.
-
-**Federal, State, and Local Actors:** The Boston region is served by a complex network of affordable housing subsidies, rules, and regulations drawing from federal, state, and local policy. There is a need to understand which programs are serving which neighborhoods, and how the number of subsidized units present at the neighborhood level has changed over time.
-
-**Fair Market Rent Standards:** The Boston region's Area Median Income (AMI) guides the rules for setting affordable rents within subsidized and inclusionary housing programs, yet the regional AMI is substantially different from the distribution of incomes at the city and neighborhood level.
-
-Outputs from this project include an [interactive web tool](https:/housinglab.shinyapps.io/affordable_boston/) to explore sources of affordable housing at the local level and a tool to explore multiple definitions of housing affordability at the neighborhood level.
-
-#### Funder
-
-[MIT Healthy Neighborhoods Study](https://hns.mit.edu)
-
-#### Partners
-
-[MIT Healthy Neighborhoods Study](https://hns.mit.edu)
-
-#### Staff
-
-**Julia Paiva**</br> 
-**Emma Walters**
+:::::::::::

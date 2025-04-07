@@ -1,0 +1,30 @@
+---
+title: "Texas Assisted Housing Trajectory Study"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+sidebar: false
+---
+
+## Project Summary
+
+Do Housing Choice Vouchers (HCVs) mitigate housing instability and displacement in Texas?
+
+We use administrative data from the HUD Family Report (Form 50058) to create longitudinal program participation histories for households who participated in the HCV Program between 2005 and 2022 in Texas’ major cities. These histories are cross-referenced with a suite of neighborhood-level sociodemographic and housing indicators, overlays for flood and inundation risk, and COVID-19 infection rates to understand the contribution of neighborhood-level factors.
+
+Through longitudinal spatial data analysis, the researchers will model a) the likelihood of a voucher-subsidized household moving as they relate to housing and non-housing neighborhood conditions, and b) the likelihood of moving to or from low-income neighborhoods. These models will help us to answer a set of question regarding whether housing vouchers help to mitigate housing instability due to both housing cost and other related factors.
+
+#### Funder
+
+Texas Southern University Center of Excellence for Housing and Community Development Policy Research (CEHCDPR)
+
+#### Partners
+
+Texas Southern University Center of Excellence for Housing and Community Development Policy Research (CEHCDPR)
+
+#### Staff
+
+Andrew Greenlee <br>
