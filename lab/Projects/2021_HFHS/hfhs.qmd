@@ -1,0 +1,28 @@
+---
+title: "Neighborhood Change, Structural Racism, and Health"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+sidebar: false
+---
+
+## Project Summary
+
+Structural and institutional racism remain integral parts of housing policy in the United States. High levels of racial and economic segregation expose some residents to more adverse conditions that have important social, economic, and physiological outcomes. This project examines the relationship between exposure to structural racism at the neighborhood level and health outcomes for both mothers and their babies. This project sets out to illustrate the relationship between neighborhood housing disparities and health disparities with important implication for the intergenerational transfer of health and wellbeing.
+
+![](health_cluster.png)
+
+### Partners
+
+[**Dr. Christine Joseph**](https://www.henryford.com/physician-directory/j/joseph-christine), Henry Ford Health </br> 
+[**Alexandra Sitarik**](https://www.researchgate.net/profile/Alexandra-Sitarik-2), Henry Ford Health </br> 
+**Cheryl Miree**, Henry Ford Health </br> 
+[**Dr. Ganesa Wegienka**](https://www.henryford.com/physician-directory/w/wegienka-ganesa), Henry Ford Health </br> 
+[**Dr. Denise White-Perkins**](https://www.henryford.com/physician-directory/p/perkins-denise), Henry Ford Health
+
+### Staff
+
+Andrew Greenlee

@@ -1,0 +1,34 @@
+---
+title: "Voorhees Gentrification Index Update"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+sidebar: false
+---
+
+## Project Summary
+
+The Voorhees Gentrification Index has been a useful research tool both to identify neighborhood change and to communicate a large amount of data in a way that is easy to understand, easy to use and to identify areas for further analysis. When introduced 18 years ago, and updated in 2015, it was used by many organizations and researchers as well as the media to succinctly identify communities in Chicago. This was also especially helpful in educating people about the components of the index and how to interpret different conditions in the context of historical data, while comparing them to the city as a whole and other community areas.
+
+The purpose of this ongoing research is to update the existing Voorhees Gentrification Index identifying not only Chicago community areas that show signs of change, but also illustrating neighborhood change at the census tract level. This allows for a more nuanced assessment of neighborhood change within community areas.
+
+Since the 1970s Chicago’s neighborhoods have undergone drastic transformations as a result of macro level socioeconomic shifts as well as local policy initiatives. Most striking are trends of rapid gentrification in particular neighborhoods contrasted starkly with neighborhoods that have experienced prolonged population loss disinvestment and marginalization building from our extensive experience using data in community research and engagement. The Voorhees Center will continue to help community leaders and activists understand how Chicago’s neighborhoods have changed overtime in order to develop effective strategies and policies to offset displacement and disinvestment.
+
+### Funder
+
+UIC Institute for Public and Community Engagement
+
+### Partners
+
+Dr. April Jackson, Nathalie P. Voorhees Center for Neighborhood and Community Improvement </br> Patrick Alcorn, Department of Urban Planning and Policy, University of Illinois at Chicago
+
+### Staff
+
+Andrew Greenlee <br>
+
+### Publications
+
+Gentrification Index Updated 2025 ([PDF](2025%20Gentrification%20Index.pdf))

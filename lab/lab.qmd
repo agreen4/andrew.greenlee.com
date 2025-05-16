@@ -1,0 +1,165 @@
+---
+title: "Illinois Housing Lab"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+sidebar: false
+---
+
+## Welcome
+
+Welcome to the Illinois Housing Lab -- our mission is to produce policy-informed research related to housing for communities throughout the United States, and beyond.
+
+We accomplish this mission by telling stories about people and places, and their connections to housing. Our storytelling involves a blend of rigorous quantitative data analysis, stakeholder narratives, and other digital storytelling tools to present the complexities of housing and neighborhoods in ways that are useful for research and accessible to policymakers and the public.
+
+The lab's official website is [here](https://housinglab.agreen4.web.illinois.edu).
+
+The Illinois Housing Lab is run by [Dr. Andrew Greenlee](https://urban.illinois.edu/people/profiles/andrew-greenlee/), Professor in the [Department of Urban and Regional Planning](https://urban.illinois.edu/).
+
+## Contact Us
+
+Please contact us at [housinglab\@illinois.edu](mailto:housinglab@illinois.edu).
+
+## Recent Projects
+
+::::::::::::::: grid
+::: g-col-4
+2022 - Present
+:::
+
+::: g-col-8
+[Texas Assisted Housing Trajectory Study](Projects/2022_Texas%20Assisted%20Housing%20Trajectory/tsu.qmd)
+:::
+
+::: g-col-4
+2021 - Present
+:::
+
+::: g-col-8
+[Neighborhood Change, Structural Racism, and Health](Projects/2021_HFHS/hfhs.qmd)
+:::
+
+::: g-col-4
+2018 - Present
+:::
+
+::: g-col-8
+[The Socio-Spatial Ecology of Bed Bugs](Projects/2021_Bedbugs/bedbugs.qmd)
+:::
+
+::: g-col-4
+2024-2025
+:::
+
+::: g-col-8
+[Voorhees Gentrification Index Update](Projects/2024_VoorheesIPCE/neighchange.qmd)
+:::
+
+::: g-col-4
+2022-2024
+:::
+
+::: g-col-8
+[Measuring Neighborhood-Level Affordable Housing Dynamics in the Boston Region](Projects/2022_HNS/hns.qmd)
+:::
+
+::: g-col-4
+2021 - 2024
+:::
+
+::: g-col-8
+[The Ecology of Rental Housing Regulation in Illinois](Projects/2022_RWJF/rwjf.qmd)
+:::
+
+:::::::::::::::
+
+## Staff
+
+::::::::::: grid
+::: g-col-4
+![](../about/greenlee.jpg){fig-alt="Picture of Dr. Andrew Greenlee"}
+:::
+
+::: g-col-8
+### Dr. Andrew Greenlee
+
+Andrew J. Greenlee Ph.D. is Professor in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. His research lies at the intersection of housing policy, poverty, and social equity within cities and regions. His current research examines neighborhood and metropolitan opportunity structures through residential mobility processes. Greenlee's other ongoing research examines the influence of governance on spatial outcomes for public and subsidized housing participants, and the dynamics of neighborhood change driven by urban renewal processes and public housing transformation.
+:::
+
+::: g-col-4
+![](emma-walters.jpg){fig-alt="Picture of Emma Walters"}
+:::
+
+::: g-col-8
+### Emma Walters, MUP
+
+Emma Walters is a Project Manager in the Illinois Housing Lab and PhD candidate in the Department of Urban and Regional Planning at the University of Illinois at Urbana Champaign. She explores housing policy and community and economic development within the context of urban shrinkage. Through the intersection of housing policy, governance, and economic and demographic changes, Emma examines the socio-economic and political complexities of urban shrinkage and its relationship to stable, affordable housing and quality of life.
+:::
+
+::: g-col-4
+![](basnet.jpg)
+:::
+
+::: g-col-8
+### Vinisha Basnet
+
+Vinisha Singh Basnet is a Ph.D. candidate in the Department of Urban and Regional Planning at UIUC and is simultaneously pursuing a master's in Entomology from School of Integrative Biology. Her work focuses on the intersection of human- insect entanglement, design-based intervention, and social equity in planning theories and practices. In her research, she explores how complex social-ecological systems (SES) can be navigated through multiple epistemologies for building collaborative and sustainable futures. Basnet's work addresses issues of environmental justice and sustainability through collaboration among communities, and government institutions. Her work is informed by insects' ecology, into the planning processes that precede design interventions. This has been the core of her research in past and present. Currently, her research on bed bugs is two-fold. She attempts to examine how bed bugs, in low-income neighborhood in the U.S., are embedded within complex social-ecological systems and how bed bugs alter the practices of different stakeholders. She is additionally working with [Medical Entomology Lab](https://medical-entomology.inhs.illinois.edu) at UIUC to investigate the efficacy of entomopathogenic fungus on bed bugs. For this she is in process of raising the bed bugs' colonies, one of the first initiatives at UIUC, to facilitate possible future research.
+:::
+
+::: g-col-4
+![](paiva.jpg){fig-alt="Picture of Julia De Souza Campos Paiva"}
+:::
+
+::: g-col-8
+### Julia De Souza Campos Paiva
+
+Julia De Souza Campos Paiva is a Ph.D. student in the Department of Urban and Regional Planning. She has a double major in Civil Engineering and Architecture-Urbanism from University of São Paulo, Brazil. She has worked in consultancy projects in housing, Real Estate, land policy, and transportation. Before starting her master's degree, she worked as a planning consultant for Inter-American Development Bank, in the division of Housing and Urban Development. Her international experience also encompasses one year study in Belgium, when she developed a research project in Mozambique, a research project in Ecuador and intensive short-term courses in the Netherlands and France.
+:::
+:::::::::::
+
+## Former Housing Lab Staff
+
+::::::::::: grid
+::: g-col-4
+![](Anagha-2048x2048.jpg){fig-alt="Picture of Anagha Devanarayanan"}
+:::
+
+::: g-col-8
+### Anagha Devanarayanan
+
+Anagha Devanarayanan's planning interests include housing and community development policy, grassroots community-led planning, and urban governance. Her research interest in housing policy stems from her curiosity to learn how government capacity and action impacts individual living conditions.
+:::
+
+::: g-col-4
+![](Petty_Jon.png){fig-alt="Picture of Jon Petty"}
+:::
+
+::: g-col-8
+### Jon Petty
+
+Jon Petty is a doctoral student in the Department of Urban and Regional Planning. His research interest explores innovative strategies that health care anchor institutions pursue to effectively engage low-income communities’ long-term social health conditions. Healthcare anchors are placed in a unique position to serve in a greater capacity beyond traditional medical health provision. The social avenues connected to holistic health broadens the basic needs of health anchor’s patients and relevant communities.
+:::
+
+::: g-col-4
+![](Sheikhfarshi.png){fig-alt="Picture of Shiva Sheikhfarshi"}
+:::
+
+::: g-col-8
+### Shiva Sheikhfarshi
+
+Shiva Sheikhfarshi is a PhD student in the Department of Urban and Regional Planning at the University of Illinois at Urbana-Champaign. Her research lies at the intersection of urban heat, social equity, and design-based policies and interventions. Through her work, she aims to examine how thermally comfortable and well-designed housing and neighborhoods can play a role in promoting health and equity and help to create more sustainable communities.
+:::
+
+::: g-col-4
+![](wright.png){fig-alt="Picture of David Wright"}
+:::
+
+::: g-col-8
+### David Wright
+
+David Wright is interested in learning more about housing-first solutions and linking urban and rural policy development through place-based narratives.
+:::
+:::::::::::

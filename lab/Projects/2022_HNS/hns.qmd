@@ -1,0 +1,32 @@
+---
+title: "Measuring Neighborhood-Level Affordable Housing Dynamics in the Boston Region"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+sidebar: false
+---
+
+## Project Summary
+
+This project engages two major questions about housing affordability in the Boston region. It questions 1) what unique mixes of government actors are subsidizing housing for low-income individuals; and 2) how well regional Federal Fair Market Rent (FMR) standards align with the incomes of Boston residents, again at the neighborhood level.
+
+**Federal, State, and Local Actors:** The Boston region is served by a complex network of affordable housing subsidies, rules, and regulations drawing from federal, state, and local policy. There is a need to understand which programs are serving which neighborhoods, and how the number of subsidized units present at the neighborhood level has changed over time.
+
+**Fair Market Rent Standards:** The Boston region's Area Median Income (AMI) guides the rules for setting affordable rents within subsidized and inclusionary housing programs, yet the regional AMI is substantially different from the distribution of incomes at the city and neighborhood level.
+
+Outputs from this project include an [interactive web tool](https:/housinglab.shinyapps.io/affordable_boston/) to explore sources of affordable housing at the local level and a tool to explore multiple definitions of housing affordability at the neighborhood level.
+
+### Funder
+
+[MIT Healthy Neighborhoods Study](https://hns.mit.edu)
+
+### Partners
+
+[MIT Healthy Neighborhoods Study](https://hns.mit.edu)
+
+### Staff
+
+**Julia Paiva** </br> **Emma Walters**

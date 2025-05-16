@@ -1,0 +1,14 @@
+---
+title: "Talks and Media"
+subtitle: "Recent talks, workshops, and media mentions."
+listing: 
+  contents:
+    - "media"
+    - "talks"
+  sort: "date desc"
+  type: default
+  categories: unnumbered
+  page-size: 10
+page-layout: full
+sidebar: false
+---

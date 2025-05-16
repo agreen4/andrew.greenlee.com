@@ -1,0 +1,19 @@
+---
+title: "Addressing Homelessness Without Punitive Measures"
+description: "An IGPA Q and A with Andrew Greenlee"
+date: 12-19-2024
+image: igpa.png
+categories: [Media]
+draft: false
+sidebar: false
+---
+
+[IGPA Q and A](https://igpa.uillinois.edu/in-the-news/qa-with-andrew-greenlee-addressing-homelessness-without-punitive-measures)
+
+Greenlee responds to the recent ordinance passed by the Peoria City Council to fine unhoused individuals for being in public spaces.
+
+The approved ban carries a warning prior to an initial citation. Fines for a first offense would be set at \$50-\$100 and would not be uncollected if there is no repeat violation. Subsequent offenses would see increased fines and potential jail terms of up to six months in jail. The new law goes into effect in January.
+
+```{=html}
+<iframe width="780" height="500" src="https://igpa.uillinois.edu/in-the-news/qa-with-andrew-greenlee-addressing-homelessness-without-punitive-measures" title="Q&A with Andrew Greenlee: Addressing homelessness without punitive measures"></iframe>
+```

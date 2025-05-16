@@ -1,0 +1,297 @@
+---
+title: "Impact"
+format:
+  html:
+    page-layout: full
+    toc: true
+    toc-depth: 4
+    smooth-scroll: true
+sidebar: false
+---
+
+## Advisees
+
+### Ph.D. in Regional Planning
+
+#### Current
+
+**Nadia Kim** (co-advisor with [Marc Doussard](https://urban.illinois.edu/people/profiles/marc-doussard/)) [{{< fa brands linkedin >}}]()
+
+**Julia de Souza Campos Paiva** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julia-paiva-098591157/)
+
+**Marwah Malik** (co-advisor with [Omar Perez-Figueroa](https://urban.illinois.edu/people/profiles/omar-perez-figueroa/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/marwahmaqbool/)
+
+**Jon Petty** (co-advisor with [Marc Doussard](https://urban.illinois.edu/people/profiles/marc-doussard/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jonathan-petty-phd-student-69151815/)
+
+**Shiva Sheikhfarshi** (co-advisor with [Fang Fang](https://urban.illinois.edu/people/profiles/fang-fang/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shiva-sheikhfarshi-38a8b1194/)
+
+**Emma Walters** [{{< fa brands linkedin >}}](https://www.linkedin.com/in/emmawalters/)
+
+**Tooma Zaghloul** (co-advisor with [Faranak Miraftab](https://urban.illinois.edu/people/profiles/faranak-miraftab/)) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tooma-zaghloul/)
+
+#### 2022
+
+**Natalie Prochaska**: At Another Crossroads: Mission vs. Market Lending and Risk Assessment in Chicago Community Development Loan Funds [{{< fa book >}}](https://hdl.handle.net/2142/117673) [{{< fa brands linkedin >}}](https://www.linkedin.com/in/natalie-prochaska-phd-250a0916/)
+
+#### 2021
+
+**Sowmya Balachandran**: Low-Income Homeownership for Intergenerational Mobility?: The Role of Intermediaries in Risk Mitigation [{{< fa book >}}](https://hdl.handle.net/2142/112969) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sowmyab2/) \| [{{< fa globe >}}](https://hps.unt.edu/sowmya-balachandran-phd)
+
+### Master of Urban Planning
+
+#### 2025
+
+**Shinmyeong Hyeon**
+Spatial accessibility to education under the age of aging and population decline: A case study of public schools in Chicago [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shinmyeong-hyeon-0569842ab/)
+
+**Anjana Nair [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anjanasnair1109/) and Aabha Sakhakar [{{< fa brands linkedin >}}](https://www.linkedin.com/in/aabha-sakharkar-2a191419a/)**
+Discovering Economic Development Opportunities with Renewable Energy 
+
+**Luisa Fernandes Vieira da Ponte** (co-advisor with [Faranak Miraftab](https://urban.illinois.edu/people/profiles/faranak-miraftab/)): Reframing Urban Sustainability Through the Perspective of Socio-Environmental Insurgent Practice
+
+**Zhenpeng Zhang**
+(co-advisor with [Fang Fang](https://cssh.northeastern.edu/faculty/fang-fang/)): Urban Heat Mitigation Effects and Housing Justice [{{< fa brands linkedin >}}](https://www.linkedin.com/in/zhenpeng-zhang-486449133/)
+
+#### 2024
+
+**Linda Derhak**: Rural Realities: An Environmental Justice Needs Assessment for Rural Illinois [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lindaderhak/)
+
+**Natalia Fic**: (co-advisor with Rolf Pendall) Understanding the Social Relationships Between Community Members and Their Local Governments: A Trauma-Informed Guidebook for Strong Neighborhood Cohesion [{{< fa brands linkedin >}}](https://www.linkedin.com/in/natalia-fic-uiuc/)
+
+**Prithvi Hegde**: Land Governance for Land-Based Commons in India: Policy Pathways for Peri-Urban Land in Kanataka [{{< fa brands linkedin >}}](https://www.linkedin.com/in/prithvihegde1/)
+
+**Samantha Hendrickson**: Clarendon Heights Master Plan [{{< fa brands linkedin >}}](https://www.linkedin.com/in/samantha-hendrickson-b8726b180/)
+
+**Jenifer Munmun**: Fostering Social Sustainability for Bangladeshi Community in Jackson Heights Through Sustainable Planning [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jenifer-munmun-231620ab/)
+
+**Julia de Souza Campos Paiva**: Assessing *Minha Casa Minha Vida* housing policy from a racial justice and equity perspective [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julia-paiva-098591157/?locale=en_US)
+
+**Rose Ravi Krishnan**: Housing After Hurricane in New Orleans [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rose-ravi-krishnan-014b99189/?originalSubdomain=in)
+
+**Trinity Lewis**: In Our Own Backyard: Housing Discrimination in Urbana, IL [{{< fa brands linkedin >}}](https://www.linkedin.com/in/trinity-lewis-2505571b0/)
+
+**Priyadarshini Satish**: Understanding the Integration of Equity with Transportation Resilience Planning [{{< fa brands linkedin >}}](https://www.linkedin.com/in/priya-satish/)
+
+**Shweta**: Empowering Legacies: The Rev. Dr. C.T. Vivian Center for Civic & Cultural Engagement [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shweta-179084101/)
+
+#### 2023
+
+**Anagha Devanarayanan**: Examining the role of government initiatives and community efforts to drive private investment in Chicago's Opportunity Zones [{{< fa book >}}](https://hdl.handle.net/2142/121530) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anagha-dev/)
+
+**Gaargi Kulkarni**: Connecting the dots -- Scenario Planning -- A Multimodal Transit- Oriented Development- What it means for MSY and the City of Kenner [{{< fa brands linkedin >}}](https://www.linkedin.com/in/gaargi-kulkarni-b87bbb95/)
+
+**Lesley Rivera**: Diversifying the Housing Stock in Belvidere, Illinois [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lesley-rivera/)
+
+**David Wright**: Planning and Permanent Supportive Housing Resource Guide: Fair Housing and Housing First [{{< fa brands linkedin >}}](https://www.linkedin.com/in/david-wright-41500b18a/)
+
+#### 2022
+
+**Arpita Banerjee**: A Disaster Planning Integration Toolkit for Rural Communities in Illinois [{{< fa book >}}](https://hdl.handle.net/2142/122298) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/arpita-banerjee-aa78b372/)
+
+**Rosario Barrera**: The Displacement of Noncitizens Across the City of Chicago [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rosario-barrera-840b68163/)
+
+**Iain Burns**: Shrinking Smart: Confronting Urban Decline in Decatur, IL [{{< fa book >}}](https://hdl.handle.net/2142/122300) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/iain-burns-34a08a249/)
+
+**Theresa Dunne**: A New Yorker's Nightmare: Examining the Relationship Between Bedbug Infestations and the Build Environment through New York City Disclosure Data [{{< fa book >}}](https://hdl.handle.net/2142/122302) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/theresa-dunne-666517b2/)
+
+**Jack Maszka**: Bridge to Home: Anti-Poverty Campaign with Cunningham Township [{{< fa book >}}](https://hdl.handle.net/2142/122766) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jack-maszka/)
+
+#### 2021
+
+**Yasamin Khoshpour**: Housing Insecurities in Champaign County, IL: An Overview on Insecurities Faced by Lowest Income Residents of Champaign, County, Illinois [{{< fa book >}}](https://hdl.handle.net/2142/111767) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yasaminkhoshpour/)
+
+**Frankie Lewington**: Supporting Indigenous Data Sovereignty: Improving Housing Outcomes for American Indian and Alaska Native (AIAN) Populations [{{< fa book >}}](https://hdl.handle.net/2142/111638) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/frankie-lewington-12b87a83/)
+
+**J.D. McClanahan**: A Housing Toolkit for Rural Illinois [{{< fa book >}}]() \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jd-mcclanahan/)
+
+**Emma Walters**: Considering Uncertain Futures in Shrinking Regions: Inventing, Reinventing, and Responding to Narratives Through Scenario Planning [{{< fa book >}}](https://hdl.handle.net/2142/113922) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/emmawalters/)
+
+**Molly Zupan**: Brownfields and Concentrated Industrial Land Use in Chicago's Southwest Side: A Case Study to Support City-Wide Environmental Justice Policy & Cross-Organizational Collaboration [{{< fa book >}}](https://hdl.handle.net/2142/111656) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/molly-z-287605b0/)
+
+#### 2020
+
+**Anna (An) Weaver**: Greater Riverdale, MD Place-Based Initiative [{{< fa book >}}](https://hdl.handle.net/2142/111629) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/anna-an3288/)
+
+**Caitlin Kelly**: Filling the Gaps: A Strategic Report on the State of Homelessness in Champaign County [{{< fa book >}}](https://hdl.handle.net/2142/108954) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/caitlin-kelly-50358b191/)
+
+**Alexis Stewart**: Borman Park Revitalization
+
+**Will Andresen**: Western Illinois River Valley Economic Development Strategy [{{< fa book >}}](https://hdl.handle.net/2142/108980)
+
+**Hunter Fillers**: Housing Strategies for Economic Development in Central Illinois [{{< fa book >}}](https://hdl.handle.net/2142/108953) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/hunterfillers/)
+
+**Munira Mithaiwala**: Water Equity in Chicago: An Exploratory Analysis of social Vulnerability and Water Rates in Northeasstern Illinois [{{< fa book >}}](https://hdl.handle.net/2142/108955) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/munira-mithaiwala/)
+
+#### 2019
+
+**Tessa Ferraro**: East Bayfront Neighborhood Plan [{{< fa book >}}](https://hdl.handle.net/2142/105554) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tessa-ferraro/)
+
+**Gabriel Guevara**: Grow Gillespie Action Plan [{{< fa book >}}](https://hdl.handle.net/2142/105541) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/gabriel-guevara-54766a178/)
+
+**Lindsey Miller**: Phoenix Rising: Neighborhood Resilience in Atlanta, GA [{{< fa brands linkedin >}}](https://www.linkedin.com/in/lindsey-miller-mup/)
+
+**Manabu Nagai**: Exploring the New Markets Tax Credit (NMTC) Projects in Chicago [{{< fa book >}}](https://hdl.handle.net/2142/105548)
+
+**Sushma Pramod** (co-advisor with [Dustin Allred](https://urban.illinois.edu/people/profiles/dustin-allred-aicp/)): "Affordable" Housing in New York City: A Case of Inclusionary Zoning in Greenpoint-Williamsburg [{{< fa book >}}](https://hdl.handle.net/2142/105688) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sushma-pramod-24b74765/)
+
+#### 2018
+
+**Patrick Ang**: Homeownership Ideals and Realities in Singapore
+
+**Matthew Buesing**: The Troubled Building Initiative (TBI): Recovering Chicago in the Face of Segregation, Population Decline, and the Housing Crisis [{{< fa book >}}](https://hdl.handle.net/2142/103845)
+
+**Alyssa Jaje**: Critical Home Repair in West Urbana: The Process of Program Creation in Partnership with Habitat for Humanity of Champaign County [{{< fa book >}}](https://hdl.handle.net/2142/103412) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/alyssa-j-78b4b7b5/)
+
+**Susan Martinez**: Complicating New York City's Housing Crisis: Forging Connections Between Displacement and Trauma in the South Bronx [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sumartinez/)
+
+#### 2017
+
+**Saumya Jain**: Eastgate Redevelopment: Village of Park Forest [{{< fa book >}}](https://hdl.handle.net/2142/98539) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/saumyajain92/)
+
+**Miriam Keep**: Local Responses to Slum Resettlement: The Case of Tamesna Morocco [{{< fa book >}}](https://hdl.handle.net/2142/98532) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/miriam-keep-2865437a/)
+
+**Joe Monahan**: Hustle City: Minority Entrepreneurship in North St. Louis [{{< fa book >}}](https://hdl.handle.net/2142/98528) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/joe-monahan-b7972469/)
+
+#### 2016
+
+**Tala Kammourieh**: Economic Impact Study of Affordable Housing Development in Dane County [{{< fa book >}}](https://hdl.handle.net/2142/95199) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tala-kammourieh/)
+
+**Mitch Margolis**: Obstacles to Socioeconomic Mobility for Germany's Turkish Population [{{< fa book >}}](https://hdl.handle.net/2142/91681) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/mitchellmargolis/)
+
+**Munguntuya Otgonjargal**: Building a National Vision for the Right to Housing in Mongolia [{{< fa book >}}](https://hdl.handle.net/2142/91682) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/munguntuyaotgonjargal/)
+
+**Alexandre Gomes Pereira**: Accounting for Income Mobility in Opportunity: Strategies for Improving Intergenerational Income Mobility for Subsidized Housing Residents in Northeast Ohio [{{< fa book >}}](https://hdl.handle.net/2142/91675) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/alexpereira1/)
+
+**Emma Tinsley**: Exclusionary Zoning in Southeast Michigan [{{< fa book >}}](https://hdl.handle.net/2142/91688) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/emmatinsley/)
+
+#### 2015
+
+**Carolina Chantrill**: Grand Calumet: Can Environmental Governance Explain Environmental Inequalities? [{{< fa book >}}](https://hdl.handle.net/2142/88113) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/carochantrill/)
+
+**Annie Contractor**: Greenwashing?: Throwing Sustainability Out With the Bathwater: The Displacement of Informal Settlements Through Green Displacement in Fortaleza, Brazil [{{< fa book >}}](https://hdl.handle.net/2142/78548) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/abcontractor/)
+
+**Juliana McMillan-Wilhoit**: WTF: Water Trouble Forecasting [{{< fa brands linkedin >}}](https://www.linkedin.com/in/julianamapper/)
+
+**Edwin Muller**: Creative Local Governance & Neighborhood Revitalization: Urban Informality Facilitating Inventive Community Development Strategies in Berlin, Germany and South Florida [{{< fa book >}}](https://hdl.handle.net/2142/79504) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/edwincarlos/)
+
+**Natalie Prochaska**: Bristol Place Neighborhood Plan: Urban Renewal in Post-Kelo Fiscal Policy Space [{{< fa book >}}](https://hdl.handle.net/2142/88121) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/natalie-prochaska-phd-250a0916/)
+
+**Woolack Kim**: How do Low-Income Housing Tax Credit projects trigger revitalization in shrinking cities? A case of St. Louis, MO [{{< fa book >}}](https://hdl.handle.net/2142/89092)
+
+#### 2014
+
+**Christopher Francis** and **Matthew Yoder**: Goreville Village Vision [{{< fa brands linkedin >}} Christopher Francis](https://www.linkedin.com/in/chris-francis-152a461b8/) \| [{{< fa brands linkedin >}} Matthew Yoder](https://www.linkedin.com/in/mattyoder/)
+
+**Jessica Kursman**: Politics of 'The Other' in the Global Neighborhood: The Role of Culture, Commodification, and Symbolic Space in Kreuzberg, Berlin [{{< fa book >}}](https://hdl.handle.net/2142/55218) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/jesskursman/)
+
+**Christina Aujean Lee**: Risky Business: The Foreclosure Crisis, Asian Americans, and Asian American-Serving Community-Based Organizations [{{< fa book >}}](https://hdl.handle.net/2142/50687) \| [{{< fa globe >}}](https://architecture.ou.edu/directory/lee/)
+
+**Ethan Tabakin**: Stability is the Key to Self-Sufficiency: Creating a Lease-to-Own Program for Baltimore's Public Housing High Rises [{{< fa book >}}](https://hdl.handle.net/2142/55216) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ethan-tabakin/)
+
+**Tyler Zwagerman**: Walking for Life: Addressing Health in Champaign's Pedestrian Plan [{{< fa book >}}](https://hdl.handle.net/2142/55220) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/tyler-zwagerman-3ab190a0/)
+
+#### 2013
+
+**Abigail (Belford) Lipsker**: Unity Is A Weapon Of The Poor: Nairobi Slum Dwellers Cooperatively Save for Housing Developments [{{< fa book >}}](https://hdl.handle.net/2142/45125) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/abbie-lipsker/)
+
+**Rachel Phillips**: Neighborhood Sustainability: A Case Study of Redevelopment in Bristol Place [{{< fa book >}}](https://hdl.handle.net/2142/45249) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rachel-phillips-aicp-81a78163/)
+
+#### 2012
+
+**Heidy Persaud** (co-advisor with [Stacy Harwood](https://faculty.utah.edu/u6019560-STACY_ANNE_HARWOOD/research/index.hml)): Evaluating The Chicago Housing Authority's 'Plan for Transformation': A Case Study of the Redevelopment of the Julia C. Lathrop Homes [{{< fa book >}}](https://hdl.handle.net/2142/55676) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/heidy-persaud-9b8890102/)
+
+## Committee Member
+
+### Master's Thesis
+
+#### 2020
+
+**Shafinaz Sameen**,"Refugee Women's Agency Through Everyday Space Appropriation: An Investigation Into Tohingya Women's 'Invisibility' in the Camps of Bangladesh." Master of Urban Planning. [{{< fa book >}}](https://hdl.handle.net/2142/108539) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/shafinaz-sameen-15b70919a/)
+
+#### 2019
+
+**Ashley Adams**, "Trends in Contraceptive Use in Tanzania, 1996-2016." University of Illinois at Urbana-Champaign. Master of Science in Community Health. [{{< fa book >}}](https://hdl.handle.net/2142/105229) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ashmadams/)
+
+**Adrienne Cooke**, "Stolen Wages, Stolen Lives: A Critical Analysis of the Fair Work Week Policy." Master of Urban Planning. [{{< fa book >}}](https://hdl.handle.net/2142/105081) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/adrienne-cooke-706886180/)
+
+**David Mischiu**, "Banking on Land: A Critical Review of Land Banking in the United States." Master of Urban Planning. [{{< fa book >}}](https://hdl.handle.net/2142/104921) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/david-mischiu-b066a06b/)
+
+#### 2018
+
+**Yiyuan Wang**, "Residential Location Choices of Millennials: Evidence From the Urbanized Area of Chicago", University of Illinois at Urbana-Champaign. Master of Urban Planning. [{{< fa book >}}](https://hdl.handle.net/2142/101235) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yiyuan-w-777315b8/)
+
+**Sukanya Sharma**, "Impact of Short Term Rentals on the Rental Affordability in San Francisco -- The Case of AirBnB." Master of Urban Planning. [{{< fa book >}}](https://hdl.handle.net/2142/101589) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/sharma-sukanya/)
+
+#### 2017
+
+**El (Erika) Katherine Lower**, "Examining the Social Amplification of Risk in Great Lakes Areas of Concern." University of Illinois at Urbana-Champaign. Master of Science in Natural Resources and Environmental Sciences. [{{< fa book >}}](https://hdl.handle.net/2142/99113)
+
+#### 2016
+
+**Kaitlyn Elise Tiegs Hornik**, "Process is Just as Critical as Results: Using Community-Based Participatory Research to Unite Environmental Justice and Sustainability." University of Illinois at Urbana-Champaign. Master of Science in Natural Resources and Environmental Sciences. [{{< fa book >}}](https://hdl.handle.net/2142/95248) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/kaitlynhornik/)
+
+#### 2015
+
+**Qianyu Li,** "A view of the Green Line: a renewal plan for visual experience in Chicago's South Side stations." University of Illinois at Urbana-Champaign. Master of Landscape Architecture. [{{< fa book >}}](https://hdl.handle.net/2142/88191) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/qianyu-qe-li-pla-4442848a/)
+
+#### 2012
+
+**Youngsung Lee**, "Are Land Use Planning and Gasoline Price Increase Mutually Supportive in Getting More Transit Riders in the U.S. Suburbanized Areas?," University of Illinois at Urbana-Champaign. Master of Urban Planning. [{{< fa book >}}](https://hdl.handle.net/2142/34504) \| [{{< fa globe >}}](https://www.geog.hku.hk/y-lee)
+
+### Dissertation
+
+#### Current
+
+**Vinisha Basnet**, University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/vinisha-singh-basnet-8720a81b0/)
+
+**Devin Goodson**, University of Illinois at Urbana-Champaign. Ph.D. in Natural Resources and Environmental Sciences.
+
+**Matthew Hiett**, University of Illinois at Urbana-Champaign. Ph.D. in Geography. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/matthewhiett/)
+
+**Michelle Hoereth**, University of Illinois at Chicago. Ph.D. in Educational Policy Studies.
+
+**Keith Miller**, "Impacts of Built Environment and Outdoor Air Quality on Neighborly Social Interaction: An Ethnographic Comparative Multiple Case Study of Compact, Diverse, Walkable Neighborhoods in Los Angeles," University of Illinois at Urbana-Champaign. Ph.D. in Architecture. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/keith-miller-5490a6109/)
+
+**Nina Roberts**, "Seeking the Urban Resilience Fix: Balancing Economic Growth, Climate Change, and Social Justice in Flagstaff, Arizona". University of Illinois at Urbana-Champaign. Ph.D. in Geography. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/nina-roberts-15775b17a/)
+
+#### 2024
+
+**Emily Rhoades**, "The Risk Factors and Outcomes of Unhoused Families with Child Welfare Investigations ". University of Illinois at Urbana-Champaign. Ph.D. in Social Work.
+
+**Kristy Ulrich Papcuzn**, "Giving Attention to Hauntings and Engaging with Ghosts: Portraits of Closed Schools in Chicago". University of Illinois at Chicago. Ph.D. in Educational Policy Studies.
+
+#### 2022
+
+**Ali Momen Heravi**, "Toward Healthier Affordable Housing: Innovations in Environmental Design Policy and Practice," University of Illinois at Urbana-Champaign. Ph.D. in Architecture. [{{< fa brands linkedin >}}](https://www.linkedin.com/in/ali-momen-heravi-phd-assoc-aia-edac-98431958/)
+
+#### 2019
+
+**Sergio Contreras Pinto**, "Three Essays on Mircoenterprises and Self-Employment," University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa book >}}](https://hdl.handle.net/2142/108245) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/scontrerasp/)
+
+**Yizhou Zhang**, "Essays on Driving Factors of Migration: From Regional to Metro Perspectives," University of Illinois at Urbana-Champaign. Ph.D. in Agricultural and Consumer Economics. [{{< fa book >}}](https://hdl.handle.net/2142/104773) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/yizhou-zhang-2501a856/)
+
+#### 2018
+
+**Andrew McMillan**, "Investing in the Post-Foreclosure Housing Market: How Neighborhood Characteristics and Real Estate Actors Affect Recovery." University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa book >}}](https://hdl.handle.net/2142/101708)
+
+**Rebecca Shakespeare**, "'Everything Around Me Has Skyrocketed:' Using Qualitative GIS to Understand Middle-Income Renters' Perceptions of Housing Price, Neighborhood Change, and (im)mobility in New York City," University of Illinois at Urbana-Champaign. Ph.D. in Geography. [{{< fa book >}}](https://hdl.handle.net/2142/105854) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/rshakesp/) \| [{{< fa globe >}}](https://facultyprofiles.tufts.edu/rebecca-shakespeare)
+
+#### 2016
+
+**Deniz Ay**, "Is It Possible to Plan Displacement-Free Urban Renewal?: A Comparative Analysis of the National Urban Renewal Program in Turkey," University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa book >}}](https://hdl.handle.net/2142/95469) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/deniz-ay-b1a8734/)
+
+**Esteban Lopez**, "Three Essays Revisiting Housing Issues on New Contexts: Demand for Housing Attributes, Housing Price Indices, and Location Choices Under Displacement," University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa book >}}](https://hdl.handle.net/2142/95556) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/esteban-lopez-ochoa-8a66bb122/) \| [{{< fa globe >}}](https://ceid.utsa.edu/team/esteban-lopez-ochoa-ph-d/)
+
+#### 2015
+
+**Han Bum Lee**, "Essays on the Economics of Public Housing Policy," University of Illinois at Urbana-Champaign. Ph.D. in Agricultural and Consumer Economics. [{{< fa book >}}](https://hdl.handle.net/2142/89126)
+
+**Claudia Mariella Vincentelo Lupa**, "Planning in Cyberenvironments: An Analysis of the Impacts of Open Data in Chicago," University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa book >}}](https://hdl.handle.net/2142/88187) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/claudia-vicentelo/)
+
+#### 2014
+
+**Yushu Zhu**, "Building a Community of Our Own: How Can The Built Environment Help?: Neighborhood Communal Space and Community Participation in Chinese Urban Communities," University of Illinois at Urbana-Champaign. Ph.D. in Architecture. [{{< fa book >}}](https://hdl.handle.net/2142/50438)
+
+#### 2013
+
+**Mallory Rahe**, "Building Prosperous Communities: The Effects of Social Capital, Financial Capital, and Place," University of Illinois at Urbana-Champaign. Ph.D. in Regional Planning. [{{< fa book >}}](https://hdl.handle.net/2142/44270) \| [{{< fa brands linkedin >}}](https://www.linkedin.com/in/mallory-rahe-452b6517/)

@@ -1,0 +1,45 @@
+---
+title: "Faculty Resources"
+format:
+  html:
+    page-layout: full
+    toc: true
+sidebar: true
+---
+
+Here are some resources that may prove useful for incoming (or longstanding) UIUC faculty, particularly those working in the applied or social sciences.
+
+## Research Development
+
+- [Maria Gillombardo](https://research.illinois.edu/staff/maria-gillombardo) – Senior Research Development Manager. All roads lead to Maria, so start with her
+
+- [Office of Research Advising and Project Development](https://research.illinois.edu/get-help-your-proposal/office-research-advising-and-project-development)
+OVCRI [Office of Proposal Development](https://proposal.illinois.edu/about-us/staff/)
+ 
+## Internal Funding (Social Sciences and Humanistic Social Sciences)
+
+- [UIUC Campus Research Board](https://crb.research.illinois.edu/programs/research-support-awards) -- Research Support Awards up to $30,000 to support projects
+
+- [UIUC Scholars Travel Fund](https://crb.research.illinois.edu/programs/scholars-travel-fund) -- Supports conference travel for presenting authors
+
+- Center for Advanced Studies Faculty [Fellows](https://cas.illinois.edu/fellows) (untenured) and  [Associates](https://cas.illinois.edu/associates) (tenured)  --  Competitive support for one semester of teaching release time to advance a scholarly or creative project
+
+- [Center for Social and Behavioral Sciences Small Grant Funding](https://csbs.research.illinois.edu/research-support/small-grant-program/) -- 18 month grants ranging from \$5,000 to \$30,000 for social science research
+
+- [IGPA Research Scholar Initiatives](https://igpa.uillinois.edu/funded-scholar-initiatives) -- competitive funding for development and dissemination of policy-relevant research
+
+- [Humanities Research Institute](https://hri.illinois.edu) -- has both [campus fellows](https://hri.illinois.edu/fellowships-research-support/campus-fellowships) and [summer fellows](https://hri.illinois.edu/fellowships-research-support/hri-summer-faculty-fellowships) program and also funds [reading groups](https://hri.illinois.edu/fellowships-research-support/reading-groups)
+
+## Computing and Data Analysis
+
+- [CyberGIS Center for Advanced Digital and Spatial Studies](https://cybergis.illinois.edu)               
+
+- National Center for Supercomputing Applications (NCSA) [Illinois Computes Program](https://www.ncsa.illinois.edu/about/illinois-computes/) -- competitive application for computing and storage resources as well as the technical expertise to advance research
+
+- [NCSA Faculty Fellows Program](https://www.ncsa.illinois.edu/about/fellowships-internships/ncsa-fellows-program/)
+ 
+## Logistics and Wellbeing
+ 
+- [UIUC Parking Office](https://www.parking.illinois.edu/permits-forms/faculty-staff-permits) -- Be forewarned that it can take months or years to get a spot in the lot of your choice
+
+- [Faculty / Staff Assistance and Well-Being Services](https://humanresources.illinois.edu/about/culture-learning-engagement/faculty-staff-assistance-and-well-being-services/) -- short-term counseling and crisis support for faculty and their families

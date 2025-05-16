@@ -1,0 +1,63 @@
+project:
+  type: website
+
+website:
+  title: "Andrew J. Greenlee, Ph.D."
+  google-analytics: "G-B1NBZ6RJHS"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about/about.qmd
+      - href: talks/talks.qmd
+        text: Talks and Media
+      - href: lab/lab.qmd
+        text: Housing Lab
+      - classes/classes.qmd
+      - href: resources/resources.qmd
+        text: Resources
+      - consulting/consulting.qmd
+      - impact/impact.qmd
+      - href: CV/CV.qmd
+        text: CV
+
+      
+  sidebar:
+        title: "Resources"
+        style: "floating"  
+        contents:
+            - text: "Resources"
+              file: "resources/resources.qmd"
+            - section: "Prospective Students"
+              contents:
+                - text: "Applying to Graduate Programs"
+                  file: resources/grad_admissions.qmd
+            - section: "Advisees"
+              contents:
+                - text: "Working with a Graduate Adviser"
+                  file: resources/adviser.qmd
+                - text: "Graduate Internships"
+                  file: resources/grad_internships.qmd
+                - text: "The MUP Capstone"
+                  file: resources/mup_capstone.qmd
+                - text: "Ph.D. Milestones"
+                  file: resources/phd_milestones.qmd
+            - section: "Faculty / Colleagues"
+              contents:
+                - text: "Navigating a Move to Chambana"
+                  file: resources/chambana.qmd
+                - text: "Faculty Resources"
+                  file: resources/faculty_res.qmd
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

@@ -1,0 +1,20 @@
+---
+title: "Consulting"
+format:
+  html:
+    page-layout: full
+    toc: false
+sidebar: false
+---
+
+::: grid
+::: g-col-6
+![](chicago.png)
+:::
+
+::: g-col-6
+I enjoy having the opportunity to apply my knowledge and skills across a range of settings. As the sole proprietor of Greenlee Consulting LLC, I am able to provide a range of services and expertise in both academic and applied settings.
+
+Please contact me to discuss your project or interests in more detail.
+:::
+:::
