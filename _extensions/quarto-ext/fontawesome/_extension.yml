@@ -1,10 +1,6 @@
 title: Font Awesome support
 author: Carlos Scheidegger
-<<<<<<< HEAD
 version: 1.2.0
-=======
-version: 1.1.0
->>>>>>> 9f2dab7377981e6f00f3726b3f8af9406fc70e04
 quarto-required: ">=1.2.269"
 contributes:
   shortcodes:
