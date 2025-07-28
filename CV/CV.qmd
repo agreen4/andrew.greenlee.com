@@ -17,7 +17,7 @@ Andrew Jordan Greenlee</br> Professor</br> Department of Urban and Regional Plan
 :::
 :::::
 
-Curriculum Vitae [{{< fa regular file-pdf >}}](GreenleeCV.pdf)
+Curriculum Vitae [{{< fa regular file-pdf >}}](Greenlee_CV.pdf)
 
 ## Education
 
