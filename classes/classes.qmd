@@ -21,7 +21,7 @@ Expected Outputs: Outputs from this workshop will include a polished professiona
 
 [Course Website](https://up5912526.netlify.app)
 
-All MUP 2 students should register for 0 credit hours.
+**All MUP 2 students should register for 0 credit hours.**
 
 The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester. All MUP 2 students take 0 credit hours of workshop in the spring.
 
@@ -49,7 +49,7 @@ By the end of this course, we will develop:
 
 ### UP 591: Capstone Seminar
 
-[Registration Link](https://courses.illinois.edu/schedule/2025/fall/UP/591) 
+[Registration Link](https://courses.illinois.edu/schedule/2025/fall/UP/591)
 
 [Course Website](https://up5912526.netlify.app)
 
