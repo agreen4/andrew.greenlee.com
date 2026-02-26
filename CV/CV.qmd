@@ -585,7 +585,7 @@ May 16, 2009
 
 ### University of Illinois at Urbana-Champaign
 
-:::::::::::::::::::::::::::::::::::::::::: grid
+::::::::::::::::::::::::::::::::::::::::::::: grid
 ::: g-col-2
 UP 101
 :::
@@ -695,6 +695,18 @@ Survey Design and Analysis
 :::
 
 ::: g-col-2
+UP 510
+:::
+
+::: g-col-5
+Plan Making Workshop
+:::
+
+::: g-col-5
+2025, 2026
+:::
+
+::: g-col-2
 UP 570
 :::
 
@@ -741,7 +753,7 @@ Doctoral Urban Planning Seminar
 ::: g-col-5
 2023, 2024
 :::
-::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::::::::::
 
 ### University of Illinois at Chicago
 
