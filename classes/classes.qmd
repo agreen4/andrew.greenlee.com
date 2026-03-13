@@ -7,6 +7,32 @@ format:
 sidebar: false
 ---
 
+## Fall 2026
+
+### UP 101: Introduction to City Planning
+
+[Course Catalog Entry](https://courses.illinois.edu/schedule/2026/fall/UP/101)
+
+In his book *The Culture of Cities*, Lewis Mumford describes the city as both a natural phenomenon as well as the direct reflection of a complex series of intentional practices. In this class, we will explore both historical and contemporary dimensions of how cities form and develop- and how human interventions shape these complex processes. We will then draw upon a diverse range of sources to examine the past, present, and future of cities by engaging four distinct yet interrelated themes environment, equity, economy, and culture. These themes will also help to structure your engagement with cities you are familiar with. Using our own experiences and knowledge, we will spend our time together examining how our minds take form in the city, and how cities shape and condition our minds.
+
+### UP 591: Capstone Seminar
+
+[Course Catalog Entry](https://courses.illinois.edu/schedule/2026/fall/UP/591)
+
+Course Website
+
+**All MUP 2 students should register for 0 credit hours.**
+
+The MUP Capstone Seminar is designed to structure and support the early stages of the 2-semester capstone sequence. Over the course of the seminar, students will structure their capstone project or thesis, develop a work plan, and develop a timeline and accountability strategy. By the end of the first semester workshop, students will complete project background work and develop a clear strategy for project completion and dissemination in the second semester. All MUP 2 students take 0 credit hours of workshop in the spring.
+
+### UP 592: Doctoral Seminar
+
+[Course Catalog Entry](https://courses.illinois.edu/schedule/2026/fall/UP/592)
+
+Year 1 and 2 Ph.D. students should register for 0 credit hours.
+
+The Doctoral Urban Planning seminar is a platform for intellectual development for PhD students in the Department of Urban & Regional Planning and a medium for building a community of scholars. The seminars facilitate the exchange of ideas and perspectives among urban planning Ph.D. students and faculty. The seminar is intended to benefit doctoral students across all stages in their research and doctoral studies, and provides a shared space for students to present their research and to solicit critical, yet constructive, peer reviews and advice.
+
 ## Spring 2026
 
 ### UP 510: Plan Making Workshop
